@@ -1,0 +1,31 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಈಗ/ಊಟದ/ಸಮಯ",
+      "",
+      "eatingmeals.png",
+      "ಈಗ_ಊಟದ_ಸಮಯ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಉದಯ/ಕಮಲರ/ಊಟ",
+      "",
+      "boygirleatingmeals.png",
+      "ಉದಯ_ಕಮಲರ_ಊಟ"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಅವರ/ಊಟ/ರಸಮಯ/ಊಟ",
+      "",
+      "boygirleatingmeals.png",
+      "ಅವರ_ಊಟ_ರಸಮಯ_ಊಟ.mp3"
+    ]
+  ]
+}

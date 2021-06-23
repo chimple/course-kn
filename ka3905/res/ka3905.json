@@ -1,0 +1,22 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಜಾಣ/ಬಾಲಕನ/ಗಾಯನ ",
+      "",
+      "boysinging.png",
+      "ಜಾಣ ಬಾಲಕನ ಗಾಯನ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಜನರ/ರಾಜ/ನಾಡ/ಮಹಾರಾಜಾ ",
+      "",
+      "king.png",
+      "ಜನರ ರಾಜ ನಾಡ ಮಹಾರಾಜಾ.mp3"
+    ]
+  ]
+}

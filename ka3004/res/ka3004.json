@@ -1,0 +1,52 @@
+{
+  "rows": [
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಕೂಡಿ",
+      "together.png",
+      "ಕೂಡಿ..mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಸಂಗ್ರಹಿಸು",
+      "gather.png",
+      "ಸಂಗ್ರಹಿಸು..mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಹಸಿವು",
+      "hungry.png",
+      "ಹಸಿವು.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ನಾಚು",
+      "shy.png",
+      "ನಾಚು.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ತಲೆತಗ್ಗಿಸು",
+      "hang down head.png",
+      "ತಲೆತಗ್ಗಿಸು.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ತಪ್ಪು",
+      "wrong.png",
+      "ತಪ್ಪು.mp3"
+    ]
+  ]
+}

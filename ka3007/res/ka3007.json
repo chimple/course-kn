@@ -1,0 +1,36 @@
+{
+  "rows": [
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ತಾವರೆ",
+      "lotus.png",
+      "ತಾವರೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಬಾಳೆಹಣ್ಣು",
+      "banana.png",
+      "ಬಾಳೆಹಣ್ಣು.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಕ್ಯಾರೆಟ್ಟು",
+      "carrot.png",
+      "ಕ್ಯಾರೆಟ್ಟು.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಕುಂಬಳ ",
+      "pumpkin.png",
+      "ಕುಂಬಳ.mp3"
+    ]
+  ]
+}

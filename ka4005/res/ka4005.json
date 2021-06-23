@@ -1,0 +1,22 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಶಶಿ/ಸವಿದ/ಸಿಹಿಯಾದ/ಪಾಯಸ",
+      "",
+      "girl/eat.png",
+      "ಶಶಿ ಸವಿದ ಸಿಹಿಯಾದ ಪಾಯಸ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ತಾತ/ಮಾರಿದ/ಹಸಿಹಸಿ/ತರಕಾರಿ",
+      "",
+      "vegetables.png",
+      "ತಾತ ಮಾರಿದ ಹಸಿಹಸಿ ತರಕಾರಿ.mp3 "
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "rows": [
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "6",
+      "ಕ",
+      "ಕ.mp3",
+      "ಕ",
+      "ಕ.mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಕ"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಕರ",
+      "hand.png",
+      "ಕರ.mp3"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "6",
+      "ಕಾ",
+      "ಕಾ.mp3",
+      "ಕ",
+      "ಕ.mp3",
+      "ಾ",
+      "ಾ.mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಕಾ"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಕಾಗೆ ",
+      "crow.png",
+      "ಕಾಗೆ .mp3"
+    ]
+  ]
+}

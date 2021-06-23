@@ -1,0 +1,22 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ರಾಜನ/ಕಿರೀಟ/ಮಣಿಗಳ/ಕಿರೀಟ",
+      "",
+      "crown.png",
+      "ರಾಜನ ಕಿರೀಟ ಮಣಿಗಳ ಕಿರೀಟ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಗೀತಳ/ಪೀಪಿ/ತಗಡಿನ/ಪೀಪಿ",
+      "",
+      "long/whistle.png",
+      "ಗೀತಳ ಪೀಪಿ ತಗಡಿನ ಪೀಪಿ.mp3 "
+    ]
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "rows": [
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "ಅ ",
+      "ಅ .mp3",
+      "ಅ ",
+      "ಅ .mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಅ "
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "ಆ",
+      "ಆ.mp3",
+      "ಆ",
+      "ಆ.mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಆ"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "ಇ ",
+      "ಇ .mp3",
+      "ಇ ",
+      "ಇ .mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಇ "
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "ಈ  ",
+      "ಈ  .mp3",
+      "ಈ  ",
+      "ಈ  .mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಈ  "
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "ಉ",
+      "ಉ.mp3",
+      "ಉ",
+      "ಉ.mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "ಉ"
+    ]
+  ]
+}
