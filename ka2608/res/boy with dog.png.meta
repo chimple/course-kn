@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86270734-6367-4c16-b180-990b1d65c436",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 8688,
+  "height": 5792,
+  "platformSettings": {},
+  "subMetas": {
+    "boy with dog": {
+      "ver": "1.0.4",
+      "uuid": "a7c05e78-690c-40b7-a530-6de255933818",
+      "rawTextureUuid": "86270734-6367-4c16-b180-990b1d65c436",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 8688,
+      "height": 5792,
+      "rawWidth": 8688,
+      "rawHeight": 5792,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "54d2c166-de14-45db-bd0a-2c1bf45f66ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4676,
+  "height": 3648,
+  "platformSettings": {},
+  "subMetas": {
+    "boyflyingkite": {
+      "ver": "1.0.4",
+      "uuid": "70b97ede-bac8-4eae-aaf0-11c844f5ea3c",
+      "rawTextureUuid": "54d2c166-de14-45db-bd0a-2c1bf45f66ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4676,
+      "height": 3648,
+      "rawWidth": 4676,
+      "rawHeight": 3648,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
