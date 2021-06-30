@@ -1,0 +1,31 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಗೀತಳ/ಪೀಪಿ/ತಗಡಿನ/ಪೀಪಿ",
+      "",
+      "long/whistle.png",
+      "ಗೀತಳ ಪೀಪಿ ತಗಡಿನ ಪೀಪಿ.mp3 "
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ನದಿಯ/ಬಳಿ/ಋಷಿಯ/ಕುಟೀರ",
+      "",
+      "rushi.png",
+      "ನದಿಯ ಬಳಿ ಋಷಿಯ ಕುಟೀರ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ತೂಗುವ/ಗೂಡಲಿ/ಮರಿಗಳ/ಬೀಡು",
+      "",
+      "bird/chicks.png",
+      "ತೂಗುವ ಗೂಡಲಿ ಮರಿಗಳ ಬೀಡು.mp3"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಗುರುಗಳು/ಹಾಡನು/ಹಾಡುವರು",
+      "",
+      "crown.png",
+      "ಗುರುಗಳು ಹಾಡನು  ಹಾಡುವರು.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ನದಿಯು/ಜುಳು/ಜುಳು/ಹರಿಯುವುದು",
+      "",
+      "long/whistle.png",
+      "ನದಿಯು ಜುಳು ಜುಳು ಹರಿಯುವುದು.mp3 "
+    ]
+  ]
+}

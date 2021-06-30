@@ -1,0 +1,22 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಘಟದ/ನೀರು/ಕುಡಿಯಲು/ಬಲು/ಖುಷಿ",
+      "",
+      "drink/water.png",
+      "ಘಟದ ನೀರು ಕುಡಿಯಲು ಬಲು ಖುಷಿ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಮಾವಿನ/ಫಲದ/ಪರಿಮಳ/ಘಮಘಮ",
+      "",
+      "mango.png",
+      "ಮಾವಿನ ಫಲದ ಪರಿಮಳ ಘಮಘಮ.mp3 "
+    ]
+  ]
+}

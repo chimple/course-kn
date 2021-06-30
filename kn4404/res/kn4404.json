@@ -1,0 +1,44 @@
+{
+  "rows": [
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಎಲೆ ",
+      "leaf.png",
+      "ಎಲೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಜಡೆ ",
+      "plait.png",
+      "ಜಡೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಬೆಲೆ ",
+      "price.png",
+      "ಬೆಲೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಮದುವೆ ",
+      "marriage.png",
+      "ಮದುವೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಗೆಳೆತನ ",
+      "friendship.png",
+      "ಗೆಳೆತನ.mp3"
+    ]
+  ]
+}

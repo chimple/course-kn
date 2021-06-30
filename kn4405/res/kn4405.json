@@ -1,0 +1,44 @@
+{
+  "rows": [
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಶಾಲೆ ",
+      "school.png",
+      "ಶಾಲೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಮಳೆ ",
+      "rain.png",
+      "ಮಳೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಹಣತೆ ",
+      "lamp.png",
+      "ಹಣತೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಕುದುರೆ ",
+      "horse.png",
+      "ಕುದುರೆ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ನೆಗೆದಾಟ ",
+      "jump.png",
+      "ನೆಗೆದಾಟ.mp3"
+    ]
+  ]
+}
