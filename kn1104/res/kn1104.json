@@ -129,7 +129,7 @@
       "Description",
       "ಬಸವನ/ಮಗ/ಅಮರ ",
       "",
-      "father/son.png",
+      "father_son.png",
       "ಬಸವನ_ಮಗ_ಅಮರ.mp3"
     ],
     [
@@ -138,7 +138,7 @@
       "Description",
       "ಗಗನ/ಕಂಡ",
       "",
-      "sunrise/sky.png",
+      "sunrise_sky.png",
       "ಗಗನ_ಕಂಡ.mp3"
     ],
     [
@@ -147,7 +147,7 @@
       "Description",
       "ಈಗ/ಉದಯದ/ಸಮಯ",
       "",
-      "sunrise/sky.png",
+      "sunrise_sky.png",
       "ಈಗ_ಉದಯದ_ಸಮಯ"
     ],
     [
@@ -156,7 +156,7 @@
       "Description",
       "ಗಗನ/ಚಂದ",
       "",
-      "sunrise/sky.png",
+      "sunrise_sky.png",
       "ಗಗನ_ಚಂದ.mp3"
     ],
     [
@@ -165,7 +165,7 @@
       "Description",
       "ಅಮರ/ಕಂಡ/ಗಗನ/ಚಂದ",
       "",
-      "boy/watching/sunrise.png",
+      "boy_watching_sunrise.png",
       "ಅಮರ_ಕಂಡ_ಗಗನ_ಚಂದ.mp3"
     ],
     [
@@ -183,7 +183,7 @@
       "Description",
       "ಜಗದ/ಜನ/ಕಂಡ/ಗಗನ/ಚಂದ",
       "",
-      "people/watch/sunrise.png",
+      "people_watch_sunrise.png",
       "ಜಗದ_ಜನ_ಕಂಡ_ಗಗನ_ಚಂದ.mp3"
     ],
     [
@@ -192,7 +192,7 @@
       "Description",
       "ಜನ/ಮನ/ಸಂತಸ  ",
       "",
-      "happy/people.png",
+      "happy_people.png",
       "ಜನ_ಮನ_ಸಂತಸ.mp3"
     ]
   ]

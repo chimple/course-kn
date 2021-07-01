@@ -20,7 +20,7 @@
       "*ಗ",
       "0",
       "0",
-      "spelling_body.png",
+      "body.png",
       "ಅಂಗ.mp3"
     ],
     [
@@ -43,7 +43,7 @@
       "*ಠ",
       "0",
       "0",
-      "spelling_throat.png",
+      "throat.png",
       "ಕಂಠ.mp3"
     ],
     [
@@ -54,7 +54,7 @@
       "ರಂ,ಗ",
       "ರಂ,ಗ",
       "ರಂಗ .mp3",
-      "arena/ring.png",
+      "arena_ring.png",
       "False",
       "False"
     ],
@@ -66,7 +66,7 @@
       "*ಗಳ",
       "0",
       "0",
-      "spelling_frontyard.png",
+      "frontyard.png",
       "ಅಂಗಳ.mp3"
     ],
     [
@@ -89,7 +89,7 @@
       "*ತಃಪುರ",
       "0",
       "0",
-      "spelling_queens/chamber.png",
+      "queens_chamber.png",
       "ಅಂತಃಪುರ.mp3"
     ]
   ]
