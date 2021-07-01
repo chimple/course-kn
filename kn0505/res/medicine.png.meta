@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b5477b26-7805-4df6-a503-9c65c15c35b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 5472,
+  "height": 3648,
+  "platformSettings": {},
+  "subMetas": {
+    "medicine": {
+      "ver": "1.0.4",
+      "uuid": "52cf3893-e45c-4aa8-a61e-440f7da4793c",
+      "rawTextureUuid": "b5477b26-7805-4df6-a503-9c65c15c35b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 5472,
+      "height": 3648,
+      "rawWidth": 5472,
+      "rawHeight": 3648,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

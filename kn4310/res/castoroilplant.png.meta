@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1d472327-d8cc-442a-af21-79e767119632",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 867,
+  "height": 1300,
+  "platformSettings": {},
+  "subMetas": {
+    "castoroilplant": {
+      "ver": "1.0.4",
+      "uuid": "1207f7c4-4ed0-44f1-9fea-34281d33dd20",
+      "rawTextureUuid": "1d472327-d8cc-442a-af21-79e767119632",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 867,
+      "height": 1300,
+      "rawWidth": 867,
+      "rawHeight": 1300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

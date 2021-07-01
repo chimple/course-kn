@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9eafb0c8-a491-4751-ab86-805cbb852e40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 871,
+  "platformSettings": {},
+  "subMetas": {
+    "monasteryl": {
+      "ver": "1.0.4",
+      "uuid": "2081a0fd-6895-4815-b7aa-29719ceda812",
+      "rawTextureUuid": "9eafb0c8-a491-4751-ab86-805cbb852e40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 871,
+      "rawWidth": 500,
+      "rawHeight": 871,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
