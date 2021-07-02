@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "113a8195-229a-4199-9792-0983b803088f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 750,
+  "platformSettings": {},
+  "subMetas": {
+    "agriculture": {
+      "ver": "1.0.4",
+      "uuid": "e51df6b5-6f8e-4fcc-aa53-b0d67cbcaddd",
+      "rawTextureUuid": "113a8195-229a-4199-9792-0983b803088f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 750,
+      "rawWidth": 500,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

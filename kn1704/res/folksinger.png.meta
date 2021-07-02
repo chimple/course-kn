@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "097cdad5-fea2-42a3-9ea2-79142af721b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3500,
+  "height": 2256,
+  "platformSettings": {},
+  "subMetas": {
+    "folksinger": {
+      "ver": "1.0.4",
+      "uuid": "0389cc99-58da-4e99-8bf8-7fe017cd3bac",
+      "rawTextureUuid": "097cdad5-fea2-42a3-9ea2-79142af721b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3500,
+      "height": 2256,
+      "rawWidth": 3500,
+      "rawHeight": 2256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
