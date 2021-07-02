@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "777d02bc-14e7-4201-8cbe-8cbab096621f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3631,
+  "height": 4842,
+  "platformSettings": {},
+  "subMetas": {
+    "boy_watching_sunrise": {
+      "ver": "1.0.4",
+      "uuid": "ff30340d-b13a-451b-8b09-8107a25a9167",
+      "rawTextureUuid": "777d02bc-14e7-4201-8cbe-8cbab096621f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3631,
+      "height": 4842,
+      "rawWidth": 3631,
+      "rawHeight": 4842,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

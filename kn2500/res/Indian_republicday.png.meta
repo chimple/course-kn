@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "21916e2f-7e29-4672-a1c5-258dbcc8b3b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4000,
+  "height": 6000,
+  "platformSettings": {},
+  "subMetas": {
+    "Indian_republicday": {
+      "ver": "1.0.4",
+      "uuid": "23ec14f4-c273-4397-8043-5e84d8c66a00",
+      "rawTextureUuid": "21916e2f-7e29-4672-a1c5-258dbcc8b3b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4000,
+      "height": 6000,
+      "rawWidth": 4000,
+      "rawHeight": 6000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

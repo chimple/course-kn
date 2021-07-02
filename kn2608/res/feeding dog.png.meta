@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "03271da8-3abc-45a5-82a7-a578c7cd292f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4000,
+  "height": 6000,
+  "platformSettings": {},
+  "subMetas": {
+    "feeding dog": {
+      "ver": "1.0.4",
+      "uuid": "398da47c-ff72-473e-8035-4bbdfb02dfc1",
+      "rawTextureUuid": "03271da8-3abc-45a5-82a7-a578c7cd292f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4000,
+      "height": 6000,
+      "rawWidth": 4000,
+      "rawHeight": 6000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

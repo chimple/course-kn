@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5cea4c8f-002b-4095-9681-bee69c5e199d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3888,
+  "height": 2592,
+  "platformSettings": {},
+  "subMetas": {
+    "karagafestival": {
+      "ver": "1.0.4",
+      "uuid": "4f7b689a-6b36-4737-93d1-7c9c261d5389",
+      "rawTextureUuid": "5cea4c8f-002b-4095-9681-bee69c5e199d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3888,
+      "height": 2592,
+      "rawWidth": 3888,
+      "rawHeight": 2592,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

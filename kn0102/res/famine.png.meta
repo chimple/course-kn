@@ -8,7 +8,7 @@
   "genMipmaps": false,
   "packable": true,
   "width": 1280,
-  "height": 853,
+  "height": 854,
   "platformSettings": {},
   "subMetas": {
     "famine": {
@@ -23,9 +23,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 1280,
-      "height": 853,
+      "height": 854,
       "rawWidth": 1280,
-      "rawHeight": 853,
+      "rawHeight": 854,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
