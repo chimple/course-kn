@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9a5d2794-cc0c-497c-97be-f8065f0f3348",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3504,
+  "height": 2336,
+  "platformSettings": {},
+  "subMetas": {
+    "mosque": {
+      "ver": "1.0.4",
+      "uuid": "cc9929b0-6f3c-4cd5-82b2-99103c4d8fcc",
+      "rawTextureUuid": "9a5d2794-cc0c-497c-97be-f8065f0f3348",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3504,
+      "height": 2336,
+      "rawWidth": 3504,
+      "rawHeight": 2336,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
