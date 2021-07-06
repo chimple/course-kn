@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b4327e38-b30b-4e12-ac99-687818892736",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 275,
+  "height": 183,
+  "platformSettings": {},
+  "subMetas": {
+    "ores": {
+      "ver": "1.0.4",
+      "uuid": "f2ff370e-0ae7-4884-a3a4-970a3e0f71f8",
+      "rawTextureUuid": "b4327e38-b30b-4e12-ac99-687818892736",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 275,
+      "height": 183,
+      "rawWidth": 275,
+      "rawHeight": 183,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
