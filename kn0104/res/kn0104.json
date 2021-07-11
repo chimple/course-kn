@@ -13,6 +13,45 @@
       "",
       "",
       "ಜ ವ ಮ ಬ ನ $ ರ ಗ ಸ ದ ಅ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜ",
+      "ಗ",
+      "ರ",
+      "ಅ",
+      "",
+      "",
+      "ಜ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ವ",
+      "ಅ",
+      "ಗ",
+      "ರ",
+      "",
+      "",
+      "ವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬ",
+      "ರ",
+      "ಅ",
+      "ಗ",
+      "",
+      "",
+      "ಬ.mp3"
     ]
   ]
 }

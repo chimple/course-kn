@@ -149,6 +149,45 @@
       "tree.png",
       "False",
       "False"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಜ",
+      "ಮ",
+      "ನ",
+      "ಜ",
+      "",
+      "_ವ",
+      "ಜವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನ",
+      "ನ",
+      "ಜ",
+      "ಮ",
+      "",
+      "_ಗರ",
+      "ನಗರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಮ",
+      "ಜ",
+      "ಮ",
+      "ನ",
+      "",
+      "_ರ",
+      "ಮರ.mp3"
     ]
   ]
 }

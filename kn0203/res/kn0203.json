@@ -5,110 +5,143 @@
       "1",
       "Description",
       "LEGIT",
-      "ಪಟ",
+      "ಪ,ಟ",
       "kite.png",
       "ball.png",
       "ಪಟ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ಚ"
+      "ಪ,ಟ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಪದರ",
+      "ಪ,ದ,ರ",
       "onionlayer.png",
       "apple.png",
       "ಪದರ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ಚ ದ ರ"
+      "ಪ,ದ,ರ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಯಮ",
+      "ಯ,ಮ",
       "yama.png",
       "shiva.png",
       "ಯಮ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ಯ ಚ"
+      "ಯ,ಮ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಉದಯ",
+      "ಉ,ದ,ಯ",
       "sunrise.png",
       "sky.png",
       "ಉದಯ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ದ ಯ ಚ"
+      "ಉ,ದ,ಯ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ನಯನ",
+      "ನ,ಯ,ನ",
       "eye.png",
       "nose.png",
       "ನಯನ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ನ ಚ"
+      "ನ,ಯ,ನ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಉಡ",
+      "ಉ,ಡ",
       "monitorlizard.png",
       "elephant.png",
       "ಉಡ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ಚ "
+      "ಉ,ಡ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಉರಗ",
+      "ಉ,ರ,ಗ",
       "snake.png",
       "dog.png",
       "ಉರಗ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ರ ಗ ಚ"
+      "ಉ,ರ,ಗ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಡಮಡಮ",
+      "ಡ,ಮ,ಡ,ಮ",
       "damru.png",
       "bell.png",
       "ಡಮಡಮ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ಮ ಚ"
+      "ಡ,ಮ,ಡ,ಮ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ನಟ",
+      "ನ,ಟ",
       "actor.png",
       "doctor.png",
       "ನಟ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ನ ಚ"
+      "ನ,ಟ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಚಮಚ",
+      "ಚ,ಮ,ಚ",
       "spoon.png",
       "plate.png",
       "ಚಮಚ.mp3",
-      "ಪ ಯ ಉ ಡ ಟ ಚ ಮ"
+      "ಚ,ಮ,ಚ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಪಟ",
+      "ಪಟ",
+      "ಯಮ",
+      "ನಯನ",
+      "kite.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಯಮ",
+      "ನಯನ",
+      "ಪಟ",
+      "ಯಮ",
+      "yama.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ನಯನ",
+      "ಯಮ",
+      "ನಯನ",
+      "ಪಟ",
+      "eye.png"
     ]
   ]
 }

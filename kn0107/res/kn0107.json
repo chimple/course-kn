@@ -95,6 +95,39 @@
       "ಜಗ",
       "world.png",
       "ಜಗ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ದವಸ",
+      "ದವಸ",
+      "ಬನ",
+      "ವನಜ",
+      "grains.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಬನ",
+      "ವನಜ",
+      "ದವಸ",
+      "ಬನ",
+      "garden.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ವನಜ",
+      "ಬನ",
+      "ವನಜ",
+      "ದವಸ",
+      "lotus.png"
     ]
   ]
 }

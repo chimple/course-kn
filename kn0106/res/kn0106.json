@@ -75,6 +75,45 @@
       "ವ.mp3",
       "ಸರ",
       "ಸರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮ+ನ",
+      "ನ+ವ",
+      "ವ+ರ",
+      "ಮ+ನ",
+      "",
+      "",
+      "ಮನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನ+ವ",
+      "ಮ+ನ",
+      "ನ+ವ",
+      "ವ+ರ",
+      "",
+      "",
+      "ನವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ವ+ರ",
+      "ವ+ರ",
+      "ಮ+ನ",
+      "ನ+ವ",
+      "",
+      "",
+      "ವರ.mp3"
     ]
   ]
 }

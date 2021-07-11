@@ -74,6 +74,45 @@
       "ನಗ",
       "money.png",
       "ನಗ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "people.png",
+      "people.png",
+      "city.png",
+      "tree.png",
+      "",
+      "",
+      "ಜನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "tree.png",
+      "city.png",
+      "tree.png",
+      "dasara.png",
+      "",
+      "",
+      "ಮರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "city.png",
+      "tree.png",
+      "city.png",
+      "people.png",
+      "",
+      "",
+      "ನಗರ.mp3"
     ]
   ]
 }

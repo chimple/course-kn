@@ -89,6 +89,45 @@
       "ಚದರ ",
       "100sqfeet.png",
       "ಚದರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "kite.png",
+      "actor.png",
+      "kite.png",
+      "spoon.png",
+      "",
+      "",
+      "ಪಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "actor.png",
+      "kite.png",
+      "spoon.png",
+      "actor.png",
+      "",
+      "",
+      "ನಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "spoon.png",
+      "spoon.png",
+      "actor.png",
+      "kite.png",
+      "",
+      "",
+      "ಚಮಚ.mp3"
     ]
   ]
 }

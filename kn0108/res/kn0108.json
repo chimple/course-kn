@@ -35,6 +35,45 @@
       "",
       "bigtree.png",
       "ವನದ ಮರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಅರಸರ ದಸರ",
+      "ಅರಸರ ದಸರ",
+      "ವನದ ಮರ",
+      "ಗರಗಸದ ಗರಗರ",
+      "",
+      "",
+      "ಅರಸರ ದಸರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "ನಗರದ ಜನ",
+      "ಅರಸರ ದಸರ",
+      "ಗರಗಸದ ಗರಗರ",
+      "ನಗರದ ಜನ",
+      "",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ವನದ ಮರ",
+      "ನಗರದ ಜನ",
+      "ವನದ ಮರ",
+      "ಗರಗಸದ ಗರಗರ",
+      "bigtree.png",
+      "",
+      "ವನದ ಮರ.mp3"
     ]
   ]
 }

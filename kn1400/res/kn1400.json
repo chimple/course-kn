@@ -5,11 +5,11 @@
       "1",
       "Description",
       "LEGIT",
-      "",
+      "ಅ,ಗ,ಸ",
       "sky.png",
       "ocean.png",
       "ಅಗಸ.mp3",
-      "ಅಗಚದಿರಸ "
+      "ಅ,ಗ,ಸ"
     ],
     [
       "rocket",
@@ -28,11 +28,11 @@
       "1",
       "Description",
       "LEGIT",
-      "ತಾರೆ",
+      "ತಾ,ರೆ",
       "star.png",
       "sun.png",
       "ತಾರೆ.mp3",
-      "ರಗಚದಿವಿ"
+      "ತಾ,ರೆ"
     ],
     [
       "rocket",
@@ -51,11 +51,11 @@
       "1",
       "Description",
       "LEGIT",
-      "ಮೋಡ",
+      "ಮೋ,ಡ",
       "clouds.png",
       "beach.png",
       "ಮೋಡ.mp3",
-      "ಗಮೋಚದಿಡ"
+      "ಮೋ,ಡ"
     ],
     [
       "rocket",
@@ -74,19 +74,19 @@
       "1",
       "Description",
       "LEGIT",
-      "ದೀಪ",
+      "ದೀ,ಪ",
       "lamp.png",
       "bell.png",
       "ದೀಪ.mp3",
-      "ದೀಚದಡಪ"
+      "ದೀ,ಪ"
     ],
     [
       "rocket",
       "1",
       "Description",
-      "ನೀರಿನ ಅಲೆ     ",
-      "ನೀರಿನ,ಅಲೆ     ",
-      "ನೀರಿನ,ಅಲೆ     ",
+      "ಅಲೆ     ",
+      "ಅ,ಲೆ     ",
+      "ಅ,ಲೆ     ",
       "ನೀರಿನ ಅಲೆ.mp3",
       "seawave.png",
       "False",

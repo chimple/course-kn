@@ -5,132 +5,165 @@
       "1",
       "Description",
       "LEGIT",
-      "ಜನ",
+      "ಜ,ನ",
       "people.png",
       "animals.png",
       "ಜನ.mp3",
-      "ಜ ವ ಮ ಬ ನ"
+      "ಜ,ನ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ವನ",
+      "ವ,ನ",
       "mini forest.png",
       "sea.png",
       "ವನ.mp3",
-      "ಜ ವ ಮ ಬ ನ"
+      "ವ,ನ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಮರ",
+      "ಮ,ರ",
       "tree.png",
       "stone.png",
       "ಮರ.mp3",
-      "ಜ ವ ಮ ಬ ರ"
+      "ಮ,ರ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಬನ",
+      "ಬ,ನ",
       "garden.png",
       "building.png",
       "ಬನ.mp3",
-      "ಜ ವ ಮ ಬ ನ"
+      "ಬ,ನ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ನಗರ",
+      "ನ,ಗ,ರ",
       "city.png",
       "forest.png",
       "ನಗರ.mp3",
-      "ಗ ವ ಮ ಬ ನ"
+      "ನ,ಗ,ರ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ವರ",
+      "ವ,ರ",
       "boon.png",
       "man.png",
       "ವರ.mp3",
-      "ಜ ವ ಮ ರ ನ"
+      "ವ,ರ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ನರ",
+      "ನ,ರ",
       "man.png",
       "girl.png",
       "ನರ.mp3",
-      "ಜ ವ ರ ಬ ನ"
+      "ನ,ರ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಜಗ",
+      "ಜ,ಗ",
       "world.png",
       "pond.png",
       "ಜಗ.mp3",
-      "ಜ ವ ಮ ಗ ನ"
+      "ಜ,ಗ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ವನಜ",
+      "ವ,ನ,ಜ",
       "lotus.png",
       "rose.png",
       "ವನಜ.mp3",
-      "ಜ ವ ಮ ಬ ನ"
+      "ವ,ನ,ಜ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಮಗ",
+      "ಮ,ಗ",
       "son.png",
       "daughter.png",
       "ಮಗ.mp3",
-      "ಗ ವ ಮ ಬ ನ"
+      "ಮ,ಗ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ಬಸವ",
+      "ಬ,ಸ,ವ",
       "bull.png",
       "elephant.png",
       "ಬಸವ.mp3",
-      "ಜ ವ ಸ ಬ ನ"
+      "ಬ,ಸ,ವ"
     ],
     [
       "openwindow",
       "1",
       "Description",
       "LEGIT",
-      "ನಗ",
+      "ನ,ಗ",
       "money.png",
       "fruits.png",
       "ನಗ.mp3",
-      "ಜ ವ ಮ ಗ ನ"
+      "ನ,ಗ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ವನಜ",
+      "ವನಜ",
+      "ಮಗ",
+      "ಬಸವ",
+      "lotus.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮಗ",
+      "ಬಸವ",
+      "ವನಜ",
+      "ಮಗ",
+      "son.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಬಸವ",
+      "ಮಗ",
+      "ಬಸವ",
+      "ವನಜ",
+      "bull.png"
     ]
   ]
 }
