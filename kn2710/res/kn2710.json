@@ -1,10 +1,13 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಗ್ಗ",
+      "**",
+      "0",
+      "0",
       "loom.png",
       "ಮಗ್ಗ.mp3"
     ],
@@ -35,10 +38,13 @@
       "ಚ್ಚ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹಚ್ಚಡ",
+      "***",
+      "0",
+      "0",
       "rag.png",
       "ಹಚ್ಚಡ.mp3"
     ],

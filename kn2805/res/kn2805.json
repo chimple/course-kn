@@ -13,10 +13,13 @@
       "ತ.mp"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹಸ್ತ",
+      "**",
+      "0",
+      "0",
       "hand.png",
       "ಹಸ್ತ.mp3"
     ],
@@ -135,10 +138,13 @@
       "ಯಾ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಉದ್ಯಾನ",
+      "***",
+      "0",
+      "0",
       "garden.png",
       "ಉದ್ಯಾನ.mp3"
     ]

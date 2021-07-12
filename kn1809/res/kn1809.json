@@ -12,10 +12,13 @@
       "ಮೃಡ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಭೃಂಗ",
+      "**",
+      "0",
+      "0",
       "bee.png",
       "ಭೃಂಗ.mp3"
     ],
@@ -46,18 +49,24 @@
       "ನ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶೃಂಗ",
+      "**",
+      "0",
+      "0",
       "peak.png",
       "ಶೃಂಗ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಘೃತ",
+      "**",
+      "0",
+      "0",
       "ghee.png",
       "ಘೃತ.mp3"
     ]

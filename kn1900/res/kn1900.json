@@ -29,26 +29,35 @@
       "ಪು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುರಿ",
+      "**",
+      "0",
+      "0",
       "sheep.png",
       "ಕುರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಗುರಿ",
+      "**",
+      "0",
+      "0",
       "aim.png",
       "ಗುರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬುಗುರಿ",
+      "***",
+      "0",
+      "0",
       "top.png",
       "ಬುಗುರಿ.mp3"
     ],

@@ -61,10 +61,13 @@
       "ರ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶ್ರವಣ",
+      "***",
+      "0",
+      "0",
       "hearing.png",
       "ಶ್ರವಣ.mp3"
     ],
@@ -81,10 +84,13 @@
       "ರ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕ್ರಮ",
+      "**",
+      "0",
+      "0",
       "in_order.png",
       "ಕ್ರಮ.mp3"
     ],
@@ -101,10 +107,13 @@
       "ರೀ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪ್ರೀತಿ",
+      "**",
+      "0",
+      "0",
       "affection.png",
       "ಪ್ರೀತಿ.mp3"
     ]

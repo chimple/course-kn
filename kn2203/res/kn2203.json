@@ -13,18 +13,24 @@
       "ರೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನೊರೆ",
+      "**",
+      "0",
+      "0",
       "lather.png",
       "ನೊರೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬೊಂಬೆ",
+      "**",
+      "0",
+      "0",
       "doll.png",
       "ಬೊಂಬೆ.mp3"
     ],

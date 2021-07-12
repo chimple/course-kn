@@ -13,16 +13,13 @@
       "ಿ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕಿ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಿಟಕಿ ",
+      "***",
+      "0",
+      "0",
       "window.png",
       "ಕಿಟಕಿ.mp3"
     ],
@@ -39,18 +36,23 @@
       "ೀ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೀ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೀಟ",
+      "**",
+      "0",
+      "0",
       "insect.png",
       "ಕೀಟ.mp3"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ಕ ",
+      "ಆ,ಇ,ಈ ",
+      "ಾ,ಿ,ೀ"
     ]
   ]
 }

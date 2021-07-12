@@ -1,74 +1,101 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೇಳು ",
+      "**",
+      "0",
+      "0",
       "ask.png",
       "ಕೇಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚೇಳು ",
+      "**",
+      "0",
+      "0",
       "scorpion.png",
       "ಚೇಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದೇವ ",
+      "**",
+      "0",
+      "0",
       "god.png",
       "ದೇವ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದೇಶ ",
+      "**",
+      "0",
+      "0",
       "nation.png",
       "ದೇಶ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮೇಲೆ ",
+      "**",
+      "0",
+      "0",
       "upon.png",
       "ಮೇಲೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚೇತನ ",
+      "***",
+      "0",
+      "0",
       "The spirit.png",
       "ಚೇತನ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸೇವಿಸು ",
+      "***",
+      "0",
+      "0",
       "eat.png",
       "ಸೇವಿಸು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬೇಟೆಗಾರ ",
+      "****",
+      "0",
+      "0",
       "hunter.png",
       "ಬೇಟೆಗಾರ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಜೇನುಹುಳು ",
+      "****",
+      "0",
+      "0",
       "bee.png",
       "ಜೇನುಹುಳು.mp3"
     ]

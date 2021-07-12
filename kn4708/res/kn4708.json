@@ -1,10 +1,13 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಝರಿ ",
+      "**",
+      "0",
+      "0",
       "stream.png",
       "ಝರಿ.mp3"
     ],
@@ -25,10 +28,13 @@
       "ಫಲಕ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಖನಿಜ ",
+      "***",
+      "0",
+      "0",
       "ores.png",
       "ಖನಿಜ.mp3"
     ],
@@ -41,10 +47,13 @@
       "ಪಠಣ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ವಠಾರ ",
+      "***",
+      "0",
+      "0",
       "commonplace.png",
       "ವಠಾರ.mp3"
     ],

@@ -13,16 +13,13 @@
       "ು.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕು"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುರಿ",
+      "**",
+      "0",
+      "0",
       "lamb.png",
       "ಕುರಿ.mp3"
     ],
@@ -39,16 +36,13 @@
       "ೂ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೂ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೂಸು",
+      "**",
+      "0",
+      "0",
       "baby.png",
       "ಕೂಸು.mp3"
     ],
@@ -65,18 +59,23 @@
       "ೃ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೃ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೃಪ",
+      "**",
+      "0",
+      "0",
       "grace.png",
       "ಕೃಪ.mp3"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ಕ ",
+      "ಉ,ಊ,ಋ  ",
+      "ು,ೂ,ೃ"
     ]
   ]
 }

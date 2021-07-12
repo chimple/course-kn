@@ -25,26 +25,35 @@
       "ನ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಗಿಳಿ",
+      "**",
+      "0",
+      "0",
       "parrot.png",
       "ಗಿಳಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಜಾಜಿ",
+      "**",
+      "0",
+      "0",
       "jasmine.png",
       "ಜಾಜಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಇಣಚಿ",
+      "***",
+      "0",
+      "0",
       "squirrel.png",
       "ಇಣಚಿ.mp3"
     ],

@@ -24,10 +24,13 @@
       "False"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಆಟ",
+      "**",
+      "0",
+      "0",
       "play.png",
       "ಆಟ.mp3"
     ],

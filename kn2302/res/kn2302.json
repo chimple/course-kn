@@ -25,18 +25,24 @@
       "ಲೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದೋಣಿ",
+      "**",
+      "0",
+      "0",
       "hundred.png",
       "ನೂರು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
-      "ಸಾರು  ",
+      "ಪೈಪು",
+      "**",
+      "0",
+      "0",
       "pipe.png",
       "ಪೈಪು.mp3"
     ],

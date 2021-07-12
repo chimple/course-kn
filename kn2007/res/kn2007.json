@@ -38,18 +38,24 @@
       "ಳೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪೇಟೆ",
+      "**",
+      "0",
+      "0",
       "city.png",
       "ಪೇಟೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬೇಟೆ",
+      "**",
+      "0",
+      "0",
       "hunt.png",
       "ಬೇಟೆ.mp3"
     ],

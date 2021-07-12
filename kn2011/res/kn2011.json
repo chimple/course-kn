@@ -36,18 +36,24 @@
       "ವ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮೈ",
+      "*",
+      "0",
+      "0",
       "body.png",
       "ಮೈ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬೈಗು",
+      "**",
+      "0",
+      "0",
       "dawn.png",
       "ಬೈಗು.mp3"
     ],

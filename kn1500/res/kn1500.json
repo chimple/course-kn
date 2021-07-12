@@ -31,10 +31,13 @@
       "ಾ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಾಗೆ ",
+      "**",
+      "0",
+      "0",
       "crow.png",
       "ಕಾಗೆ.mp3"
     ],
@@ -51,10 +54,13 @@
       "ಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಿಟಕಿ ",
+      "***",
+      "0",
+      "0",
       "window.png",
       "ಕಿಟಕಿ.mp3"
     ],
@@ -71,12 +77,13 @@
       "ೀ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೀಟ",
-      "insect.png",
-      "ಕೀಟ.mp3"
+      "**",
+      "0",
+      "0"
     ]
   ]
 }

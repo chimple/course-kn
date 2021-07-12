@@ -13,10 +13,13 @@
       "ೇ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೇಸರಿ",
+      "***",
+      "0",
+      "0",
       "lion.png",
       "ಕೇಸರಿ.mp3"
     ],
@@ -33,10 +36,13 @@
       "ೈ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೈ",
+      "*",
+      "0",
+      "0",
       "hand.png",
       "ಕೈ.mp3"
     ],
@@ -53,10 +59,13 @@
       "ೊ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೊಡ",
+      "***",
+      "0",
+      "0",
       "pot.png",
       "ಕೊಡ.mp3"
     ],
@@ -73,10 +82,13 @@
       "ೋ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೋತಿ ",
+      "**",
+      "0",
+      "0",
       "monkey.png",
       "ಕೋತಿ.mp3"
     ]

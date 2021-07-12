@@ -1,26 +1,35 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಆಕಳು",
+      "***",
+      "0",
+      "0",
       "cow.png",
       "ಆಕಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಇಣಚಿ",
+      "***",
+      "0",
+      "0",
       "squirrel.png",
       "ಇಣಚಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಉಂಗುರ",
+      "***",
+      "0",
+      "0",
       "ring.png",
       "ಉಂಗುರ.mp3"
     ],
@@ -33,10 +42,13 @@
       "ಅರಸ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಎಲೆ",
+      "**",
+      "0",
+      "0",
       "leaf.png",
       "ಎಲೆ.mp3"
     ],
@@ -49,10 +61,13 @@
       "ಮರ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಇಲಿ",
+      "**",
+      "0",
+      "0",
       "mouse.png",
       "ಇಲಿ.mp3"
     ]

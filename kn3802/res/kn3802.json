@@ -13,10 +13,13 @@
       "ಕಾಲು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತಿಂಡಿ",
+      "**",
+      "0",
+      "0",
       "snacks.png",
       "ತಿಂಡಿ.mp3"
     ],
@@ -33,10 +36,13 @@
       "ಳೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮುಖ",
+      "**",
+      "0",
+      "0",
       "face.png",
       "ಮುಖ.mp3"
     ],
@@ -55,10 +61,13 @@
       "ಕು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ರೋಗಾಣು",
+      "***",
+      "0",
+      "0",
       "germs.png",
       "ರೋಗಾಣು.mp3"
     ]

@@ -4,7 +4,7 @@
       "spelldoor",
       "1",
       "Description",
-      "ಕತೆ ",
+      "ಕತೆ",
       "*ತೆ ",
       "0",
       "0",
@@ -40,10 +40,13 @@
       "ಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕವಿತೆ",
+      "***",
+      "0",
+      "0",
       "poem.png",
       "ಕವಿತೆ.mp3"
     ],

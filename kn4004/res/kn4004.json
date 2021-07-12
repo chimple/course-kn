@@ -1,66 +1,90 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತಾಯಿ ",
+      "",
+      "",
+      "",
       "mom.png",
       "ತಾಯಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮರಿ ",
+      "",
+      "",
+      "",
       "babyanimal.png",
       "ಮರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಗಿರಾಕಿ ",
+      "",
+      "",
+      "",
       "buyer.png",
       "ಗಿರಾಕಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತರಕಾರಿ ",
+      "",
+      "",
+      "",
       "vegetables.png",
       "ತರಕಾರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಸಿ ",
+      "**",
+      "0",
+      "0",
       "sooth.png",
       "ಮಸಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಏರಿ ",
-      "",
+      "**",
+      "0",
+      "0",
+      "bund.png",
       "ಏರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚಿಲಕ ",
+      "***",
+      "0",
+      "0",
       "latch.png",
       "ಚಿಲಕ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶನಿವಾರ ",
+      "****",
+      "0",
+      "0",
       "saturday.png",
       "ಶನಿವಾರ.mp3"
     ]

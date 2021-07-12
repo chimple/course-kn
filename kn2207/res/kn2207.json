@@ -38,18 +38,24 @@
       "ಳ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮೋಡ",
+      "**",
+      "0",
+      "0",
       "clouds.png",
       "ಮೋಡ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ರೋಟಿ",
+      "**",
+      "0",
+      "0",
       "roti.png",
       "ರೋಟಿ.mp3"
     ],

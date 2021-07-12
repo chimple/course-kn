@@ -1,66 +1,90 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹುಳು ",
+      "**",
+      "0",
+      "0",
       "worm.png",
       "ಹುಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದುಡಿ ",
+      "**",
+      "0",
+      "0",
       "work.png",
       "ದುಡಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶುಚಿ ",
+      "**",
+      "0",
+      "0",
       "clean.png",
       "ಶುಚಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಡುಬು ",
+      "***",
+      "0",
+      "0",
       "kadubu.png",
       "ಕಡುಬು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನುಣುಪು ",
+      "***",
+      "0",
+      "0",
       "smooth.png",
       "ನುಣುಪು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಯುಗಾದಿ ",
+      "***",
+      "0",
+      "0",
       "yugadi.png",
       "ಯುಗಾದಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬಾವುಟ ",
+      "***",
+      "0",
+      "0",
       "flag.png",
       "ಬಾವುಟ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುರಿಮರಿ ",
+      "****",
+      "0",
+      "0",
       "lamb.png",
       "ಕುರಿಮರಿ.mp3"
     ]

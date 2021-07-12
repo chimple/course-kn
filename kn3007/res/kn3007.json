@@ -1,34 +1,46 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತಾವರೆ",
+      "***",
+      "0",
+      "0",
       "lotus.png",
       "ತಾವರೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬಾಳೆಹಣ್ಣು",
+      "****",
+      "0",
+      "0",
       "banana.png",
       "ಬಾಳೆಹಣ್ಣು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕ್ಯಾರೆಟ್ಟು",
+      "***",
+      "0",
+      "0",
       "carrot.png",
       "ಕ್ಯಾರೆಟ್ಟು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುಂಬಳ ",
+      "***",
+      "0",
+      "0",
       "pumpkin.png",
       "ಕುಂಬಳ.mp3"
     ]

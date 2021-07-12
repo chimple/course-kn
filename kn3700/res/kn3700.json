@@ -15,10 +15,13 @@
       "ಯ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚಿಕ್ಕಪ್ಪ",
+      "***",
+      "0",
+      "0",
       "man.png",
       "ಚಿಕ್ಕಪ್ಪ.mp3"
     ],
@@ -37,10 +40,13 @@
       "ಗೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸಂಜೆ",
+      "**",
+      "0",
+      "0",
       "evening.png",
       "ಸಂಜೆ.mp3"
     ],
@@ -59,10 +65,13 @@
       "ಸ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುಡಿ",
+      "**",
+      "0",
+      "0",
       "drink.png",
       "ಕುಡಿ.mp3"
     ]

@@ -1,50 +1,68 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೂಡಿ",
+      "**",
+      "0",
+      "0",
       "together.png",
       "ಕೂಡಿ..mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸಂಗ್ರಹಿಸು",
+      "***",
+      "0",
+      "0",
       "gather.png",
       "ಸಂಗ್ರಹಿಸು..mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹಸಿವು",
+      "***",
+      "0",
+      "0",
       "hungry.png",
       "ಹಸಿವು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನಾಚು",
+      "**",
+      "0",
+      "0",
       "shy.png",
       "ನಾಚು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತಲೆತಗ್ಗಿಸು",
+      "*****",
+      "0",
+      "0",
       "hang down head.png",
       "ತಲೆತಗ್ಗಿಸು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತಪ್ಪು",
+      "**",
+      "0",
+      "0",
       "wrong.png",
       "ತಪ್ಪು.mp3"
     ]

@@ -13,16 +13,13 @@
       "ೌ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೌ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೌದಿ ",
+      "**",
+      "0",
+      "0",
       "quilt.png",
       "ಕೌದಿ.mp3"
     ],
@@ -39,16 +36,13 @@
       "ಂ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕಂ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಂಬ",
+      "**",
+      "0",
+      "0",
       "pillar.png",
       "ಕಂಬ.mp3"
     ],
@@ -65,10 +59,12 @@
       "ಃ.mp3"
     ],
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಕಃ"
+      "ಕ ",
+      "ಔ,ಅಂ,ಅಃ ",
+      "ೌ,ಂ,ಃ"
     ]
   ]
 }

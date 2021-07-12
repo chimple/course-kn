@@ -1,10 +1,13 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅನ್ನ",
+      "**",
+      "0",
+      "0",
       "cookedrice.png",
       "ಅನ್ನ.mp3"
     ],
@@ -23,10 +26,13 @@
       "ಡ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತಮ್ಮ",
+      "**",
+      "0",
+      "0",
       "brother.png",
       "ತಮ್ಮ.mp3"
     ],
@@ -45,10 +51,13 @@
       "ರ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಉಯ್ಯಲೆ",
+      "***",
+      "0",
+      "0",
       "swing.png",
       "ಉಯ್ಯಲೆ.mp3"
     ],
@@ -65,10 +74,13 @@
       "ಯ್ಯ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಲ್ಲಿಗೆ",
+      "***",
+      "0",
+      "0",
       "jasmine.png",
       "ಮಲ್ಲಿಗೆ.mp3"
     ],

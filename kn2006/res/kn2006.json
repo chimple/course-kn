@@ -1,26 +1,35 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚೇಳು",
+      "**",
+      "0",
+      "0",
       "scorpion.png",
       "ಚೇಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಗೇರು",
+      "**",
+      "0",
+      "0",
       "cashew.png",
       "ಗೇರು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಜೇಡ",
+      "**",
+      "0",
+      "0",
       "spider.png",
       "ಜೇಡ.mp3"
     ],

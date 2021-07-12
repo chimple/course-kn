@@ -13,16 +13,13 @@
       "ೊ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೊ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೊಡೆ",
+      "**",
+      "0",
+      "0",
       "umbrella.png",
       "ಕೊಡೆ.mp3"
     ],
@@ -39,18 +36,23 @@
       "ೋ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೋ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೋಳಿ",
+      "**",
+      "0",
+      "0",
       "hen.png",
       "ಕೋಳಿ.mp3"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ಕ ",
+      "ಒ,ಓ ",
+      "ೊ,ೋ"
     ]
   ]
 }

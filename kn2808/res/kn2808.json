@@ -51,10 +51,13 @@
       "ವ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದೃಷ್ಟಿ",
+      "**",
+      "0",
+      "0",
       "vision.png",
       "ದೃಷ್ಟಿ.mp3"
     ],
@@ -71,10 +74,13 @@
       "ರ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ವಜ್ರ",
+      "**",
+      "0",
+      "0",
       "diamong.png",
       "ವಜ್ರ.mp3"
     ],
@@ -91,10 +97,13 @@
       "ರಾ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದ್ರಾಕ್ಷಿ",
+      "**",
+      "0",
+      "0",
       "grapes.png",
       "ದ್ರಾಕ್ಷಿ.mp3"
     ]

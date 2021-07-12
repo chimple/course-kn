@@ -47,18 +47,24 @@
       "ಗೃಹ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತೃಣ",
+      "**",
+      "0",
+      "0",
       "grass.png",
       "ತೃಣ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನೃಪ",
+      "**",
+      "0",
+      "0",
       "king.png",
       "ನೃಪ.mp3"
     ]

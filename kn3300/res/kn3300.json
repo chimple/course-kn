@@ -13,10 +13,13 @@
       "ದ್ಯ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬಿಸ್ಕೇಟ್ ",
+      "***",
+      "0",
+      "0",
       "Biscuit.png",
       "ಬಿಸ್ಕೇಟ್.mp3"
     ],
@@ -33,10 +36,13 @@
       "ಗ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚಾಕ್ಲೇಟ್",
+      "***",
+      "0",
+      "0",
       "Chocolate.png",
       "ಚಾಕ್ಲೇಟ್.mp3"
     ],
@@ -53,10 +59,13 @@
       "ಠ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶಾಲೆ ",
+      "**",
+      "0",
+      "0",
       "school.png",
       "ಶಾಲೆ.mp3"
     ]

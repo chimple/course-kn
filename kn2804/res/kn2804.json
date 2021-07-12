@@ -37,10 +37,13 @@
       "ಸ್ತಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುಸ್ತಿ",
+      "**",
+      "0",
+      "0",
       "wrestling.png",
       "ಕುಸ್ತಿ.mp3"
     ],
@@ -57,10 +60,13 @@
       "ತಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶಕ್ತಿ",
+      "**",
+      "0",
+      "0",
       "strong.png",
       "ಶಕ್ತಿ.mp3"
     ],
@@ -77,18 +83,24 @@
       "ತ.mp"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪುಸ್ತಕ",
+      "***",
+      "0",
+      "0",
       "book.png",
       "ಪುಸ್ತಕ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಸ್ತಕ",
+      "***",
+      "0",
+      "0",
       "brain.png",
       "ಮಸ್ತಕ.mp3"
     ]

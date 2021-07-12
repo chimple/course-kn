@@ -1,82 +1,112 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸೇಬು",
+      "**",
+      "0",
+      "0",
       "apple.png",
       "ಸೇಬು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬಾಳೆಹಣ್ಣು",
+      "****",
+      "0",
+      "0",
       "banana.png",
       "ಬಾಳೆಹಣ್ಣು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮವಿನಹಣ್ಣು",
+      "****",
+      "0",
+      "0",
       "mango.png",
       "ಮವಿನ ಹಣ್ಣು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದ್ರಾಕ್ಷಿ",
+      "**",
+      "0",
+      "0",
       "grapes.png",
       "ದ್ರಾಕ್ಷಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪರಂಗಿಹಣ್ಣು",
+      "*****",
+      "0",
+      "0",
       "papaya.png",
       "ಪರಂಗಿಹಣ್ಣು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸೀಬೆಹಣ್ಣು",
+      "****",
+      "0",
+      "0",
       "guava.png",
       "ಸೀಬೆ ಹಣ್ಣು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮೂಸಂಬಿ",
+      "***",
+      "0",
+      "0",
       "mosambi_citrus.png",
       "ಮೂಸಂಬಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸೀತಾಫಲ",
+      "****",
+      "0",
+      "0",
       "custard apple.png",
       "ಸೀತಾಫಲ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
-      "ಕಿತ್ತಳೆ ಹಣ್ಣು",
+      "ಕಿತ್ತಳೆಹಣ್ಣು",
+      "*****",
+      "0",
+      "0",
       "orange.png",
       "ಕಿತ್ತಳೆ ಹಣ್ಣು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದಾಳಿಂಬೆ",
+      "***",
+      "0",
+      "0",
       "pomegranate.png",
       "ದಾಳಿಂಬೆ.mp3"
     ]

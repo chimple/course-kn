@@ -13,18 +13,24 @@
       "ತಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೀಟ",
+      "**",
+      "0",
+      "0",
       "insect.png",
       "ಕೀಟ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ತೀರ",
+      "**",
+      "0",
+      "0",
       "riverbank.png",
       "ತೀರ.mp3"
     ],

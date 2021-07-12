@@ -13,10 +13,13 @@
       "ಕಾ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನಮಸ್ಕಾರ",
+      "****",
+      "0",
+      "0",
       "namaste.png",
       "ನಮಸ್ಕಾರ.mp3"
     ],
@@ -33,10 +36,13 @@
       "ಕ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸತ್ಕವಿ",
+      "***",
+      "0",
+      "0",
       "poet.png",
       "ಸತ್ಕವಿ.mp3"
     ],
@@ -53,10 +59,13 @@
       "ಗ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಖಡ್ಗ",
+      "**",
+      "0",
+      "0",
       "sword.png",
       "ಖಡ್ಗ.mp3"
     ],
@@ -73,10 +82,13 @@
       "ದ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಶಬ್ದ",
+      "**",
+      "0",
+      "0",
       "sound.png",
       "ಶಬ್ದ.mp3"
     ]

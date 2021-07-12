@@ -25,26 +25,35 @@
       "ನಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಲಾರಿ",
+      "**",
+      "0",
+      "0",
       "lorry.png",
       "ಲಾರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನರಿ",
+      "**",
+      "0",
+      "0",
       "fox.png",
       "ನರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನಾಯಿ",
+      "**",
+      "0",
+      "0",
       "dog.png",
       "ನಾಯಿ.mp3"
     ],

@@ -26,18 +26,24 @@
       "ಮುರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪುನುಗು",
+      "***",
+      "0",
+      "0",
       "perfume.png",
       "ಪುನುಗು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಯುವ",
+      "**",
+      "0",
+      "0",
       "youthl.png",
       "ಯುವ.mp3"
     ],

@@ -37,16 +37,13 @@
       "ಾ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕಾ"
-    ],
-    [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಾಗೆ ",
+      "**",
+      "0",
+      "0",
       "crow.png",
       "ಕಾಗೆ.mp3"
     ]

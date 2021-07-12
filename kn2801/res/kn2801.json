@@ -13,10 +13,13 @@
       "ನಾ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ವಿಜ್ನಾನ",
+      "***",
+      "0",
+      "0",
       "science.png",
       "ವಿಜ್ನಾನ.mp3"
     ],
@@ -33,10 +36,13 @@
       "ಕ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮುಷ್ಕರ",
+      "***",
+      "0",
+      "0",
       "protest.png",
       "ಮುಷ್ಕರ.mp3"
     ],
@@ -79,10 +85,13 @@
       "ಕು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನಾಲ್ಕು",
+      "**",
+      "0",
+      "0",
       "four.png",
       "ನಾಲ್ಕು.mp3"
     ]

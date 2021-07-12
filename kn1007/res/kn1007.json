@@ -1,74 +1,101 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅಂದ ",
+      "**",
+      "0",
+      "0",
       "beautiful.png",
       "ಅಂದ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅಂಗಳ",
+      "***",
+      "0",
+      "0",
       "yard.png",
       "ಅಂಗಳ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಂಗ",
+      "**",
+      "0",
+      "0",
       "monkey.png",
       "ಮಂಗ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಂಠ",
+      "**",
+      "0",
+      "0",
       "throat.png",
       "ಕಂಠ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಂಪನ",
+      "***",
+      "0",
+      "0",
       "shivering.png",
       "ಕಂಪನ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಂಬ",
+      "**",
+      "0",
+      "0",
       "pillar.png",
       "ಕಂಬ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅಂಕಣ",
+      "***",
+      "0",
+      "0",
       "column.png",
       "ಅಂಕಣ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅಂಗದ",
+      "***",
+      "0",
+      "0",
       "armlet_bracelet.png",
       "ಅಂಗದ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅಂಧ",
+      "**",
+      "0",
+      "0",
       "blind.png",
       "ಅಂಧ.mp3"
     ]

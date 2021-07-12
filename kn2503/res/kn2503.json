@@ -4,7 +4,7 @@
       "spelldoor",
       "1",
       "Description",
-      "ದೇಶ ",
+      "ದೇಶ",
       "ದೇ*",
       "0",
       "0",
@@ -12,10 +12,13 @@
       "ದೇಶ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪುಟಾಣಿ ",
+      "***",
+      "0",
+      "0",
       "tiny.png",
       "ಪುಟಾಣಿ.mp3"
     ],

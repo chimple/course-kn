@@ -1,46 +1,20 @@
 {
   "rows": [
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಮೂ ",
-      "-"
+      "ಮ,ಬ,ನ ",
+      "ಊ ",
+      "ೂ"
     ],
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಬೂ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ನೂ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಪೂ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಯೂ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಡೂ ",
-      "-"
+      "ಪ,ಯ,ಡ ",
+      "ಊ ",
+      "ೂ"
     ]
   ]
 }

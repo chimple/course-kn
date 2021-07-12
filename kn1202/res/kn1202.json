@@ -59,12 +59,6 @@
       "ಅಂ.mp3"
     ],
     [
-      "writeletter",
-      "1",
-      "Description",
-      "ಅಂ"
-    ],
-    [
       "phonictractor",
       "1",
       "Description",
@@ -75,10 +69,12 @@
       "ಅಃ.mp3"
     ],
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಅಃ"
+      "ಅ ",
+      "ಅಂ,ಅಃ ",
+      "ಂ,ಃ"
     ]
   ]
 }

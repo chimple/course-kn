@@ -27,26 +27,35 @@
       "ವ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಭೈರವ",
+      "***",
+      "0",
+      "0",
       "shiva.png",
       "ಭೈರವ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹೈದ",
+      "**",
+      "0",
+      "0",
       "boy.png",
       "ಹೈದ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸೈನಿಕ",
+      "***",
+      "0",
+      "0",
       "soldier.png",
       "ಸೈನಿಕ.mp3"
     ],

@@ -27,34 +27,46 @@
       "ಪಿರಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಜಾಜಿ",
+      "**",
+      "0",
+      "0",
       "jasmine.png",
       "ಜಾಜಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಇಣಚಿ",
+      "***",
+      "0",
+      "0",
       "squirrel.png",
       "ಇಣಚಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಿಟಕಿ",
+      "***",
+      "0",
+      "0",
       "window.png",
       "ಕಿಟಕಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹಿಮ",
+      "**",
+      "0",
+      "0",
       "snow.png",
       "ಹಿಮ.mp3"
     ],

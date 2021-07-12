@@ -13,10 +13,13 @@
       "ಚಿ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹಾಲು",
+      "**",
+      "0",
+      "0",
       "milk.png",
       "ಹಾಲು.mp3"
     ],
@@ -33,10 +36,13 @@
       "ವಂತ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬಾಗಿಲು",
+      "***",
+      "0",
+      "0",
       "door.png",
       "ಬಾಗಿಲು.mp3"
     ],

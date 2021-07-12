@@ -1,50 +1,68 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮೊಲ",
+      "**",
+      "0",
+      "0",
       "Rabbit.png",
       "ಮೊಲ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹಸು",
+      "**",
+      "0",
+      "0",
       "Cow.png",
       "ಹಸು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುದುರೆ",
+      "***",
+      "0",
+      "0",
       "Horse.png",
       "ಕುದುರೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಪಾರಿವಾಳ",
+      "****",
+      "0",
+      "0",
       "Pigeon.png",
       "ಪಾರಿವಾಳ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕೋಣ",
+      "**",
+      "0",
+      "0",
       "Malebuffalo.png",
       "ಕೋಣ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಗಿಳಿ",
+      "**",
+      "0",
+      "0",
       "Parrot.png",
       "ಗಿಳಿ.mp3"
     ]

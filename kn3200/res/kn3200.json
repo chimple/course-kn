@@ -15,10 +15,13 @@
       "ಲೂ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಅಜ್ಜಿ ",
+      "**",
+      "0",
+      "0",
       "grandma.png",
       "ಅಜ್ಜಿ.mp3"
     ],
@@ -35,10 +38,13 @@
       "ವು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸಂಜೆ",
+      "",
+      "",
+      "",
       "evening.png",
       "ಸಂಜೆ.mp3"
     ],
@@ -55,10 +61,13 @@
       "ದು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹೂದೋಟ ",
+      "***",
+      "0",
+      "0",
       "flower_garden.png",
       "ಹೂದೋಟ.mp3"
     ]

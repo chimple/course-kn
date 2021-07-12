@@ -13,10 +13,13 @@
       "ಜ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕುಬ್ಜ",
+      "**",
+      "0",
+      "0",
       "dwarf.png",
       "ಕುಬ್ಜ.mp3"
     ],
@@ -45,10 +48,13 @@
       "ಷ್ಟ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಕಷ್ಟ",
+      "**",
+      "0",
+      "0",
       "difficulty.png",
       "ಕಷ್ಟ.mp3"
     ],

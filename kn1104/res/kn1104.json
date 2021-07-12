@@ -96,18 +96,24 @@
       "ಮನ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಚಂದ ",
+      "**",
+      "0",
+      "0",
       "beautiful.png",
       "ಚಂದ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಸಂತಸ ",
+      "***",
+      "0",
+      "0",
       "happy.png",
       "ಸಂತಸ.mp3"
     ],

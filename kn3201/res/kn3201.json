@@ -1,10 +1,13 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಂದಿ ",
+      "**",
+      "0",
+      "0",
       "people.png",
       "ಮಂದಿ.mp3"
     ],
@@ -21,10 +24,13 @@
       "ಡೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ದೇಹ",
+      "**",
+      "0",
+      "0",
       "body.png",
       "ದೇಹ.mp3"
     ],
@@ -43,10 +49,13 @@
       "ಯ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮಗು  ",
+      "**",
+      "0",
+      "0",
       "baby.png",
       "ಮಗು.mp3"
     ],

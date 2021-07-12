@@ -24,18 +24,24 @@
       "ರೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಬೆಲೆ",
+      "**",
+      "0",
+      "0",
       "price.png",
       "ಬೆಲೆ.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹವೆ",
+      "**",
+      "0",
+      "0",
       "climate.png",
       "ಹವೆ.mp3"
     ],

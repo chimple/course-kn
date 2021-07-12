@@ -1,82 +1,112 @@
 {
   "rows": [
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಒಂದು",
+      "**",
+      "0",
+      "0",
       "೧.png",
       "ಒಂದು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಎರಡು",
+      "***",
+      "0",
+      "0",
       "೨.png",
       "ಎರಡು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಮೂರು",
+      "**",
+      "0",
+      "0",
       "೩.png",
       "ಮೂರು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ನಾಲ್ಕು",
+      "**",
+      "0",
+      "0",
       "೪.png",
       "ನಾಲ್ಕು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಐದು",
+      "**",
+      "0",
+      "0",
       "೫.png",
       "ಐದು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಆರು",
+      "**",
+      "0",
+      "0",
       "೬.png",
       "ಆರು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಏಳು",
+      "**",
+      "0",
+      "0",
       "೭.png",
       "ಏಳು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಎಂಟು",
+      "**",
+      "0",
+      "0",
       "೮.png",
       "ಎಂಟು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಒಂಬತ್ತು",
+      "***",
+      "0",
+      "0",
       "೯.png",
       "ಒಂಬತ್ತು.mp3"
     ],
     [
-      "writeword",
+      "spelldoor",
       "1",
       "Description",
       "ಹತ್ತು",
+      "**",
+      "0",
+      "0",
       "೧೦.png",
       "ಹತ್ತು.mp3"
     ]
