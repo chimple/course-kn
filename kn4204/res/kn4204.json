@@ -4,89 +4,100 @@
       "spelldoor",
       "1",
       "Description",
-      "ಹುಳು ",
+      "ನೂರು ",
       "**",
       "0",
       "0",
-      "worm.png",
-      "ಹುಳು.mp3"
+      "hundred.png",
+      "ನೂರು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ದುಡಿ ",
+      "ಬೂಟು ",
       "**",
       "0",
       "0",
-      "work.png",
-      "ದುಡಿ.mp3"
+      "boot.png",
+      "ಬೂಟು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಶುಚಿ ",
+      "ಸೂಜಿ ",
       "**",
       "0",
       "0",
-      "clean.png",
-      "ಶುಚಿ.mp3"
+      "needle.png",
+      "ಸೂಜಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಕಡುಬು ",
+      "ಮೂರು ",
+      "**",
+      "0",
+      "0",
+      "three.png",
+      "ಮೂರು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ತೂರಾಟ ",
       "***",
       "0",
       "0",
-      "kadubu.png",
-      "ಕಡುಬು.mp3"
+      "rush.png",
+      "ತೂರಾಟ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ನುಣುಪು ",
+      "ಪೂಜಾರಿ ",
       "***",
       "0",
       "0",
-      "smooth.png",
-      "ನುಣುಪು.mp3"
+      "poojari.png",
+      "ಪೂಜಾರಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಯುಗಾದಿ ",
+      "ಮೂಗುತಿ ",
       "***",
       "0",
       "0",
-      "yugadi.png",
-      "ಯುಗಾದಿ.mp3"
+      "nosepin.png",
+      "ಮೂಗುತಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಬಾವುಟ ",
-      "***",
-      "0",
-      "0",
-      "flag.png",
-      "ಬಾವುಟ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಕುರಿಮರಿ ",
+      "ಜಾದೂಗಾರ ",
       "****",
       "0",
       "0",
-      "lamb.png",
-      "ಕುರಿಮರಿ.mp3"
+      "magician.png",
+      "ಜಾದೂಗಾರ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ತೂಕಹಾಕು ",
+      "****",
+      "0",
+      "0",
+      "weigh.png",
+      "ತೂಕಹಾಕು.mp3"
     ]
   ]
 }

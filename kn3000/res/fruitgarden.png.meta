@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0d9c91d3-a971-482a-a18a-c874747e7632",
+  "uuid": "ee7a5c7a-aa72-460f-b8ef-fe5c237f92b4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "fruitgarden": {
       "ver": "1.0.4",
-      "uuid": "6a2455a4-9073-4bde-a581-7b72b38e3a1c",
-      "rawTextureUuid": "0d9c91d3-a971-482a-a18a-c874747e7632",
+      "uuid": "32af7534-b905-4515-90ac-76f92a886e8c",
+      "rawTextureUuid": "ee7a5c7a-aa72-460f-b8ef-fe5c237f92b4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

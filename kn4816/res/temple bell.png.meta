@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "df8ae8b2-1915-4211-bbca-a16e07e943d8",
+  "uuid": "9b02dd14-8fc9-436b-88d5-be2468d73371",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "temple bell": {
       "ver": "1.0.4",
-      "uuid": "411fee7e-de26-407f-b279-5c43a6be7273",
-      "rawTextureUuid": "df8ae8b2-1915-4211-bbca-a16e07e943d8",
+      "uuid": "9a6eaa03-1838-4b72-bf93-91da94420340",
+      "rawTextureUuid": "9b02dd14-8fc9-436b-88d5-be2468d73371",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

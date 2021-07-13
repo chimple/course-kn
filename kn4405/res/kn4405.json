@@ -1,59 +1,22 @@
 {
   "rows": [
     [
-      "spelldoor",
+      "createsentence",
       "1",
       "Description",
-      "ಶಾಲೆ ",
-      "**",
-      "0",
-      "0",
-      "school.png",
-      "ಶಾಲೆ.mp3"
+      "ಬಡಗಿ/ಒಣಮರದಿ/ನೇಗಿಲು/ಮಾಡುವನು",
+      "",
+      "Carpenter.png",
+      "ಬಡಗಿ ಒಣಮರದಿ ನೇಗಿಲು ಮಾಡುವನು.mp3"
     ],
     [
-      "spelldoor",
+      "createsentence",
       "1",
       "Description",
-      "ಮಳೆ ",
-      "**",
-      "0",
-      "0",
-      "rain.png",
-      "ಮಳೆ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಹಣತೆ ",
-      "***",
-      "0",
-      "0",
-      "lamp.png",
-      "ಹಣತೆ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಕುದುರೆ ",
-      "***",
-      "0",
-      "0",
-      "horse.png",
-      "ಕುದುರೆ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ನೆಗೆದಾಟ ",
-      "****",
-      "0",
-      "0",
-      "jump.png",
-      "ನೆಗೆದಾಟ.mp3"
+      "ಗಣೇಶನ/ದೇವಾಲಯಕೆ/ಜನರು/ಬರುವರು",
+      "",
+      "ganapati _temple .png",
+      "ಗಣೇಶನ ದೇವಾಲಯಕೆ ಜನರು ಬರುವರು.mp3 "
     ]
   ]
 }

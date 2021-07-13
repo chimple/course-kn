@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "53131f58-8c49-48f6-82fa-f839cf8b62de",
+  "uuid": "3f1d6a1b-1bd1-4616-a075-fe1b14b33b79",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "tirbal": {
       "ver": "1.0.4",
-      "uuid": "69d8a0b1-9ae8-4820-9bfa-2e385435f70b",
-      "rawTextureUuid": "53131f58-8c49-48f6-82fa-f839cf8b62de",
+      "uuid": "5606f9bd-9580-4939-9b02-b68d64bbf4ec",
+      "rawTextureUuid": "3f1d6a1b-1bd1-4616-a075-fe1b14b33b79",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

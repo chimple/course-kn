@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "21e9de0b-bde4-42da-a015-cff82f254795",
+  "uuid": "a510cfb2-f24e-482a-b7e1-ef8735b602d6",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "poori": {
       "ver": "1.0.4",
-      "uuid": "ddafdbca-c1f4-4b26-a5eb-9ff0834bdc0d",
-      "rawTextureUuid": "21e9de0b-bde4-42da-a015-cff82f254795",
+      "uuid": "1cac2638-50f8-411b-b982-e751026ac381",
+      "rawTextureUuid": "a510cfb2-f24e-482a-b7e1-ef8735b602d6",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

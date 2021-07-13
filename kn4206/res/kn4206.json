@@ -4,56 +4,67 @@
       "spelldoor",
       "1",
       "Description",
-      "ಹುಳು ",
-      "ಹು*",
+      "ಮೂಗು ",
+      "*ಗು ",
       "0",
       "0",
-      "worm.png",
-      "ಹುಳು.mp3"
+      "nose.png",
+      "ಮೂಗು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಗುಲಾಬಿ",
-      "ಗು*ಬಿ",
+      "ಹೂಜಿ ",
+      "*ಜಿ",
       "0",
       "0",
-      "rose.png",
-      "ಗುಲಾಬಿ.mp3"
+      "longneckedjug.png",
+      "ಹೂಜಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ನವಿಲು ",
-      "ನವಿ*",
+      "ಬೂಟು ",
+      "*ಟು ",
       "0",
       "0",
-      "peacock.png",
-      "ನವಿಲು.mp3"
+      "boot.png",
+      "ಬೂಟು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಕಡುಬು ",
-      "ಕ*ಬು",
+      "ಹೂವು ",
+      "*ವು",
       "0",
       "0",
-      "kadubu.png",
-      "ಕಡುಬು.mp3"
+      "flower.png",
+      "ಹೂವು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಬುಗುರಿ ",
-      "ಬು*ರಿ",
+      "ಸೂಜಿ ",
+      "*ಜಿ ",
       "0",
       "0",
-      "top.png",
-      "ಬುಗುರಿ.mp3"
+      "needle.png",
+      "ಸೂಜಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮೂಗುತಿ ",
+      "*ಗುತಿ",
+      "0",
+      "0",
+      "nosepin.png",
+      "ಮೂಗುತಿ.mp3"
     ]
   ]
 }

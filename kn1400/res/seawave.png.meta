@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a7ad684b-7040-4be0-8434-5183d0896afa",
+  "uuid": "897519dd-315b-4e67-a550-2c6060863378",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "seawave": {
       "ver": "1.0.4",
-      "uuid": "402015ed-f9f9-4d1a-ad6c-9dc566d51527",
-      "rawTextureUuid": "a7ad684b-7040-4be0-8434-5183d0896afa",
+      "uuid": "f3f7fb3e-5aa5-4844-b4d4-46cb836bbde4",
+      "rawTextureUuid": "897519dd-315b-4e67-a550-2c6060863378",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

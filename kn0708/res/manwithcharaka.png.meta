@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7b7c6bc2-b705-4482-92f1-ddc784d48b02",
+  "uuid": "cfef4a40-316c-4e3b-b31c-f7bcb2c3fb13",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "manwithcharaka": {
       "ver": "1.0.4",
-      "uuid": "9642851d-9207-47f5-af5e-af35ec73ae44",
-      "rawTextureUuid": "7b7c6bc2-b705-4482-92f1-ddc784d48b02",
+      "uuid": "2eff48d8-7033-4442-925b-3d79db15be3c",
+      "rawTextureUuid": "cfef4a40-316c-4e3b-b31c-f7bcb2c3fb13",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

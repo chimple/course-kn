@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "12b4db9f-8fb2-4ca7-b967-81767ce49600",
+  "uuid": "a777fa8c-f64d-42c1-94bb-2334604aabf2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "tattoo": {
       "ver": "1.0.4",
-      "uuid": "73ba7e01-a5be-4e9b-b09d-b809cd518080",
-      "rawTextureUuid": "12b4db9f-8fb2-4ca7-b967-81767ce49600",
+      "uuid": "84dbd8be-5f91-4d68-a95a-1122d83d57ee",
+      "rawTextureUuid": "a777fa8c-f64d-42c1-94bb-2334604aabf2",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b32d13fe-f0c8-4a04-9bcd-69befd9143dd",
+  "uuid": "6e133fd6-c394-447c-9e90-c1b3197a57a3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "narrow necked jug": {
       "ver": "1.0.4",
-      "uuid": "1f7b5508-09dd-48ad-8186-44f0e2c559d8",
-      "rawTextureUuid": "b32d13fe-f0c8-4a04-9bcd-69befd9143dd",
+      "uuid": "670cdc02-7957-4beb-98c0-11de1b9b0d63",
+      "rawTextureUuid": "6e133fd6-c394-447c-9e90-c1b3197a57a3",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

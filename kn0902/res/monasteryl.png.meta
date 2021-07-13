@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "9eafb0c8-a491-4751-ab86-805cbb852e40",
+  "uuid": "30d127c7-49db-45ac-afdc-8fc5b7614e02",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "monasteryl": {
       "ver": "1.0.4",
-      "uuid": "2081a0fd-6895-4815-b7aa-29719ceda812",
-      "rawTextureUuid": "9eafb0c8-a491-4751-ab86-805cbb852e40",
+      "uuid": "568c1842-71a9-49b8-ac1e-1a6cf36d219f",
+      "rawTextureUuid": "30d127c7-49db-45ac-afdc-8fc5b7614e02",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

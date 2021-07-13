@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6d051e20-f09a-46ad-bdaa-eaaab0c084e0",
+  "uuid": "18b9b920-7dec-402a-9193-79c222620faa",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "mosque": {
       "ver": "1.0.4",
-      "uuid": "d4c2a527-07ed-4079-9c21-e61ec70cb16c",
-      "rawTextureUuid": "6d051e20-f09a-46ad-bdaa-eaaab0c084e0",
+      "uuid": "7125160c-8579-4243-bc11-dd931ee60c25",
+      "rawTextureUuid": "18b9b920-7dec-402a-9193-79c222620faa",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

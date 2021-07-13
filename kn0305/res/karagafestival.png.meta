@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "24247b32-132d-4f49-a4fd-4f0a6dc31bb0",
+  "uuid": "1b2404f1-ddd5-4be3-a71e-b51e06f85406",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "karagafestival": {
       "ver": "1.0.4",
-      "uuid": "b0d373f4-ca0e-4189-8eff-c0438ee6206f",
-      "rawTextureUuid": "24247b32-132d-4f49-a4fd-4f0a6dc31bb0",
+      "uuid": "0df4d85c-b2b9-4508-9bd8-78e913223340",
+      "rawTextureUuid": "1b2404f1-ddd5-4be3-a71e-b51e06f85406",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

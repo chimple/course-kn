@@ -1,38 +1,20 @@
 {
   "rows": [
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಠೆ "
+      "ಷ,ಸ,",
+      "ಅಂ",
+      "ಂ"
     ],
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಘೆ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಫೆ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಝೆ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಖೆ ",
-      "-"
+      "ಹ,ಳ ",
+      "ಅಂ",
+      "ಂ"
     ]
   ]
 }

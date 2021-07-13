@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c7dc7139-3cb2-4317-a488-a3db30b0ef36",
+  "uuid": "12f9d61d-7326-42c6-8cc8-ebc111a69025",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "shirt": {
       "ver": "1.0.4",
-      "uuid": "5be98993-ff11-4676-affd-f502be49ce25",
-      "rawTextureUuid": "c7dc7139-3cb2-4317-a488-a3db30b0ef36",
+      "uuid": "a078b0e5-4984-4160-9e9d-2687dfec6441",
+      "rawTextureUuid": "12f9d61d-7326-42c6-8cc8-ebc111a69025",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

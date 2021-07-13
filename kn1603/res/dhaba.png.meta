@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7bfe0917-b732-4be6-a861-3a8d7d6d6186",
+  "uuid": "d3ce1b36-00a2-46af-a433-297e71059c70",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "dhaba": {
       "ver": "1.0.4",
-      "uuid": "b4215f02-6325-4e7e-92fc-e3e7ba140f0f",
-      "rawTextureUuid": "7bfe0917-b732-4be6-a861-3a8d7d6d6186",
+      "uuid": "20dbb369-5ce0-4413-8867-3fb5b76aa0cb",
+      "rawTextureUuid": "d3ce1b36-00a2-46af-a433-297e71059c70",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

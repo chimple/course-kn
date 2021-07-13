@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a1e28f7e-8e36-45dd-af3e-44c881817cc9",
+  "uuid": "78ea3229-efd5-4851-b425-138ce9b54593",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "dosa": {
       "ver": "1.0.4",
-      "uuid": "2aeef771-9c86-4b1e-8ae3-546769c0818c",
-      "rawTextureUuid": "a1e28f7e-8e36-45dd-af3e-44c881817cc9",
+      "uuid": "84a443e8-b83d-4612-8cad-0b2532f3d5d1",
+      "rawTextureUuid": "78ea3229-efd5-4851-b425-138ce9b54593",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7a415205-5cee-48ac-96f4-cd56a3c495bc",
+  "uuid": "350047ba-2010-41a4-b1b6-b8e25a0c1dfe",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "four flowers": {
       "ver": "1.0.4",
-      "uuid": "1fe9e763-7693-4eff-98fe-09e3f6604a1c",
-      "rawTextureUuid": "7a415205-5cee-48ac-96f4-cd56a3c495bc",
+      "uuid": "11d0802f-b059-4112-bcda-0e252c4c7b89",
+      "rawTextureUuid": "350047ba-2010-41a4-b1b6-b8e25a0c1dfe",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

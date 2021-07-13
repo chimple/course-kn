@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "765b9140-3e35-4287-aca6-519924d87897",
+  "uuid": "1b895e19-10dd-4266-b430-31b198c6c9a1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "cookedrice": {
       "ver": "1.0.4",
-      "uuid": "6e4639ea-a6e7-4566-a36d-95a75b126b1b",
-      "rawTextureUuid": "765b9140-3e35-4287-aca6-519924d87897",
+      "uuid": "5aa45fc7-8d4d-427e-8724-f88ddfd22e24",
+      "rawTextureUuid": "1b895e19-10dd-4266-b430-31b198c6c9a1",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

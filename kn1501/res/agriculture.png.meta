@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "113a8195-229a-4199-9792-0983b803088f",
+  "uuid": "8a5bee67-4af4-4ec9-9e94-bdf98c9aa8fa",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "agriculture": {
       "ver": "1.0.4",
-      "uuid": "e51df6b5-6f8e-4fcc-aa53-b0d67cbcaddd",
-      "rawTextureUuid": "113a8195-229a-4199-9792-0983b803088f",
+      "uuid": "3b4a274f-62c2-4941-bb26-cc0f3768983f",
+      "rawTextureUuid": "8a5bee67-4af4-4ec9-9e94-bdf98c9aa8fa",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

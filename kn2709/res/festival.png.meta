@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "ea516bac-ef27-4ae1-87bd-6038868db98b",
+  "uuid": "871e702f-e2b4-464a-9bc6-3759dab4d782",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "festival": {
       "ver": "1.0.4",
-      "uuid": "9f6e8c08-d093-4c97-9b7c-50e789761605",
-      "rawTextureUuid": "ea516bac-ef27-4ae1-87bd-6038868db98b",
+      "uuid": "4cc45342-c959-4853-9c39-e62eb671317f",
+      "rawTextureUuid": "871e702f-e2b4-464a-9bc6-3759dab4d782",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

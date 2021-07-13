@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "4675e88a-e216-4dd8-b9eb-56d97b970817",
+  "uuid": "65dad08f-801e-4b6f-a423-d3793f9c25ac",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "castoroilplant": {
       "ver": "1.0.4",
-      "uuid": "68e2d5c9-6514-4eea-a9cb-20f8331c938e",
-      "rawTextureUuid": "4675e88a-e216-4dd8-b9eb-56d97b970817",
+      "uuid": "3204371a-0545-430c-a180-4dfd27cdfe25",
+      "rawTextureUuid": "65dad08f-801e-4b6f-a423-d3793f9c25ac",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

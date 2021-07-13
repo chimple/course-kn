@@ -1,70 +1,22 @@
 {
   "rows": [
     [
-      "spelldoor",
+      "createsentence",
       "1",
       "Description",
-      "ಮೂಗು ",
-      "*ಗು ",
-      "0",
-      "0",
-      "nose.png",
-      "ಮೂಗು.mp3"
+      "ಈ/ದಿನ/ವಿಮಲೆಯ/ಶಾಲೆಗೇ/ರಜೆ/ಇದೆ",
+      "",
+      "school_holiday.png",
+      "ಈ ದಿನ ವಿಮಲೆಯ ಶಾಲೆಗೇ ರಜೆ ಇದೆ.mp3"
     ],
     [
-      "spelldoor",
+      "createsentence",
       "1",
       "Description",
-      "ಹೂಜಿ ",
-      "*ಜಿ",
-      "0",
-      "0",
-      "longneckedjug.png",
-      "ಹೂಜಿ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಬೂಟು ",
-      "*ಟು ",
-      "0",
-      "0",
-      "boot.png",
-      "ಬೂಟು.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಹೂವು ",
-      "*ವು",
-      "0",
-      "0",
-      "flower.png",
-      "ಹೂವು.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಸೂಜಿ ",
-      "*ಜಿ ",
-      "0",
-      "0",
-      "needle.png",
-      "ಸೂಜಿ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಮೂಗುತಿ ",
-      "*ಗುತಿ",
-      "0",
-      "0",
-      "nosepin.png",
-      "ಮೂಗುತಿ.mp3"
+      "ಇರುವೆಗಳ/ಪಯಣ/ಗೂಡಿನ/ಕಡೆಗೆ",
+      "",
+      "ants.png",
+      "ಇರುವೆಗಳ ಪಯಣ ಗೂಡಿನ ಕಡೆಗೆ.mp3"
     ]
   ]
 }

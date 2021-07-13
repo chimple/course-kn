@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7fb9b4c1-0d30-430e-8ae0-eb1d17150835",
+  "uuid": "65e8d3b8-d5a8-48a5-adb9-54c870d5f46f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "footballgame": {
       "ver": "1.0.4",
-      "uuid": "77a66bb5-4112-4e2e-9b59-16206e9474ee",
-      "rawTextureUuid": "7fb9b4c1-0d30-430e-8ae0-eb1d17150835",
+      "uuid": "c2e8049b-54c4-4c8f-9894-541fbb489fad",
+      "rawTextureUuid": "65e8d3b8-d5a8-48a5-adb9-54c870d5f46f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6a47888c-5364-44cb-8cbe-132df338d7f4",
+  "uuid": "a6ce12cb-a554-4ab7-aee7-78a06aa5b541",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "icecream": {
       "ver": "1.0.4",
-      "uuid": "4c5abd98-4809-4f6e-a356-1973693dbd60",
-      "rawTextureUuid": "6a47888c-5364-44cb-8cbe-132df338d7f4",
+      "uuid": "76632e52-0de1-4bdb-a246-ce85f43e2489",
+      "rawTextureUuid": "a6ce12cb-a554-4ab7-aee7-78a06aa5b541",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

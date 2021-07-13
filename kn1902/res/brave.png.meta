@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "f12f188f-2e1d-4a26-9410-af646629f80f",
+  "uuid": "809c4fe2-0aad-4997-93ee-2e4d11a432a6",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "brave": {
       "ver": "1.0.4",
-      "uuid": "df69e982-51d7-46c6-bbf5-6f2335fda8e7",
-      "rawTextureUuid": "f12f188f-2e1d-4a26-9410-af646629f80f",
+      "uuid": "75aa36cb-6e8d-4a57-b9e2-f46602edb069",
+      "rawTextureUuid": "809c4fe2-0aad-4997-93ee-2e4d11a432a6",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

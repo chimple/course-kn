@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "ca431b04-64e1-420e-af21-5e0ccce43266",
+  "uuid": "24cdde60-6a90-480d-821d-dc3e95d34de3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "brinjal": {
       "ver": "1.0.4",
-      "uuid": "db6fbcb3-60fd-468b-857d-fb94684fade7",
-      "rawTextureUuid": "ca431b04-64e1-420e-af21-5e0ccce43266",
+      "uuid": "897d9654-7dd6-49b6-8c16-3a32895e4b91",
+      "rawTextureUuid": "24cdde60-6a90-480d-821d-dc3e95d34de3",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

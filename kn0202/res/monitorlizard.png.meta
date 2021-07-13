@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "e42f9ca8-54a4-434b-8a2b-d9794c425c9d",
+  "uuid": "f88e8d69-0384-4e09-941e-f34c12c09c64",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "monitorlizard": {
       "ver": "1.0.4",
-      "uuid": "76c5497a-4b6e-415e-8590-3a6ca98a6c6a",
-      "rawTextureUuid": "e42f9ca8-54a4-434b-8a2b-d9794c425c9d",
+      "uuid": "dc0165ed-c986-4181-8a16-94747a2a0028",
+      "rawTextureUuid": "f88e8d69-0384-4e09-941e-f34c12c09c64",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

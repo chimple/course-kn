@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "823ee77d-db68-47fa-a76b-8122894502ab",
+  "uuid": "dc4f93d8-4726-4408-8bd4-89a8270727a4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "armlet": {
       "ver": "1.0.4",
-      "uuid": "fdc5ec61-90b0-4184-974f-7b2c6cdb5335",
-      "rawTextureUuid": "823ee77d-db68-47fa-a76b-8122894502ab",
+      "uuid": "7ad49a3e-27a0-4c0b-908c-a67e3e73b56d",
+      "rawTextureUuid": "dc4f93d8-4726-4408-8bd4-89a8270727a4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

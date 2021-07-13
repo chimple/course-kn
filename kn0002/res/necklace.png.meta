@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "23b51e75-4fe5-4830-9338-af56087dc55a",
+  "uuid": "3f7910c3-8a9c-4750-a99f-a27d7c1e3f41",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "necklace": {
       "ver": "1.0.4",
-      "uuid": "d96b373c-12ac-4d99-bbfa-7d0ca104e75e",
-      "rawTextureUuid": "23b51e75-4fe5-4830-9338-af56087dc55a",
+      "uuid": "c4b5da00-cfb8-457e-91c5-599c2bf45f90",
+      "rawTextureUuid": "3f7910c3-8a9c-4750-a99f-a27d7c1e3f41",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

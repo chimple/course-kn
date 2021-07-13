@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "efac7bfd-bc1a-4b4c-94ed-438cdcc39ef6",
+  "uuid": "f8ebfb71-644b-4fd8-aec3-480554dc18a7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "hospital": {
       "ver": "1.0.4",
-      "uuid": "a8295b79-4754-43eb-a2b9-d6db19ee3e75",
-      "rawTextureUuid": "efac7bfd-bc1a-4b4c-94ed-438cdcc39ef6",
+      "uuid": "eaa6c034-46e0-4c24-956f-578d02de41b2",
+      "rawTextureUuid": "f8ebfb71-644b-4fd8-aec3-480554dc18a7",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c61ae299-3320-48ee-924f-606bb6f2441a",
+  "uuid": "880e9acb-566d-490a-ab0a-8859da9b31e0",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "differentcoralnecklaces": {
       "ver": "1.0.4",
-      "uuid": "d8a9b9e4-55c6-426e-8722-a9634ecdf1af",
-      "rawTextureUuid": "c61ae299-3320-48ee-924f-606bb6f2441a",
+      "uuid": "eb4e3382-2a9b-4c59-80e7-c47f64ba0c71",
+      "rawTextureUuid": "880e9acb-566d-490a-ab0a-8859da9b31e0",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

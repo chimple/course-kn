@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b21c6b49-ba1b-42e4-8cdc-62860bc509c1",
+  "uuid": "d22189aa-2657-46b3-b943-f82c7bd8b995",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "office": {
       "ver": "1.0.4",
-      "uuid": "44521ef0-f818-47c4-99a1-e7f5238a1a31",
-      "rawTextureUuid": "b21c6b49-ba1b-42e4-8cdc-62860bc509c1",
+      "uuid": "c0dd0e00-5d61-4b41-9a66-64401309003c",
+      "rawTextureUuid": "d22189aa-2657-46b3-b943-f82c7bd8b995",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

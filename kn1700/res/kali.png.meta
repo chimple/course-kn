@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "d9d6be1f-aee9-41c0-9f2f-01de0c4d1021",
+  "uuid": "428a3639-cd20-42f6-8ea5-6eced98fa02b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "kali": {
       "ver": "1.0.4",
-      "uuid": "f616fed0-8c49-4e67-8c37-4f9a80a86686",
-      "rawTextureUuid": "d9d6be1f-aee9-41c0-9f2f-01de0c4d1021",
+      "uuid": "a3c61a35-12a9-4b78-a633-c56119941796",
+      "rawTextureUuid": "428a3639-cd20-42f6-8ea5-6eced98fa02b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

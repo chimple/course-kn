@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "fd922563-7026-4ca5-8eb9-bf89dd874310",
+  "uuid": "03bf11c1-961f-4c4c-b662-f588b628c6e1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "fivepetals": {
       "ver": "1.0.4",
-      "uuid": "75ca6042-17a3-4425-80e5-82a2f7d83747",
-      "rawTextureUuid": "fd922563-7026-4ca5-8eb9-bf89dd874310",
+      "uuid": "6239b0b7-4260-484c-9114-f00e042feec9",
+      "rawTextureUuid": "03bf11c1-961f-4c4c-b662-f588b628c6e1",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

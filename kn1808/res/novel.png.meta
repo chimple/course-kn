@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "2a3cfc75-37a2-47b5-be12-fb02175fbde5",
+  "uuid": "6ea56792-6ea3-420b-8a15-ccea895f26f7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "novel": {
       "ver": "1.0.4",
-      "uuid": "76f34497-bcbf-4745-aefb-b63c0cb55909",
-      "rawTextureUuid": "2a3cfc75-37a2-47b5-be12-fb02175fbde5",
+      "uuid": "62a7edd3-e352-4923-bf21-71d9569a8ed9",
+      "rawTextureUuid": "6ea56792-6ea3-420b-8a15-ccea895f26f7",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

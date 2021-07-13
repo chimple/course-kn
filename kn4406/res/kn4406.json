@@ -1,22 +1,59 @@
 {
   "rows": [
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ಈ/ದಿನ/ವಿಮಲೆಯ/ಶಾಲೆಗೇ/ರಜೆ/ಇದೆ",
-      "",
-      "school_holiday.png",
-      "ಈ ದಿನ ವಿಮಲೆಯ ಶಾಲೆಗೇ ರಜೆ ಇದೆ.mp3"
+      "ಚೇಳು ",
+      "*ಳು ",
+      "0",
+      "0",
+      "scorpion.png",
+      "ಚೇಳು.mp3"
     ],
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ಇರುವೆಗಳ/ಪಯಣ/ಗೂಡಿನ/ಕಡೆಗೆ",
-      "",
-      "ants.png",
-      "ಇರುವೆಗಳ ಪಯಣ ಗೂಡಿನ ಕಡೆಗೆ.mp3"
+      "ಮೇಜು ",
+      "*ಜು",
+      "0",
+      "0",
+      "desk.png",
+      "ಮೇಜು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮೇಕೆ ",
+      "ಮೇ*",
+      "0",
+      "0",
+      "goat.png",
+      "ಮೇಕೆ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಸೇಬು ",
+      "ಸೇ*",
+      "0",
+      "0",
+      "apple.png",
+      "ಸೇಬು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ತೇರು ",
+      "*ರು",
+      "0",
+      "0",
+      "rath.png",
+      "ತೇರು.mp3"
     ]
   ]
 }

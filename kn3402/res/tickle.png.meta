@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c8b35a14-9a65-4311-92f9-e58aa362fbf1",
+  "uuid": "44f9c6e8-8252-47db-9412-47a5298dff6c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "tickle": {
       "ver": "1.0.4",
-      "uuid": "11269f3b-2890-4c1a-b825-30a300c003f6",
-      "rawTextureUuid": "c8b35a14-9a65-4311-92f9-e58aa362fbf1",
+      "uuid": "1cc11379-72a1-4268-b5cf-42f64b921bd3",
+      "rawTextureUuid": "44f9c6e8-8252-47db-9412-47a5298dff6c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

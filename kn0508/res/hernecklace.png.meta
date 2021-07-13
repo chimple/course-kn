@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "bb1f8ecc-30bd-4cb2-a2fe-dbc09593eb16",
+  "uuid": "d800a733-208f-40e7-8598-7c222c4cb475",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "hernecklace": {
       "ver": "1.0.4",
-      "uuid": "7206731c-9440-4691-a5d1-3210d7df71f2",
-      "rawTextureUuid": "bb1f8ecc-30bd-4cb2-a2fe-dbc09593eb16",
+      "uuid": "ead56986-1fdb-4bec-9c63-b78e0b9bf192",
+      "rawTextureUuid": "d800a733-208f-40e7-8598-7c222c4cb475",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

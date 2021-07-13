@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c9313894-ae76-4309-afa9-09cda186e835",
+  "uuid": "5c030407-ff10-4b49-824a-e7b238633b90",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "kheer": {
       "ver": "1.0.4",
-      "uuid": "ea57df45-7686-44be-984d-9db8f0103014",
-      "rawTextureUuid": "c9313894-ae76-4309-afa9-09cda186e835",
+      "uuid": "eb99ab56-3b76-429e-8a7c-ced2f6cf86f5",
+      "rawTextureUuid": "5c030407-ff10-4b49-824a-e7b238633b90",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

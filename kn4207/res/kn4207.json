@@ -4,56 +4,67 @@
       "spelldoor",
       "1",
       "Description",
-      "ನುಣುಪು ",
-      "*ಣುಪು ",
+      "ದೂರವಾಣಿ ",
+      "*ರವಾಣಿ",
       "0",
       "0",
-      "smooth.png",
-      "ನುಣುಪು.mp3"
+      "telephone.png",
+      "ದೂರವಾಣಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಚುರುಕು ",
-      "ಚು*ಕು",
+      "ಜಾದೂಗಾರ ",
+      "ಜಾ*ಗಾರ",
       "0",
       "0",
-      "agile.png",
-      "ಚುರುಕು.mp3"
+      "magician.png",
+      "ಜಾದೂಗಾರ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಕುರಿ ",
-      "*ರಿ ",
+      "ಕೂದಲು ",
+      "*ದಲು",
       "0",
       "0",
-      "sheep.png",
-      "ಕುರಿ.mp3"
+      "hair.png",
+      "ಕೂದಲು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಗುಡಿ ",
-      "*ಡಿ ",
+      "ಮೂರು ",
+      "*ರು ",
       "0",
       "0",
-      "temple.png",
-      "ಗುಡಿ.mp3"
+      "three.png",
+      "ಮೂರು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಚುರುಮುರಿ ",
-      "ಚುರು*ರಿ ",
+      "ಬಲೂನು ",
+      "ಬ*ನು ",
       "0",
       "0",
-      "puffed_rice.png",
-      "ಚುರುಮುರಿ.mp3"
+      "balloon.png",
+      "ಬಲೂನು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಗೂಡು ",
+      "*ಡು ",
+      "0",
+      "0",
+      "birdnest.png",
+      "ಗೂಡು.mp3"
     ]
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a0c441ce-bc99-464c-9919-f62bbf23fa1f",
+  "uuid": "af9ac7dd-5677-4966-987d-f45b64a36945",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "science": {
       "ver": "1.0.4",
-      "uuid": "654f499e-f061-4008-9286-cbf4350daaee",
-      "rawTextureUuid": "a0c441ce-bc99-464c-9919-f62bbf23fa1f",
+      "uuid": "d85e6dcb-4d25-4656-b420-8d0842c9567c",
+      "rawTextureUuid": "af9ac7dd-5677-4966-987d-f45b64a36945",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

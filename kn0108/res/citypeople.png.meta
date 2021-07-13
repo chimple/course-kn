@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6d393c90-6b88-4400-970e-c743851f25cc",
+  "uuid": "d5d60af7-c891-4c77-8612-a0fbd0d496cc",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "citypeople": {
       "ver": "1.0.4",
-      "uuid": "346c71f0-ec5b-4271-8e9b-90e6017909bf",
-      "rawTextureUuid": "6d393c90-6b88-4400-970e-c743851f25cc",
+      "uuid": "0fdfa25d-e3b0-48d3-a045-e198c83a842e",
+      "rawTextureUuid": "d5d60af7-c891-4c77-8612-a0fbd0d496cc",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

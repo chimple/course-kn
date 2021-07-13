@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a47e74ad-e737-49d8-bbfc-23072290cd24",
+  "uuid": "a1a01985-9ce6-46d7-83d1-c3d5c3d67d3a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "girlwithflute": {
       "ver": "1.0.4",
-      "uuid": "2c50e6f7-e1a3-4259-983d-1344edabe679",
-      "rawTextureUuid": "a47e74ad-e737-49d8-bbfc-23072290cd24",
+      "uuid": "bf91a8a6-7d6e-466c-8f8f-33fc59f16a33",
+      "rawTextureUuid": "a1a01985-9ce6-46d7-83d1-c3d5c3d67d3a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

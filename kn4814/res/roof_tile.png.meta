@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "8ecb7b63-c1de-4fc0-80c1-dffbb9ed947e",
+  "uuid": "74681451-8ede-4e5c-8803-95388e8f0e5e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "roof_tile": {
       "ver": "1.0.4",
-      "uuid": "3c684889-7b3f-4262-ab76-87f947a9b8a4",
-      "rawTextureUuid": "8ecb7b63-c1de-4fc0-80c1-dffbb9ed947e",
+      "uuid": "88efa481-b465-43be-bd21-08a2c9e8cca1",
+      "rawTextureUuid": "74681451-8ede-4e5c-8803-95388e8f0e5e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

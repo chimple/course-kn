@@ -4,67 +4,56 @@
       "spelldoor",
       "1",
       "Description",
-      "ದೂರವಾಣಿ ",
-      "*ರವಾಣಿ",
+      "ಮದುವೆ ",
+      "ಮದು*",
       "0",
       "0",
-      "telephone.png",
-      "ದೂರವಾಣಿ.mp3"
+      "marriage.png",
+      "ಮದುವೆ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಜಾದೂಗಾರ ",
-      "ಜಾ*ಗಾರ",
+      "ನೆಗೆದಾಟ ",
+      "ನೆಗೆ*ಟ",
       "0",
       "0",
-      "magician.png",
-      "ಜಾದೂಗಾರ.mp3"
+      "jump.png",
+      "ನೆಗೆದಾಟ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಕೂದಲು ",
-      "*ದಲು",
+      "ಹಣತೆ ",
+      "ಹಣ*",
       "0",
       "0",
-      "hair.png",
-      "ಕೂದಲು.mp3"
+      "lamp.png",
+      "ಹಣತೆ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಮೂರು ",
-      "*ರು ",
+      "ಕುದುರೆ ",
+      "ಕುದು*",
       "0",
       "0",
-      "three.png",
-      "ಮೂರು.mp3"
+      "horse.png",
+      "ಕುದುರೆ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಬಲೂನು ",
-      "ಬ*ನು ",
+      "ಮಳೆ ",
+      "ಮ*",
       "0",
       "0",
-      "balloon.png",
-      "ಬಲೂನು.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಗೂಡು ",
-      "*ಡು ",
-      "0",
-      "0",
-      "birdnest.png",
-      "ಗೂಡು.mp3"
+      "rain.png",
+      "ಮಳೆ.mp3"
     ]
   ]
 }

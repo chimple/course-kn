@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a1b8b978-a41e-48c9-b63c-9cc3130cc51a",
+  "uuid": "457fe077-ec43-4b1a-ac85-cdaa1a187ef3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "dargah": {
       "ver": "1.0.4",
-      "uuid": "4bb13513-ee13-404a-910c-5cd48517eb85",
-      "rawTextureUuid": "a1b8b978-a41e-48c9-b63c-9cc3130cc51a",
+      "uuid": "404e951e-0847-46f6-be06-8aae390e3158",
+      "rawTextureUuid": "457fe077-ec43-4b1a-ac85-cdaa1a187ef3",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

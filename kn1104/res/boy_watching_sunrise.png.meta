@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "777d02bc-14e7-4201-8cbe-8cbab096621f",
+  "uuid": "b15c806e-42d3-483d-a785-bf21e466e17b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "boy_watching_sunrise": {
       "ver": "1.0.4",
-      "uuid": "ff30340d-b13a-451b-8b09-8107a25a9167",
-      "rawTextureUuid": "777d02bc-14e7-4201-8cbe-8cbab096621f",
+      "uuid": "e145bfe6-ac15-4e04-9073-a1a198a8919d",
+      "rawTextureUuid": "b15c806e-42d3-483d-a785-bf21e466e17b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -4,56 +4,100 @@
       "spelldoor",
       "1",
       "Description",
-      "ಎಲೆ ",
+      "ಕೇಳು ",
       "**",
       "0",
       "0",
-      "leaf.png",
-      "ಎಲೆ.mp3"
+      "ask.png",
+      "ಕೇಳು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಜಡೆ ",
+      "ಚೇಳು ",
       "**",
       "0",
       "0",
-      "plait.png",
-      "ಜಡೆ.mp3"
+      "scorpion.png",
+      "ಚೇಳು.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಬೆಲೆ ",
+      "ದೇವ ",
       "**",
       "0",
       "0",
-      "price.png",
-      "ಬೆಲೆ.mp3"
+      "god.png",
+      "ದೇವ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಮದುವೆ ",
+      "ದೇಶ ",
+      "**",
+      "0",
+      "0",
+      "nation.png",
+      "ದೇಶ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮೇಲೆ ",
+      "**",
+      "0",
+      "0",
+      "upon.png",
+      "ಮೇಲೆ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಚೇತನ ",
       "***",
       "0",
       "0",
-      "marriage.png",
-      "ಮದುವೆ.mp3"
+      "The spirit.png",
+      "ಚೇತನ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಗೆಳೆತನ ",
+      "ಸೇವಿಸು ",
+      "***",
+      "0",
+      "0",
+      "eat.png",
+      "ಸೇವಿಸು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಬೇಟೆಗಾರ ",
       "****",
       "0",
       "0",
-      "friendship.png",
-      "ಗೆಳೆತನ.mp3"
+      "hunter.png",
+      "ಬೇಟೆಗಾರ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಜೇನುಹುಳು ",
+      "****",
+      "0",
+      "0",
+      "bee.png",
+      "ಜೇನುಹುಳು.mp3"
     ]
   ]
 }

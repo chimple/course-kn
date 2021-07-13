@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "235e128d-d7a8-4de2-a296-a804e8787658",
+  "uuid": "d643ac23-e616-451a-993f-1784628ab362",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "mosambi_citrus": {
       "ver": "1.0.4",
-      "uuid": "a95b5b46-8e6f-44cd-82ce-9c2b537619a5",
-      "rawTextureUuid": "235e128d-d7a8-4de2-a296-a804e8787658",
+      "uuid": "a06d2452-ab01-485b-8928-905a850bfebf",
+      "rawTextureUuid": "d643ac23-e616-451a-993f-1784628ab362",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "f3939a80-c6e6-445a-94df-a74df0fab927",
+  "uuid": "8a4b4bd2-b20e-4076-abd4-86e63cd53de7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "boy with garland": {
       "ver": "1.0.4",
-      "uuid": "ddf20343-faaa-4267-9659-01d4c484bac8",
-      "rawTextureUuid": "f3939a80-c6e6-445a-94df-a74df0fab927",
+      "uuid": "fd3cbdd8-2149-46d7-a1fd-2b7c08e01b21",
+      "rawTextureUuid": "8a4b4bd2-b20e-4076-abd4-86e63cd53de7",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

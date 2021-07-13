@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "92652759-14d1-4a58-977d-7e0ffcbabb59",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 640,
+  "platformSettings": {},
+  "subMetas": {
+    "bride_groom": {
+      "ver": "1.0.4",
+      "uuid": "14222596-2f40-4b5a-b7e0-722c88031e23",
+      "rawTextureUuid": "92652759-14d1-4a58-977d-7e0ffcbabb59",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 640,
+      "rawWidth": 800,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

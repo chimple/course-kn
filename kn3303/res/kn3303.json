@@ -6,7 +6,7 @@
       "Description",
       "ಪದ್ಯವ/ಕಲಿತು/ರಾಗದಿ/ಹಾಡಿ/ಮೆಚ್ಚುಗೆ/ಗಳಿಸಬಹುದು",
       "",
-      "student/in/classroom.jpg",
+      "student_in_classroom.png",
       "ಪದ್ಯವ ಕಲಿತು ರಾಗದಿ ಹಾಡಿ ಮೆಚ್ಚುಗೆ ಗಳಿಸಬಹುದು.mp3"
     ],
     [
@@ -15,16 +15,16 @@
       "Description",
       "ಶಾಲೆಯೇ/ಬೆಳಕು",
       "",
-      "school.jpg",
+      "school.png",
       "ಶಾಲೆಯೇ ಬೆಳಕು.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "ಪಾಠವನ್ನು ಓದಿ, ಲೆಕ್ಕವನ್ನು ಮಾಡಿ ಜಾಣನಾಗಬಹುದು",
+      "ಪಾಠವನ್ನು/ಓದಿ,/ಲೆಕ್ಕವನ್ನು/ಮಾಡಿ/ಜಾಣನಾಗಬಹುದು",
       "",
-      "student reading.jpg",
+      "student reading.png",
       "ಪಾಠವನ್ನು ಓದಿ, ಲೆಕ್ಕವನ್ನು ಮಾಡಿ ಜಾಣನಾಗಬಹುದು.mp3"
     ]
   ]

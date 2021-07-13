@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "049df1c9-0b30-413b-9500-97344b05c0c0",
+  "uuid": "b69b53b7-666b-42ea-9e2b-b2edba98df26",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "Ambedkar": {
       "ver": "1.0.4",
-      "uuid": "66a54362-fdfc-4ad1-ba7c-6c21736de4e8",
-      "rawTextureUuid": "049df1c9-0b30-413b-9500-97344b05c0c0",
+      "uuid": "8dc2dcdf-1bfb-460c-9608-747ad7e681c0",
+      "rawTextureUuid": "b69b53b7-666b-42ea-9e2b-b2edba98df26",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

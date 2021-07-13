@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3d49862f-e394-41d8-aa46-e5a7ef653ebd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 450,
+  "height": 800,
+  "platformSettings": {},
+  "subMetas": {
+    "ganapati _temple ": {
+      "ver": "1.0.4",
+      "uuid": "0cb84468-85da-402f-9775-5a40f91e0c70",
+      "rawTextureUuid": "3d49862f-e394-41d8-aa46-e5a7ef653ebd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 450,
+      "height": 800,
+      "rawWidth": 450,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

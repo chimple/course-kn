@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "2cb26da3-0e24-4735-ba3f-889215a09727",
+  "uuid": "e62f0f26-a26a-4d08-ba32-ede87de5edc2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "arena_ring": {
       "ver": "1.0.4",
-      "uuid": "cf2c30f1-466a-4fd7-9821-3e63f8db906c",
-      "rawTextureUuid": "2cb26da3-0e24-4735-ba3f-889215a09727",
+      "uuid": "12005892-1384-405e-93ec-253416d9db2e",
+      "rawTextureUuid": "e62f0f26-a26a-4d08-ba32-ede87de5edc2",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,0 +1,48 @@
+{
+  "rows": [
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಹೂವು ",
+      "**",
+      "0",
+      "0",
+      "flower.png",
+      "ಹೂವು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ವಾನರ ",
+      "***",
+      "0",
+      "0",
+      "monkey.png",
+      "ವಾನರ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ತರಕಾರಿ ",
+      "****",
+      "0",
+      "0",
+      "vegetables.png",
+      "ತರಕಾರಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಹೂಜಿ ",
+      "**",
+      "0",
+      "0",
+      "longneckedjug.png",
+      "ಹೂಜಿ.mp3"
+    ]
+  ]
+}

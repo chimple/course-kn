@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "fc3cdd92-850d-49b2-866d-71d8998c4718",
+  "uuid": "4aae4b35-2e4b-470c-a221-41aa5e025f1c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "people_watch_sunrise": {
       "ver": "1.0.4",
-      "uuid": "ed1fe8a6-196f-4229-8a0b-5c439b02c2cd",
-      "rawTextureUuid": "fc3cdd92-850d-49b2-866d-71d8998c4718",
+      "uuid": "5cc2eed4-8058-453f-b95e-a051439befad",
+      "rawTextureUuid": "4aae4b35-2e4b-470c-a221-41aa5e025f1c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

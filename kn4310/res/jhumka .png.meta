@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b91486cc-11b9-4ff8-b9ac-a1cb54c30c9f",
+  "uuid": "a5b1031d-7f74-440b-93ba-ca2a91479923",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "jhumka ": {
       "ver": "1.0.4",
-      "uuid": "afad74a0-e8a1-4d52-b9ea-3cb4b1f9a12c",
-      "rawTextureUuid": "b91486cc-11b9-4ff8-b9ac-a1cb54c30c9f",
+      "uuid": "8dc7b230-d4a8-4c28-a5d4-f17038c3eaec",
+      "rawTextureUuid": "a5b1031d-7f74-440b-93ba-ca2a91479923",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

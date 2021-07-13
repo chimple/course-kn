@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c4028d0e-6fe4-43ad-924b-1ede49deccb0",
+  "uuid": "8ed63c07-9f1d-46c3-86f7-dd3385d9a2cd",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "coconut palm": {
       "ver": "1.0.4",
-      "uuid": "0899fee2-6421-4082-bf4f-7f291a506c61",
-      "rawTextureUuid": "c4028d0e-6fe4-43ad-924b-1ede49deccb0",
+      "uuid": "f3d127c1-83a0-4cd5-8a33-0f35b482e22b",
+      "rawTextureUuid": "8ed63c07-9f1d-46c3-86f7-dd3385d9a2cd",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,64 +1,66 @@
 {
   "rows": [
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "4",
-      "ಅದರ ",
-      "ಅದರ.mp3",
-      "ಅ",
-      "ಅ.mp3",
-      "ದ",
-      "ದ.mp3",
-      "ರ",
-      "ರ.mp3"
+      "ಕುಣಿ",
+      "*ಣಿ",
+      "0",
+      "0",
+      "dance.png",
+      "ಕುಣಿ.mp3"
     ],
     [
       "phonictractor",
       "1",
       "Description",
       "4",
-      "ನಲಿ",
-      "ನಲಿ.mp3",
-      "ನ",
-      "ನ.mp3",
-      "ಲಿ",
-      "ಲಿ.mp3"
+      "ಮುಂದೆ",
+      "ಮುಂದೆ.mp3",
+      "ಮುಂ",
+      "ಮುಂ.mp3",
+      "ದೆ",
+      "ದೆ.mp3"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "4",
+      "ತಿರುಗಿ",
+      "ತಿರುಗಿ.mp3",
+      "ತಿ",
+      "ತಿ.mp3",
+      "ರು",
+      "ರು.mp3",
+      "ಗಿ",
+      "ಗಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಜೊತೆ",
+      "ಹಿಂದೆ",
       "**",
       "0",
       "0",
-      "together.png",
-      "ಜೊತೆ.mp3"
+      "behind.png",
+      "ಹಿಂದೆ.mp3"
     ],
     [
       "phonictractor",
       "1",
       "Description",
       "4",
-      "ತಂಗಿ",
-      "ತಂಗಿ.mp3",
-      "ತಂ",
-      "ತಂ.mp3",
-      "ಗಿ",
-      "ಗಿ.mp3"
-    ],
-    [
-      "openwindow",
-      "1",
-      "Description",
-      "LEGIT",
-      "ಆ,ಟ,ವಾ,ಡು",
-      "playwith.png",
-      "cooking.png",
-      "ಆಟವಾಡು.mp3",
-      "ಆ,ಟ,ವಾ,ಡು"
+      "ಬಳಿಕ ",
+      "ಬಳಿಕ.mp3",
+      "ಬ",
+      "ಬ.mp3",
+      "ಳಿ",
+      "ಳಿ.mp3",
+      "ಕ",
+      "ಕ.mp3"
     ]
   ]
 }

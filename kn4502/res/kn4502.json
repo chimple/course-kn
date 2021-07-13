@@ -1,39 +1,12 @@
 {
   "rows": [
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಟೇ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಚೇ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಲೇ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಷೇ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಕೇ ",
-      "-"
+      "ಧ,ಢ,ಥ,ಭ ",
+      "ಉ,ಊ ",
+      "ು,ೂ"
     ]
   ]
 }

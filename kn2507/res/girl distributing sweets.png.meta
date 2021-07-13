@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c1c68996-34ae-48c3-8c25-280049c4656c",
+  "uuid": "f122df6d-c8c6-4adf-8262-1fff6559f872",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "girl distributing sweets": {
       "ver": "1.0.4",
-      "uuid": "29d253d0-28f2-4d02-8dfe-96a546a5ad6d",
-      "rawTextureUuid": "c1c68996-34ae-48c3-8c25-280049c4656c",
+      "uuid": "6a1d92bc-6dad-401b-97ae-523548ae7119",
+      "rawTextureUuid": "f122df6d-c8c6-4adf-8262-1fff6559f872",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7e8e35fd-092e-46ca-8a22-f81b8fcf36b9",
+  "uuid": "b4e21a43-0e1b-4d3e-bba6-2e2d721bb710",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "kings_soldier": {
       "ver": "1.0.4",
-      "uuid": "22538253-2136-4e96-8d4c-cca42f496c7d",
-      "rawTextureUuid": "7e8e35fd-092e-46ca-8a22-f81b8fcf36b9",
+      "uuid": "e6ae233a-6ef6-406a-b708-f76bf5f59126",
+      "rawTextureUuid": "b4e21a43-0e1b-4d3e-bba6-2e2d721bb710",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "d6f21a56-01e6-4870-853b-507fd4b7fbf5",
+  "uuid": "0aa9c930-01d0-4bda-81d0-b7a263c25fb2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "damru": {
       "ver": "1.0.4",
-      "uuid": "10d24433-332b-4fec-9d41-defd15509bf9",
-      "rawTextureUuid": "d6f21a56-01e6-4870-853b-507fd4b7fbf5",
+      "uuid": "df01b76d-6a5d-4c64-b600-b359339e60df",
+      "rawTextureUuid": "0aa9c930-01d0-4bda-81d0-b7a263c25fb2",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

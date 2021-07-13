@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6efb16cc-2fb3-4346-896e-5b5e2f3d9475",
+  "uuid": "85539e31-59ef-46a5-97b2-97479405ddc8",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "placard": {
       "ver": "1.0.4",
-      "uuid": "009d07d0-87b2-4b62-b399-22d7484c9a2a",
-      "rawTextureUuid": "6efb16cc-2fb3-4346-896e-5b5e2f3d9475",
+      "uuid": "2c8851e1-4ad8-49e3-beeb-9dc50e4fac78",
+      "rawTextureUuid": "85539e31-59ef-46a5-97b2-97479405ddc8",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

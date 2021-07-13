@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "fdc41f0a-f90e-41a7-8869-a8ecd49a4374",
+  "uuid": "f02806e1-194e-41ec-8211-c7bdcf918155",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "shahanyi": {
       "ver": "1.0.4",
-      "uuid": "58b3b098-e55c-4e83-b04f-146fcfa810ed",
-      "rawTextureUuid": "fdc41f0a-f90e-41a7-8869-a8ecd49a4374",
+      "uuid": "036fe69d-e9f2-4452-8e48-9863eb514a2b",
+      "rawTextureUuid": "f02806e1-194e-41ec-8211-c7bdcf918155",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

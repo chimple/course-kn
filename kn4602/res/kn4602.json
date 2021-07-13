@@ -1,60 +1,20 @@
 {
   "rows": [
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಧು ",
-      "-"
+      "ಠ,ಘ,ಫ,",
+      "ಇ ",
+      "ಿ"
     ],
     [
-      "writeletter",
+      "grid",
       "1",
       "Description",
-      "ಢು",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಥು",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಭು ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಧೂ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಢೂ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಥೂ ",
-      "-"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "ಭೂ ",
-      "-"
+      "ಝ,ಖ",
+      "ಇ ",
+      "ಿ"
     ]
   ]
 }

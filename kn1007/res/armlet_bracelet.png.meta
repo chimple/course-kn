@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b814ba50-86fd-4e84-b92d-f2c75b639726",
+  "uuid": "923e966f-942c-4ed7-a18b-66aea854d60a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "armlet_bracelet": {
       "ver": "1.0.4",
-      "uuid": "d1eb41c8-5a93-43b9-8cef-9ca5b7afe3db",
-      "rawTextureUuid": "b814ba50-86fd-4e84-b92d-f2c75b639726",
+      "uuid": "e58b34be-1f02-4f5e-b779-dafc0c0f9b35",
+      "rawTextureUuid": "923e966f-942c-4ed7-a18b-66aea854d60a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

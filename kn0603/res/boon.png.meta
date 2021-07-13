@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0696618b-0400-4db9-9aa5-95c020ada47e",
+  "uuid": "14704f04-9b16-4eeb-b11a-82df955df420",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "boon": {
       "ver": "1.0.4",
-      "uuid": "5911bb70-f25e-4ea6-935f-f865a5891b9b",
-      "rawTextureUuid": "0696618b-0400-4db9-9aa5-95c020ada47e",
+      "uuid": "5f8e1b8a-c920-471e-a78a-f1c2d83e04a5",
+      "rawTextureUuid": "14704f04-9b16-4eeb-b11a-82df955df420",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

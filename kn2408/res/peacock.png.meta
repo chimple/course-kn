@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "d006df16-b78a-44c0-ac88-1021d46ce621",
+  "uuid": "654be6a5-33ca-4f03-b8a8-24cdc058367e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "peacock": {
       "ver": "1.0.4",
-      "uuid": "53c6215b-e2ed-4898-a759-f2bb0e1719bc",
-      "rawTextureUuid": "d006df16-b78a-44c0-ac88-1021d46ce621",
+      "uuid": "c297ebb1-7883-405c-ba7c-d2648a853178",
+      "rawTextureUuid": "654be6a5-33ca-4f03-b8a8-24cdc058367e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

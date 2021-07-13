@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b5eed6da-698a-44af-8168-3337bc0f033e",
+  "uuid": "76afa176-901c-4948-a064-0a6423d17694",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "queens_chamber": {
       "ver": "1.0.4",
-      "uuid": "bc2e106b-a807-42ec-a078-100e13ea015d",
-      "rawTextureUuid": "b5eed6da-698a-44af-8168-3337bc0f033e",
+      "uuid": "e416ea7b-c6c2-4065-9047-ceb4cfe01b5f",
+      "rawTextureUuid": "76afa176-901c-4948-a064-0a6423d17694",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

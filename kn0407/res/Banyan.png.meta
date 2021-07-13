@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "5825befa-e32e-438c-bae5-dd4a28b5dc34",
+  "uuid": "62e3c45f-18e1-497c-b03d-bf04a87d175a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "Banyan": {
       "ver": "1.0.4",
-      "uuid": "0adba479-f761-4865-897e-e914c15ae48a",
-      "rawTextureUuid": "5825befa-e32e-438c-bae5-dd4a28b5dc34",
+      "uuid": "54ab7271-b229-4350-b4dd-e591314fd8fd",
+      "rawTextureUuid": "62e3c45f-18e1-497c-b03d-bf04a87d175a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "dc708c8d-0de8-4f18-920d-0bd2a6095aaf",
+  "uuid": "872f1c54-bfea-41da-a065-0f8903292463",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "books": {
       "ver": "1.0.4",
-      "uuid": "a72be164-4d3e-4fa5-b39e-b303abf98e95",
-      "rawTextureUuid": "dc708c8d-0de8-4f18-920d-0bd2a6095aaf",
+      "uuid": "cc2dfa0f-631e-4f2d-ab01-65fc6b339a75",
+      "rawTextureUuid": "872f1c54-bfea-41da-a065-0f8903292463",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

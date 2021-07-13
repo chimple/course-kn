@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "4d52e05f-e853-4f3e-a3ad-d7a0e11bd5c6",
+  "uuid": "e9d4c1d4-e010-42ab-ab3c-69415e80b5a4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "sunrise_sky": {
       "ver": "1.0.4",
-      "uuid": "d7613e2e-c728-4f97-8019-77430fa1a6ef",
-      "rawTextureUuid": "4d52e05f-e853-4f3e-a3ad-d7a0e11bd5c6",
+      "uuid": "916131e5-8b23-459d-b873-3d530e4e992b",
+      "rawTextureUuid": "e9d4c1d4-e010-42ab-ab3c-69415e80b5a4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "9203d755-9f62-4309-8134-f38b361c41de",
+  "uuid": "f6ac982f-9a6f-4253-b0ae-ba475cf0ee8a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "monkey": {
       "ver": "1.0.4",
-      "uuid": "1084ab85-d0ce-48a6-b843-981bc2a9c0cd",
-      "rawTextureUuid": "9203d755-9f62-4309-8134-f38b361c41de",
+      "uuid": "7dac6e67-d822-4b91-8932-d999b6053414",
+      "rawTextureUuid": "f6ac982f-9a6f-4253-b0ae-ba475cf0ee8a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

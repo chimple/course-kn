@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "3864afe1-b458-4609-b7c2-44457997ed97",
+  "uuid": "9a5d5bf2-6ae3-4074-88db-c3bf12bf6c67",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "christmas": {
       "ver": "1.0.4",
-      "uuid": "6c06879d-ed4f-4371-8be9-84eb856a063f",
-      "rawTextureUuid": "3864afe1-b458-4609-b7c2-44457997ed97",
+      "uuid": "e6bbfebd-2c8a-4ed0-80c1-9cb70462b080",
+      "rawTextureUuid": "9a5d5bf2-6ae3-4074-88db-c3bf12bf6c67",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "2174e05f-f657-4445-9a3c-b1804aa0b6f4",
+  "uuid": "0cc515a3-e617-492c-a207-ea148d0df358",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "darga": {
       "ver": "1.0.4",
-      "uuid": "27c05bc3-45f7-4f54-9432-1ef6ed841cac",
-      "rawTextureUuid": "2174e05f-f657-4445-9a3c-b1804aa0b6f4",
+      "uuid": "e40abdf3-0686-4d27-9dab-05aea9f38beb",
+      "rawTextureUuid": "0cc515a3-e617-492c-a207-ea148d0df358",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

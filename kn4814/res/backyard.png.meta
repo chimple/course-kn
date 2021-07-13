@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "f3b42ce7-17fe-4c02-b336-fb7980c29eb2",
+  "uuid": "e19bf131-a70d-439c-ac10-d2b222777734",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "backyard": {
       "ver": "1.0.4",
-      "uuid": "8ecff065-0026-4902-a31a-a28d993ab4b4",
-      "rawTextureUuid": "f3b42ce7-17fe-4c02-b336-fb7980c29eb2",
+      "uuid": "f30f8c9d-a400-48c2-bbca-22fada5f78af",
+      "rawTextureUuid": "e19bf131-a70d-439c-ac10-d2b222777734",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

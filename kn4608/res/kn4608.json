@@ -1,0 +1,77 @@
+{
+  "rows": [
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಝರಿ ",
+      "**",
+      "0",
+      "0",
+      "stream.png",
+      "ಝರಿ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಘಟ ",
+      "pot.png",
+      "ಘಟ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಫಲಕ ",
+      "board.png",
+      "ಫಲಕ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಖನಿಜ ",
+      "***",
+      "0",
+      "0",
+      "ores.png",
+      "ಖನಿಜ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಪಠಣ ",
+      "recite.png",
+      "ಪಠಣ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ವಠಾರ ",
+      "***",
+      "0",
+      "0",
+      "commonplace.png",
+      "ವಠಾರ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಝಣಝಣ ",
+      "coins.png",
+      "ಝಣಝಣ.mp3"
+    ],
+    [
+      "writeword",
+      "1",
+      "Description",
+      "ಘಮಘಮ ",
+      "mango.png",
+      "ಘಮಘಮ.mp3"
+    ]
+  ]
+}

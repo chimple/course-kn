@@ -1,0 +1,49 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಚೆಂಡಿನ/ಆಟ/ಹರುಷದ/ಆಟ",
+      "",
+      "ball_game.png",
+      "ಚೆಂಡಿನ ಆಟ ಹರುಷದ ಆಟ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಶಾಲೆಯ/ಘಂಟೆಯ/ನಾದ/ಕೇಳಿಸಿತು",
+      "",
+      "school_bell.png",
+      "ಶಾಲೆಯ ಘಂಟೆಯ ನಾದ ಕೇಳಿಸಿತು.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ರಂಗನ/ರಂಗು/ರಂಗಿನ/ಅಂಗಿ",
+      "",
+      "colourful shirt.png",
+      "ರಂಗನ ರಂಗು ರಂಗಿನ ಅಂಗಿ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ದೇವರ/ಗುಡಿಯಲಿ/ಘಂಟೆಯ/ನಾದ",
+      "",
+      "temple bell.png",
+      "ದೇವರ ಗುಡಿಯಲಿ ಘಂಟೆಯ ನಾದ.mp3 "
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಏಳನೀರು/ಕುಡಿದರೆ/ಬಲು/ತಂಪು",
+      "",
+      "tendercoconut.png",
+      "ಏಳನೀರು ಕುಡಿದರೆ ಬಲು ತಂಪು.mp3"
+    ]
+  ]
+}

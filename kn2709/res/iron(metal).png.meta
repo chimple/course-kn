@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "82be28bd-ae12-4c15-99c5-551345b03569",
+  "uuid": "baa192d6-fb0a-428b-b7cd-24fa705e404e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "iron(metal)": {
       "ver": "1.0.4",
-      "uuid": "f3091594-1b98-4a81-ab6b-6e32dbd983b5",
-      "rawTextureUuid": "82be28bd-ae12-4c15-99c5-551345b03569",
+      "uuid": "3d89b7c6-62a9-4dc5-a046-a03056e16cbd",
+      "rawTextureUuid": "baa192d6-fb0a-428b-b7cd-24fa705e404e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

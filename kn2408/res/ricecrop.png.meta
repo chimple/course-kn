@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "57758976-45a2-425e-9f08-1884b324b4c6",
+  "uuid": "94c139e8-9c76-4608-a883-3ce59cb73128",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "ricecrop": {
       "ver": "1.0.4",
-      "uuid": "ebd36e51-c658-4374-b5c7-1de0fb97f77e",
-      "rawTextureUuid": "57758976-45a2-425e-9f08-1884b324b4c6",
+      "uuid": "35f1e31d-2ce6-4378-86ba-4f6e4f13a247",
+      "rawTextureUuid": "94c139e8-9c76-4608-a883-3ce59cb73128",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

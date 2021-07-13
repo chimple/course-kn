@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "5e0e88cf-2bb1-4d8e-baa4-81442649f16d",
+  "uuid": "b654aad9-1351-4f03-9463-36224ca7c6f3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "guava": {
       "ver": "1.0.4",
-      "uuid": "b2d383f3-272c-4f95-ac08-abf750d416cb",
-      "rawTextureUuid": "5e0e88cf-2bb1-4d8e-baa4-81442649f16d",
+      "uuid": "656ac165-5154-438d-980e-2c747aa29202",
+      "rawTextureUuid": "b654aad9-1351-4f03-9463-36224ca7c6f3",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,0 +1,70 @@
+{
+  "rows": [
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮಾರಾಟ ",
+      "***",
+      "0",
+      "0",
+      "sale.png",
+      "ಮಾರಾಟ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಚಿಲಕ ",
+      "***",
+      "0",
+      "0",
+      "latch.png",
+      "ಚಿಲಕ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಹುಳು ",
+      "**",
+      "0",
+      "0",
+      "worm.png",
+      "ಹುಳು.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಬೀಗ ",
+      "ಬೀ*",
+      "0",
+      "0",
+      "lock.png",
+      "ಬೀಗ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ತೂರಾಟ ",
+      "***",
+      "0",
+      "0",
+      "rush.png",
+      "ತೂರಾಟ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಯುಗಾದಿ ",
+      "***",
+      "0",
+      "0",
+      "yugadi.png",
+      "ಯುಗಾದಿ.mp3"
+    ]
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "9179c9bd-e795-4218-aeff-dc6b7177d30c",
+  "uuid": "b40e82c1-e86d-4298-9334-d8a345215c5a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "mango": {
       "ver": "1.0.4",
-      "uuid": "db38fc9e-38c9-4eec-936d-f622ba5d0911",
-      "rawTextureUuid": "9179c9bd-e795-4218-aeff-dc6b7177d30c",
+      "uuid": "edd9ebaf-6a70-4446-b109-f793226d1363",
+      "rawTextureUuid": "b40e82c1-e86d-4298-9334-d8a345215c5a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

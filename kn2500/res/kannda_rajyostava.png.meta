@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "9137ef63-751a-4ce8-8f9f-2ba557f750bb",
+  "uuid": "bc29dcde-7f54-4c08-8151-8c5793de9ed6",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "kannda_rajyostava": {
       "ver": "1.0.4",
-      "uuid": "d1898372-5fdb-4028-94eb-27d0e440fc12",
-      "rawTextureUuid": "9137ef63-751a-4ce8-8f9f-2ba557f750bb",
+      "uuid": "182e3d67-8ba9-4f4f-9855-b5a03b0ec566",
+      "rawTextureUuid": "bc29dcde-7f54-4c08-8151-8c5793de9ed6",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

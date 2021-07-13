@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0278a662-8e46-438a-b08c-6ac7ea35237e",
+  "uuid": "98bcb581-f77e-4b04-8017-c79b542a7755",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "birdfeedingbabies": {
       "ver": "1.0.4",
-      "uuid": "7e8b8ba6-a1d3-4d70-966b-05884358abd1",
-      "rawTextureUuid": "0278a662-8e46-438a-b08c-6ac7ea35237e",
+      "uuid": "7b558609-02b4-45a1-beb5-9da090de584a",
+      "rawTextureUuid": "98bcb581-f77e-4b04-8017-c79b542a7755",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

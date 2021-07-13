@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "54d2c166-de14-45db-bd0a-2c1bf45f66ce",
+  "uuid": "592dd7a1-2135-4ae8-9de2-7ced367c399e",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "boyflyingkite": {
       "ver": "1.0.4",
-      "uuid": "70b97ede-bac8-4eae-aaf0-11c844f5ea3c",
-      "rawTextureUuid": "54d2c166-de14-45db-bd0a-2c1bf45f66ce",
+      "uuid": "840c7dba-e416-45fe-b3a0-27b8bf9c00da",
+      "rawTextureUuid": "592dd7a1-2135-4ae8-9de2-7ced367c399e",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

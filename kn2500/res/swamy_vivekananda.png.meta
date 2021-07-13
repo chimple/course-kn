@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "d2575430-3fb3-40f8-b6a4-7cee712f740e",
+  "uuid": "59d0d62e-14e7-4bad-b080-4153d2845dde",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "swamy_vivekananda": {
       "ver": "1.0.4",
-      "uuid": "8ffdaa64-2bef-4a0b-a887-4ea470c5c773",
-      "rawTextureUuid": "d2575430-3fb3-40f8-b6a4-7cee712f740e",
+      "uuid": "3d2a0cd2-9b7d-4fc1-9789-58cba00e9acc",
+      "rawTextureUuid": "59d0d62e-14e7-4bad-b080-4153d2845dde",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

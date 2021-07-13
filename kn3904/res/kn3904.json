@@ -4,89 +4,89 @@
       "spelldoor",
       "1",
       "Description",
-      "ಜಾಣ ",
+      "ತಾಯಿ ",
+      "",
+      "",
+      "",
+      "mom.png",
+      "ತಾಯಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮರಿ ",
+      "",
+      "",
+      "",
+      "babyanimal.png",
+      "ಮರಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಗಿರಾಕಿ ",
+      "",
+      "",
+      "",
+      "buyer.png",
+      "ಗಿರಾಕಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ತರಕಾರಿ ",
+      "",
+      "",
+      "",
+      "vegetables.png",
+      "ತರಕಾರಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮಸಿ ",
       "**",
       "0",
       "0",
-      "smart_boy.png",
-      "ಜಾಣ.mp3"
+      "sooth.png",
+      "ಮಸಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ರಾಗ ",
+      "ಏರಿ ",
       "**",
       "0",
       "0",
-      "song.png",
-      "ರಾಗ.mp3"
+      "bund.png",
+      "ಏರಿ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಲಾಗ ",
-      "**",
-      "0",
-      "0",
-      "laga.png",
-      "ಲಾಗ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಛಾಯ",
-      "**",
-      "0",
-      "0",
-      "shadow.png",
-      "ಛಾಯ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಕಾದಾಟ ",
+      "ಚಿಲಕ ",
       "***",
       "0",
       "0",
-      "fight.png",
-      "ಕಾದಾಟ.mp3"
+      "latch.png",
+      "ಚಿಲಕ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಹಾರಾಟ ",
-      "***",
+      "ಶನಿವಾರ ",
+      "****",
       "0",
       "0",
-      "flight.png",
-      "ಹಾರಾಟ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ನಾಟಕ ",
-      "***",
-      "0",
-      "0",
-      "drama.png",
-      "ನಾಟಕ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಮಾರಾಟ ",
-      "***",
-      "0",
-      "0",
-      "sale.png",
-      "ಮಾರಾಟ.mp3"
+      "saturday.png",
+      "ಶನಿವಾರ.mp3"
     ]
   ]
 }

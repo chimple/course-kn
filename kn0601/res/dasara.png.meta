@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "c0673fcc-3cb7-4154-b3bb-a81aed2857ae",
+  "uuid": "99b0b29b-402f-495c-8ded-f266db3bc585",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "dasara": {
       "ver": "1.0.4",
-      "uuid": "26e1fa42-7899-4bc9-829f-67c44abe766d",
-      "rawTextureUuid": "c0673fcc-3cb7-4154-b3bb-a81aed2857ae",
+      "uuid": "d9c464d7-e9eb-4937-a9be-19fcad887bb3",
+      "rawTextureUuid": "99b0b29b-402f-495c-8ded-f266db3bc585",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "71d1fb9b-22fb-426e-b916-819c8ad167c2",
+  "uuid": "38469dfa-9f7e-45bd-a643-353257f6ba5c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "broadkite": {
       "ver": "1.0.4",
-      "uuid": "568fca86-d6d1-4ab8-aad9-f1bce6fbe839",
-      "rawTextureUuid": "71d1fb9b-22fb-426e-b916-819c8ad167c2",
+      "uuid": "ca7ba7bb-01fa-43b0-9863-a947dc40f568",
+      "rawTextureUuid": "38469dfa-9f7e-45bd-a643-353257f6ba5c",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

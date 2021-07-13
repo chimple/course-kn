@@ -1,31 +1,92 @@
 {
   "rows": [
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ತಿಂಡಿ/ತಿನ್ನುವ/ಮೊದಲು/ಕೈ/ತೊಳೆಯಬೇಕು",
-      "",
-      "wash/hand.jpg",
-      "ತಿಂಡಿ ತಿನ್ನುವ ಮೊದಲು ಕೈ ತೊಳೆಯಬೇಕು.mp3"
+      "ಜಾಣ ",
+      "**",
+      "0",
+      "0",
+      "smart_boy.png",
+      "ಜಾಣ.mp3"
     ],
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ಕೊಳಕಾದ/ಕೈಯಿಂದ/ತಿಂದರೆ/ಆರೋಗ್ಯ/ಕೆಡುತ್ತದೆ",
-      "",
-      "dirty/hand.jpg",
-      "ಕೊಳಕಾದ ಕೈಯಿಂದ ತಿಂದರೆ ಆರೋಗ್ಯ ಕೆಡುತ್ತದೆ.mp3"
+      "ರಾಗ ",
+      "**",
+      "0",
+      "0",
+      "song.png",
+      "ರಾಗ.mp3"
     ],
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ಅಮ್ಮ/ತಿಂಡಿ/ಹಾಲು/ಕೊಟ್ಟರು",
-      "",
-      "mom/giving/food.jpg",
-      "ಅಮ್ಮ ತಿಂಡಿ ಹಾಲು ಕೊಟ್ಟರು.mp3"
+      "ಲಾಗ ",
+      "**",
+      "0",
+      "0",
+      "laga.png",
+      "ಲಾಗ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಛಾಯ",
+      "**",
+      "0",
+      "0",
+      "shadow.png",
+      "ಛಾಯ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಕಾದಾಟ ",
+      "***",
+      "0",
+      "0",
+      "fight.png",
+      "ಕಾದಾಟ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಹಾರಾಟ ",
+      "***",
+      "0",
+      "0",
+      "flight.png",
+      "ಹಾರಾಟ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ನಾಟಕ ",
+      "***",
+      "0",
+      "0",
+      "drama.png",
+      "ನಾಟಕ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಮಾರಾಟ ",
+      "***",
+      "0",
+      "0",
+      "sale.png",
+      "ಮಾರಾಟ.mp3"
     ]
   ]
 }

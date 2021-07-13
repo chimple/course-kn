@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "312d6541-5565-4188-8d74-4d69fc0c9bd5",
+  "uuid": "31389580-09e4-49f0-b52a-019944f1a61a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "coins": {
       "ver": "1.0.4",
-      "uuid": "d6cba372-3e00-4bb9-9f70-fca908ff401d",
-      "rawTextureUuid": "312d6541-5565-4188-8d74-4d69fc0c9bd5",
+      "uuid": "bd513574-5028-4ed9-9662-e086b299dd9e",
+      "rawTextureUuid": "31389580-09e4-49f0-b52a-019944f1a61a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

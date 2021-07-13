@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "54cf317d-da65-4fd0-8b6d-e6f5f58e5123",
+  "uuid": "7e34f543-b069-458a-bd62-4925a5d38e46",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "tyre": {
       "ver": "1.0.4",
-      "uuid": "ebc66628-70f5-496f-a77c-65bd89d64619",
-      "rawTextureUuid": "54cf317d-da65-4fd0-8b6d-e6f5f58e5123",
+      "uuid": "0821020b-affc-430a-a961-a83aa29e78fb",
+      "rawTextureUuid": "7e34f543-b069-458a-bd62-4925a5d38e46",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

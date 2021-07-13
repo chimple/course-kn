@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "f5e497fd-3a71-4a00-a72b-426d062cab6b",
+  "uuid": "6f94b10d-4a8b-4caa-bc58-d3711f3253f4",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "famine": {
       "ver": "1.0.4",
-      "uuid": "f287c685-706d-495f-8385-c30375942d16",
-      "rawTextureUuid": "f5e497fd-3a71-4a00-a72b-426d062cab6b",
+      "uuid": "ff5629a2-3fb9-4d4d-ab25-632ff2db8695",
+      "rawTextureUuid": "6f94b10d-4a8b-4caa-bc58-d3711f3253f4",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

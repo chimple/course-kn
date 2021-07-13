@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0d6b4c60-757a-4c69-a634-064198aeadea",
+  "uuid": "8f1fca2e-5117-48b7-97dc-8797fe1542df",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "boygirleatingmeals": {
       "ver": "1.0.4",
-      "uuid": "e8843491-4be0-4a68-8db7-ff9198f13d93",
-      "rawTextureUuid": "0d6b4c60-757a-4c69-a634-064198aeadea",
+      "uuid": "f140b075-f3b4-48bf-a6d9-3f4ef44a2c5b",
+      "rawTextureUuid": "8f1fca2e-5117-48b7-97dc-8797fe1542df",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

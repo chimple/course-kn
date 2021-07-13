@@ -1,22 +1,59 @@
 {
   "rows": [
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ಮರದಲಿ/ತೂಗುವ/ಗೀಜಗನ/ಗೂಡು",
-      "",
-      "bayaweaver.png",
-      "ಮರದಲಿ ತೂಗುವ ಗೀಜಗನ ಗೂಡು.mp3"
+      "ಶಾಲೆ ",
+      "**",
+      "0",
+      "0",
+      "school.png",
+      "ಶಾಲೆ.mp3"
     ],
     [
-      "createsentence",
+      "spelldoor",
       "1",
       "Description",
-      "ಹೂವನು/ದಾರೇದಿ/ಬಿಗಿದು/ಮಾಡಿದ/ಹೂವಿನ/ಹಾರ",
-      "",
-      "garland.png",
-      "ಹೂವನು ದಾರೇದಿ ಬಿಗಿದು ಮಾಡಿದ ಹೂವಿನ ಹಾರ.mp3 "
+      "ಮಳೆ ",
+      "**",
+      "0",
+      "0",
+      "rain.png",
+      "ಮಳೆ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಹಣತೆ ",
+      "***",
+      "0",
+      "0",
+      "lamp.png",
+      "ಹಣತೆ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಕುದುರೆ ",
+      "***",
+      "0",
+      "0",
+      "horse.png",
+      "ಕುದುರೆ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ನೆಗೆದಾಟ ",
+      "****",
+      "0",
+      "0",
+      "jump.png",
+      "ನೆಗೆದಾಟ.mp3"
     ]
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "097cdad5-fea2-42a3-9ea2-79142af721b7",
+  "uuid": "a006a41b-4f25-4d55-813d-159ee9106f27",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "folksinger": {
       "ver": "1.0.4",
-      "uuid": "0389cc99-58da-4e99-8bf8-7fe017cd3bac",
-      "rawTextureUuid": "097cdad5-fea2-42a3-9ea2-79142af721b7",
+      "uuid": "0405f00e-6454-4330-88d5-4a39c74b662b",
+      "rawTextureUuid": "a006a41b-4f25-4d55-813d-159ee9106f27",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

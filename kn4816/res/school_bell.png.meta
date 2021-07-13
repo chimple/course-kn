@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "4ea86e30-224b-4ab7-8685-fe3dd79e18ab",
+  "uuid": "c51f13da-1ac7-49a5-b417-d1bb001cbdd2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "school_bell": {
       "ver": "1.0.4",
-      "uuid": "797ac49b-79a5-4d8b-a5bb-14198e904dc5",
-      "rawTextureUuid": "4ea86e30-224b-4ab7-8685-fe3dd79e18ab",
+      "uuid": "1745c099-a931-48dc-a03b-7d3cc28ddc90",
+      "rawTextureUuid": "c51f13da-1ac7-49a5-b417-d1bb001cbdd2",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

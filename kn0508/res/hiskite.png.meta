@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "706a12b0-61cb-4239-ad55-b7b56b32e9cd",
+  "uuid": "ac245e27-a3f2-49df-9c3a-73ce69d22edb",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "hiskite": {
       "ver": "1.0.4",
-      "uuid": "c5cd0d38-edc9-41d9-9733-6392be273b52",
-      "rawTextureUuid": "706a12b0-61cb-4239-ad55-b7b56b32e9cd",
+      "uuid": "ab887ecf-8612-457e-b7c3-cb45af9cc6dc",
+      "rawTextureUuid": "ac245e27-a3f2-49df-9c3a-73ce69d22edb",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

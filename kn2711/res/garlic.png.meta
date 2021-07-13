@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0904cc38-6326-4197-bc06-60679b22c0c5",
+  "uuid": "f7367a92-f43f-49cb-ab31-1750cb1f3315",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "garlic": {
       "ver": "1.0.4",
-      "uuid": "8dc6d3bb-016d-4e22-8826-299618472909",
-      "rawTextureUuid": "0904cc38-6326-4197-bc06-60679b22c0c5",
+      "uuid": "29f337a2-3fc0-45d1-b27e-ba6b646d1b76",
+      "rawTextureUuid": "f7367a92-f43f-49cb-ab31-1750cb1f3315",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

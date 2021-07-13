@@ -1,0 +1,59 @@
+{
+  "rows": [
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಗೀಜಗ ",
+      "*ಜಗ ",
+      "0",
+      "0",
+      "baya_weaver.png",
+      "ಗೀಜಗ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಬೀಗ ",
+      "*ಗ",
+      "0",
+      "0",
+      "lock.png",
+      "ಬೀಗ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ವೀರ ",
+      "*ರ ",
+      "0",
+      "0",
+      "warrior.png",
+      "ವೀರ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಪೀಪಿ ",
+      "*ಪಿ ",
+      "0",
+      "0",
+      "long_whistle.png",
+      "ಪೀಪಿ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಕಿರೀಟ",
+      "ಕಿ*ಟ",
+      "0",
+      "0",
+      "crown.png",
+      "ಕಿರೀಟ.mp3"
+    ]
+  ]
+}

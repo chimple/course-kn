@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7a950c3c-e135-4125-8005-852aadb338d0",
+  "uuid": "7e57a8ad-bfb0-42d3-b63f-b29f01ff0008",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "washerman": {
       "ver": "1.0.4",
-      "uuid": "a48fbf5f-99a8-42a2-a7be-9f518da48c3b",
-      "rawTextureUuid": "7a950c3c-e135-4125-8005-852aadb338d0",
+      "uuid": "6c4c8a12-5efe-41dc-b45e-4f75c1e2fbb2",
+      "rawTextureUuid": "7e57a8ad-bfb0-42d3-b63f-b29f01ff0008",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

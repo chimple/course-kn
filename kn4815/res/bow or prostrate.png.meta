@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "550ea670-ce3a-4871-8f75-b4580d89d09d",
+  "uuid": "89fc216a-c29f-4da0-b82c-c3ab4b981e5f",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "bow or prostrate": {
       "ver": "1.0.4",
-      "uuid": "bf56e2aa-8203-4279-a2a2-a6d18d401087",
-      "rawTextureUuid": "550ea670-ce3a-4871-8f75-b4580d89d09d",
+      "uuid": "9e46002a-9230-4717-9646-56055b314b69",
+      "rawTextureUuid": "89fc216a-c29f-4da0-b82c-c3ab4b981e5f",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

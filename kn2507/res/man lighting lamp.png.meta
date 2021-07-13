@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "335cd06b-9a0e-4711-bac0-bee0e76d195d",
+  "uuid": "9c145803-3291-45cf-b956-7e03d0113d49",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "man lighting lamp": {
       "ver": "1.0.4",
-      "uuid": "370e4eca-ef53-4757-9c27-7679d799fb5f",
-      "rawTextureUuid": "335cd06b-9a0e-4711-bac0-bee0e76d195d",
+      "uuid": "687accad-a207-4f1d-836a-146ebbe08266",
+      "rawTextureUuid": "9c145803-3291-45cf-b956-7e03d0113d49",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0076c351-14e7-41f7-911d-28d85dd104ad",
+  "uuid": "ca73e80d-5147-4d1b-9750-eaea9ec78a84",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "stomach": {
       "ver": "1.0.4",
-      "uuid": "a500334e-ee11-4674-8de6-19b57e16e1ea",
-      "rawTextureUuid": "0076c351-14e7-41f7-911d-28d85dd104ad",
+      "uuid": "fb1c3188-7266-4143-abe1-51404968dbb3",
+      "rawTextureUuid": "ca73e80d-5147-4d1b-9750-eaea9ec78a84",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

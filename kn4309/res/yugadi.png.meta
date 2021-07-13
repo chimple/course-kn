@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "e0d62d8d-304b-4c65-8d1a-c3bac5ad924b",
+  "uuid": "2e7cf992-9e21-4100-a7ac-f217036f4a80",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "yugadi": {
       "ver": "1.0.4",
-      "uuid": "537a618d-78d8-4451-b36a-bb3c5f1c9add",
-      "rawTextureUuid": "e0d62d8d-304b-4c65-8d1a-c3bac5ad924b",
+      "uuid": "e6f0b881-918e-4f34-99ea-ad66817b9fd0",
+      "rawTextureUuid": "2e7cf992-9e21-4100-a7ac-f217036f4a80",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

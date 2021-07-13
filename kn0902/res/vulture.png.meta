@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "fdc4db3c-a3e4-41ae-97bb-01ddd9572a62",
+  "uuid": "523371af-9560-421d-a11c-dbf43252ea9b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "vulture": {
       "ver": "1.0.4",
-      "uuid": "dd270457-f979-4f4f-9f03-cb7244b2fefe",
-      "rawTextureUuid": "fdc4db3c-a3e4-41ae-97bb-01ddd9572a62",
+      "uuid": "413c1710-b095-4fe9-b15f-066cad9449bf",
+      "rawTextureUuid": "523371af-9560-421d-a11c-dbf43252ea9b",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

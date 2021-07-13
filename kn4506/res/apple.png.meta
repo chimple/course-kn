@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b9a3152d-aeb6-4bf0-ba29-308f199ed378",
+  "uuid": "b0b55c7c-faa4-4bf4-b9e1-62c5a7fdab41",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "apple": {
       "ver": "1.0.4",
-      "uuid": "c3aa2996-1bda-41c1-8ce1-b702df486f6f",
-      "rawTextureUuid": "b9a3152d-aeb6-4bf0-ba29-308f199ed378",
+      "uuid": "709ce6e9-8261-4518-885a-f79f2c253675",
+      "rawTextureUuid": "b0b55c7c-faa4-4bf4-b9e1-62c5a7fdab41",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

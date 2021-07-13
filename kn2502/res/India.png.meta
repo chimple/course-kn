@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6c802bd2-9019-442a-b664-1f926bfc6e78",
+  "uuid": "353da066-f9aa-4769-90fe-6693024ea0e0",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "India": {
       "ver": "1.0.4",
-      "uuid": "12b444e4-ec7f-4340-b6f8-fdd48f5376ba",
-      "rawTextureUuid": "6c802bd2-9019-442a-b664-1f926bfc6e78",
+      "uuid": "c05ce9c2-5f74-4093-81d7-8f2fc1d06952",
+      "rawTextureUuid": "353da066-f9aa-4769-90fe-6693024ea0e0",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

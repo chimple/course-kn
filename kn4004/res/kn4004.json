@@ -4,89 +4,89 @@
       "spelldoor",
       "1",
       "Description",
-      "ತಾಯಿ ",
-      "",
-      "",
-      "",
-      "mom.png",
-      "ತಾಯಿ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಮರಿ ",
-      "",
-      "",
-      "",
-      "babyanimal.png",
-      "ಮರಿ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಗಿರಾಕಿ ",
-      "",
-      "",
-      "",
-      "buyer.png",
-      "ಗಿರಾಕಿ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ತರಕಾರಿ ",
-      "",
-      "",
-      "",
-      "vegetables.png",
-      "ತರಕಾರಿ.mp3"
-    ],
-    [
-      "spelldoor",
-      "1",
-      "Description",
-      "ಮಸಿ ",
+      "ಜೀವಾ ",
       "**",
       "0",
       "0",
-      "sooth.png",
-      "ಮಸಿ.mp3"
+      "life.png",
+      "ಜೀವಾ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಏರಿ ",
+      "ದೀಪ ",
       "**",
       "0",
       "0",
-      "bund.png",
-      "ಏರಿ.mp3"
+      "oillamp.png",
+      "ದೀಪ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಚಿಲಕ ",
+      "ವೀರ ",
+      "**",
+      "0",
+      "0",
+      "warrior.png",
+      "ವೀರ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಚೀಲ ",
+      "**",
+      "0",
+      "0",
+      "bag.png",
+      "ಚೀಲ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಗೀಜಗ ",
       "***",
       "0",
       "0",
-      "latch.png",
-      "ಚಿಲಕ.mp3"
+      "baya_weaver.png",
+      "ಗೀಜಗ.mp3"
     ],
     [
       "spelldoor",
       "1",
       "Description",
-      "ಶನಿವಾರ ",
+      "ಚೀರಾಟ ",
+      "***",
+      "0",
+      "0",
+      "shouting.png",
+      "ಚೀರಾಟ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ಲೀಲಾಜಾಲ ",
       "****",
       "0",
       "0",
-      "saturday.png",
-      "ಶನಿವಾರ.mp3"
+      "magic.png",
+      "ಲೀಲಾಜಾಲ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "ದೀಪಾವಳಿ ",
+      "****",
+      "0",
+      "0",
+      "diwali.png",
+      "ದೀಪಾವಳಿ.mp3"
     ]
   ]
 }
