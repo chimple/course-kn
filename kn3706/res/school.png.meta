@@ -8,7 +8,7 @@
   "genMipmaps": false,
   "packable": true,
   "width": 500,
-  "height": 332,
+  "height": 281,
   "platformSettings": {},
   "subMetas": {
     "school": {
@@ -23,9 +23,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 500,
-      "height": 332,
+      "height": 281,
       "rawWidth": 500,
-      "rawHeight": 332,
+      "rawHeight": 281,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
