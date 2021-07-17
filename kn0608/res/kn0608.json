@@ -95,6 +95,44 @@
       "1",
       "Description",
       "ಳ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಎ",
+      "ಆ",
+      "ಎ",
+      "ಳ",
+      "",
+      "",
+      "ಎ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ತ",
+      "ತ",
+      "ಆ",
+      "ಎ",
+      "",
+      "ತ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಆ",
+      "ಎ",
+      "ಳ",
+      "ಆ",
+      "",
+      "",
+      "ಆ.mp3"
     ]
   ]
 }

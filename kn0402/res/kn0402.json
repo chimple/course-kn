@@ -89,6 +89,45 @@
       "ತಳ",
       "bottom.png",
       "ತಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "sun.png",
+      "sun.png",
+      "Tabla.png",
+      "Banyan.png",
+      "",
+      "",
+      "ಇನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "Banyan.png",
+      "Tabla.png",
+      "sun.png",
+      "Banyan.png",
+      "",
+      "",
+      "ಆಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "Tabla.png",
+      "sun.png",
+      "Banyan.png",
+      "Tabla.png",
+      "",
+      "",
+      "ತಬಲ.mp3"
     ]
   ]
 }

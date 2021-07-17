@@ -72,6 +72,43 @@
       "ಘಮ",
       "mango.png",
       "ಘಮ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಫ",
+      "ಬ",
+      "ಫ",
+      "ಗ",
+      "",
+      "____ಲಕ",
+      "ಫಲಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಝರಿ",
+      "ಘಟ",
+      "ಝರಿ",
+      "ಝಣ",
+      "stream.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಘಮ",
+      "ಘಮ",
+      "ಪಠಣ",
+      "ಖನಿಜ",
+      "",
+      "",
+      "ಘಮ.mp3"
     ]
   ]
 }

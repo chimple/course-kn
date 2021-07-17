@@ -87,6 +87,39 @@
       "ಕಲರವ",
       "birdschirping.png",
       "ಕಲರವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕಮಲ",
+      "ಕಮಲ",
+      "ಕರ",
+      "ಅಗಲ",
+      "lotus.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕರ",
+      "ಅಗಲ",
+      "ಕಮಲ",
+      "ಕರ",
+      "hand.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಅಗಲ",
+      "ಕರ",
+      "ಅಗಲ",
+      "ಕಮಲ",
+      "width.png"
     ]
   ]
 }

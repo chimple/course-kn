@@ -39,6 +39,39 @@
       "ದರಗ",
       "darga.png",
       "ದರಗ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ರಸ",
+      "ರಸ",
+      "ದರ",
+      "ಸರ",
+      "juice.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಅಗಸ",
+      "ಸರ",
+      "ಅಗಸ",
+      "ರಸ",
+      "washerman.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ದರಗ",
+      "ದಸರ",
+      "ಅರಸ",
+      "ದರಗ",
+      "darga.png"
     ]
   ]
 }

@@ -126,6 +126,45 @@
       "karagafestival.png",
       "False",
       "False"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಲ",
+      "ಈ",
+      "ಲ",
+      "ಕ",
+      "",
+      "_ವಣ",
+      "ಲವಣ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಈ",
+      "ಲ",
+      "ಕ",
+      "ಈ",
+      "",
+      "_ಚಲ",
+      "ಈಚಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಕ",
+      "ಕ",
+      "ಈ",
+      "ಲ",
+      "",
+      "_ರಟ",
+      "ಕರಟ.mp3"
     ]
   ]
 }

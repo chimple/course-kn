@@ -131,6 +131,45 @@
       "ಮ.mp3",
       "ಳ",
       "ಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದ+ಳ",
+      "ದ+ಳ",
+      "ಸ+ಳ",
+      "ಆ+ತ",
+      "",
+      "",
+      "ದಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸ+ಳ",
+      "ಆ+ತ",
+      "ದ+ಳ",
+      "ಸ+ಳ",
+      "",
+      "",
+      "ಸಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಆ+ತ",
+      "ಸ+ಳ",
+      "ಆ+ತ",
+      "ದ+ಳ",
+      "",
+      "",
+      "ಆತ.mp3"
     ]
   ]
 }

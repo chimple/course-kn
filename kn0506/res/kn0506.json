@@ -151,6 +151,45 @@
       "ಶ.mp3",
       "ರ",
       "ರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹ+ದ",
+      "ಶ+ಕ+ಟ",
+      "ಹ+ವ+ಳ",
+      "ಹ+ದ",
+      "",
+      "",
+      "ಹದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶ+ಕ+ಟ",
+      "ಹ+ದ",
+      "ಶ+ಕ+ಟ",
+      "ಹ+ವ+ಳ",
+      "",
+      "",
+      "ಶಕಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹ+ವ+ಳ",
+      "ಹ+ವ+ಳ",
+      "ಹ+ದ",
+      "ಶ+ಕ+ಟ",
+      "",
+      "",
+      "ಹವಳ.mp3"
     ]
   ]
 }

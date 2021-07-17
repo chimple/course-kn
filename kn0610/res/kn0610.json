@@ -79,6 +79,44 @@
       "1",
       "Description",
       "ಷ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಓ",
+      "ಷ",
+      "ಓ",
+      "ಹ",
+      "",
+      "",
+      "ಓ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಷ",
+      "ಓ",
+      "ಹ",
+      "ಷ",
+      "",
+      "ಷ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹ",
+      "ಹ",
+      "ಷ",
+      "ಓ",
+      "",
+      "",
+      "ಹ.mp3"
     ]
   ]
 }

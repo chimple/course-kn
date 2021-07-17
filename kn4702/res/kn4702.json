@@ -15,6 +15,45 @@
       "ಢ,ಣ",
       "ಅಂ",
       "ಂ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಟಂ",
+      "ಣಂ",
+      "ಯಂ",
+      "ಟಂ",
+      "",
+      "",
+      "ಟಂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಡಂ",
+      "ಡೆ",
+      "ಡಂ",
+      "ಡೌ",
+      "",
+      "",
+      "ಡಂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಣಂ",
+      "ಣಂ",
+      "ಟಂ",
+      "ಡಂ",
+      "",
+      "",
+      "ಣಂ.mp3"
     ]
   ]
 }

@@ -103,6 +103,45 @@
       "ರ.mp3",
       "ಗಲ",
       "ಗಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಈ+ರ",
+      "ಈ+ರ",
+      "ಊ+ನ",
+      "ಕ+ದ+ನ",
+      "",
+      "",
+      "ಈರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಊ+ನ",
+      "ಊ+ನ",
+      "ಕ+ದ+ನ",
+      "ಈ+ರ",
+      "",
+      "",
+      "ಊನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕ+ದ+ನ",
+      "ಕ+ದ+ನ",
+      "ಈ+ರ",
+      "ಊ+ನ",
+      "",
+      "",
+      "ಕದನ.mp3"
     ]
   ]
 }

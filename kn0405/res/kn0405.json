@@ -126,6 +126,45 @@
       "chalk.png",
       "False",
       "False"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಏ",
+      "ತ",
+      "ಏ",
+      "ಬ",
+      "",
+      "_ತ",
+      "ಏತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ತ",
+      "ಏ",
+      "ಬ",
+      "ತ",
+      "",
+      "_ನಯ",
+      "ತನಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಬ",
+      "ಬ",
+      "ತ",
+      "ಏ",
+      "",
+      "_ಳಪ",
+      "ಬಳಪ.mp3"
     ]
   ]
 }

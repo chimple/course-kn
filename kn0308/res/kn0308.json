@@ -26,6 +26,45 @@
       "",
       "boygirleatingmeals.png",
       "ಅವರ ಊಟ ರಸಮಯ ಊಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಈಗ ಊಟದ ಸಮಯ",
+      "ಈಗ ಊಟದ ಸಮಯ",
+      "ಉದಯ ಕಮಲರ ಊಟ",
+      "ಅವರ ಊಟ ರಸಮಯ ಊಟ",
+      "",
+      "",
+      "ಈಗ ಊಟದ ಸಮಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಉದಯ ಕಮಲರ ಊಟ",
+      "ಅವರ ಊಟ ರಸಮಯ ಊಟ",
+      "ಈಗ ಊಟದ ಸಮಯ",
+      "ಉದಯ ಕಮಲರ ಊಟ",
+      "",
+      "",
+      "ಉದಯ ಕಮಲರ ಊಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಅವರ ಊಟ ರಸಮಯ ಊಟ",
+      "ಉದಯ ಕಮಲರ ಊಟ",
+      "ಅವರ ಊಟ ರಸಮಯ ಊಟ",
+      "ಈಗ ಊಟದ ಸಮಯ",
+      "boygirleatingmeals.png",
+      "",
+      "ಅವರ ಊಟ ರಸಮಯ ಊಟ.mp3"
     ]
   ]
 }

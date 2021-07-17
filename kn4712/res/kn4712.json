@@ -15,6 +15,45 @@
       "ವ,ಶ",
       "ಅಃ",
       "ಃ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಯಃ",
+      "ಯಃ",
+      "ರಃ",
+      "ಲಃ",
+      "",
+      "",
+      "ಯಃ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಲಃ",
+      "ಲಾ",
+      "ಲಃ",
+      "ಲೋ",
+      "",
+      "",
+      "ಲಃ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶಃ",
+      "ರಃ",
+      "ವಃ",
+      "ಶಃ",
+      "",
+      "",
+      "ಶಃ.mp3"
     ]
   ]
 }

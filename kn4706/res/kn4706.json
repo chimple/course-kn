@@ -15,6 +15,45 @@
       "ಹ,ಳ",
       "ಅಂ",
       "ಂ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಷಂ",
+      "ಹಂ",
+      "ಳಂ",
+      "ಷಂ",
+      "",
+      "",
+      "ಷಂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸಂ",
+      "ಸಂ",
+      "ಸಾ",
+      "ಸು",
+      "",
+      "",
+      "ಸಂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹಂ",
+      "ಳಂ",
+      "ಹಂ",
+      "ಸಂ",
+      "",
+      "",
+      "ಹಂ.mp3"
     ]
   ]
 }

@@ -129,6 +129,45 @@
       "ಜ.mp3",
       "ಯ",
       "ಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಪ+ದ",
+      "ಚ+ದ+ರ",
+      "ಪ+ದ",
+      "ನ+ಯ",
+      "",
+      "",
+      "ಪದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಚ+ದ+ರ",
+      "ಪ+ದ",
+      "ನ+ಯ",
+      "ಚ+ದ+ರ",
+      "",
+      "",
+      "ಚದರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನ+ಯ",
+      "ನ+ಯ",
+      "ಚ+ದ+ರ",
+      "ಪ+ದ",
+      "",
+      "",
+      "ನಯ.mp3"
     ]
   ]
 }

@@ -4,7 +4,7 @@
       "grid",
       "1",
       "Description",
-      "ಚ.ಛ.ಜ",
+      "ಚ,ಛ,ಜ",
       "ಅಃ",
       "ಃ"
     ],
@@ -15,6 +15,45 @@
       "ಝ,ಞ",
       "ಅಃ",
       "ಃ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಚಃ",
+      "ಚಃ",
+      "ಕಃ",
+      "ಗಃ",
+      "",
+      "",
+      "ಚಃ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜಃ",
+      "ಜಾ",
+      "ಜಃ",
+      "ಜಂ",
+      "",
+      "",
+      "ಜಃ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಝಃ",
+      "ಝಃ",
+      "ಪಃ",
+      "ಬಃ",
+      "",
+      "",
+      "ಝಃ.mp3"
     ]
   ]
 }

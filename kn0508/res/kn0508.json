@@ -34,7 +34,7 @@
       "ಅವನ/ಪಟ",
       "",
       "hiskite.png",
-      "ಅವನ_ಪಟ"
+      "ಅವನ_ಪಟ.mp3"
     ],
     [
       "createsentence",
@@ -53,6 +53,45 @@
       "",
       "broadkite.png",
       "ತರತರದ ಪಟ ಬಹಳ ಅಗಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಅವಳ ಸರ",
+      "ಜಲದ ನಳ",
+      "ಅವಳ ಸರ",
+      "ಅವನ ಪಟ",
+      "",
+      "",
+      "ಅವಳ ಸರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "ಅವನ ಪಟ",
+      "ಅವನ ಪಟ",
+      "ಅಬರ ರಟ",
+      "ಪರಳ ಫಟಾ",
+      "",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಅವಳ ಸರ ಹವಳದ ಸರ",
+      "ಅವಳ ಸರ ಹವಳದ ಸರ",
+      "ಅವನ ಪಟ",
+      "ಜಲದ ನಳ",
+      "differentcoralnecklaces.png",
+      "",
+      "ಅವಳ ಸರ ಹವಳದ ಸರ.mp3"
     ]
   ]
 }

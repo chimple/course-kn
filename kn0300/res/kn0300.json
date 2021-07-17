@@ -63,6 +63,44 @@
       "1",
       "Description",
       "ಕ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಲ",
+      "ಲ",
+      "ಊ",
+      "ಕ",
+      "",
+      "",
+      "ಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಊ",
+      "ಊ",
+      "ಲ",
+      "ಕ",
+      "",
+      "ಊ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕ",
+      "ಕ",
+      "ಊ",
+      "ಲ",
+      "",
+      "",
+      "ಕ.mp3"
     ]
   ]
 }

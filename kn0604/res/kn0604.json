@@ -95,6 +95,44 @@
       "1",
       "Description",
       "ಚ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಯ",
+      "ಯ",
+      "ಡ",
+      "ಟ",
+      "",
+      "",
+      "ಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಡ",
+      "ಟ",
+      "ಯ",
+      "ಡ",
+      "",
+      "ಡ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಟ",
+      "ಡ",
+      "ಚ",
+      "ಯ",
+      "",
+      "",
+      "ಟ.mp3"
     ]
   ]
 }

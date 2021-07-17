@@ -74,6 +74,45 @@
       "ಮೂಷಿಕ",
       "mouse.png",
       "ಮೂಷಿಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "running.png",
+      "horse.png",
+      "arrow.png",
+      "running.png",
+      "",
+      "",
+      "ಓಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "arrow.png",
+      "arrow.png",
+      "running.png",
+      "horse.png",
+      "",
+      "",
+      "ಶರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "horse.png",
+      "running.png",
+      "horse.png",
+      "arrow.png",
+      "",
+      "",
+      "ಹಯ.mp3"
     ]
   ]
 }

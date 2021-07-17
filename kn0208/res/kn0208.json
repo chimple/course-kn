@@ -35,6 +35,45 @@
       "",
       "boyflyingkite.png",
       "ಅವನ ಪಟ ಪಟಪಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಉದಯದ ಸಮಯ",
+      "ಅವನ ಪಟ",
+      "ಉದಯದ ಸಮಯ",
+      "ಗರಗಸದ ಗರಗರ",
+      "",
+      "",
+      "ಉದಯದ ಸಮಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "ಅವನ ಪಟ",
+      "ಬಬಗ ದಪ",
+      "ಅವನ ಪಟ",
+      "ಜಪಗ ತತ",
+      "",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಉದಯದ ಸಮಯ ರಸಮಯ",
+      "ಉದಯದ ಸಮಯ ರಸಮಯ",
+      "ವನದ ಮರ",
+      "ಅವನ ಪಟ",
+      "sunrise.png",
+      "",
+      "ಉದಯದ ಸಮಯ ರಸಮಯ.mp3"
     ]
   ]
 }

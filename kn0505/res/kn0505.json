@@ -126,6 +126,45 @@
       "medicine.png",
       "False",
       "False"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಶ",
+      "ಔ",
+      "ಶ",
+      "ಷ",
+      "",
+      "_ಯನ",
+      "ಶಯನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಔ",
+      "ಶ",
+      "ಷ",
+      "ಔ",
+      "",
+      "_ಡಲ",
+      "ಔಡಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಷ",
+      "ಷ",
+      "ಔ",
+      "ಶ",
+      "",
+      "ಉ_",
+      "ಉಷ.mp3"
     ]
   ]
 }

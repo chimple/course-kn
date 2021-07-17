@@ -59,6 +59,45 @@
       "ಕಟಕ",
       "crab.png",
       "ಕಟಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "palm.png",
+      "palm.png",
+      "meals.png",
+      "bracelet.png",
+      "",
+      "",
+      "ಈಚಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "meals.png",
+      "meals.png",
+      "palm.png",
+      "bracelet.png",
+      "",
+      "",
+      "ಊಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "bracelet.png",
+      "meals.png",
+      "bracelet.png",
+      "palm.png",
+      "",
+      "",
+      "ಕಡಗ.mp3"
     ]
   ]
 }

@@ -87,6 +87,39 @@
       "ಕಲರವ",
       "birdschirping.png",
       "ಕಲರವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕದನ",
+      "ಕರಗ",
+      "ಕದನ",
+      "ಕದ",
+      "fight_battle.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕದ",
+      "ಕದನ",
+      "ಕರಗ",
+      "ಕದ",
+      "door.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕರಗ",
+      "ಕದನ",
+      "ಕದ",
+      "ಕರಗ",
+      "karagafestival.png"
     ]
   ]
 }

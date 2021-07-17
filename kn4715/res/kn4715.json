@@ -65,6 +65,43 @@
       "0",
       "strife_stress.png",
       "ಅಂತಃಕಲಹ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗಳ",
+      "ತರ",
+      "ಗಳ",
+      "ಬೆಗಾಲು",
+      "",
+      "ಅಂ____",
+      "ಅಂಗಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ವಂದಿಸು",
+      "ವಂದಿಸು",
+      "ನಿಂದಿಸು",
+      "ಆಡಿಸು",
+      "bow or prostrate.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅನುಕಂಪ",
+      "ಅಂತಃಕಲಹ",
+      "ಅನುಕಂಪ",
+      "ಅಂತಃಕರಣ",
+      "",
+      "",
+      "ಅನುಕಂಪ.mp3"
     ]
   ]
 }
