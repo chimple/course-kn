@@ -15,6 +15,45 @@
       "ಷ,ಕ,ತ",
       "ಊ",
       "ೂ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಟೂ",
+      "ಟೂ",
+      "ಚೂ",
+      "ಲೂ",
+      "",
+      "",
+      "ಟೂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಷೂ",
+      "ಷಿ",
+      "ಷೂ",
+      "ಷೇ",
+      "",
+      "",
+      "ಷೂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕೂ",
+      "ಚೂ",
+      "ಲೂ",
+      "ಕೂ",
+      "",
+      "",
+      "ಕೂ.mp3"
     ]
   ]
 }

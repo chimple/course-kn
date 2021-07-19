@@ -9,7 +9,7 @@
       "0",
       "0",
       "oil_lamp.png",
-      "ದೀಪmp3"
+      "ದೀಪ.mp3"
     ],
     [
       "spelldoor",
@@ -54,6 +54,43 @@
       "0",
       "body.png",
       "ಶರೀರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ರೀರ",
+      "ಮನ",
+      "ರೀರ",
+      "ತಮಾನ",
+      "",
+      "ಶ_____",
+      "ಶರೀರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ದೀಪ",
+      "ದೀಪ",
+      "ಬೀಜ",
+      "ಚೀಲ",
+      "oil_lamp.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬೀಜ",
+      "ಚೀಲ",
+      "ದೀಪ",
+      "ಬೀಜ",
+      "",
+      "",
+      "ಬೀಜ.mp3"
     ]
   ]
 }

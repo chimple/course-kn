@@ -98,6 +98,43 @@
       "0",
       "weigh.png",
       "ತೂಕಹಾಕು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಹಾಕು",
+      "ವಿದೆ",
+      "ಹಾಕು",
+      "ಭಾರ",
+      "",
+      "ತೂಕ_____",
+      "ತೂಕಹಾಕು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಪೂಜಾರಿ",
+      "ಜಾದೂಗಾರ",
+      "ತೂರಾಟ",
+      "ಪೂಜಾರಿ",
+      "poojari.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನೂರು",
+      "ನೂರು",
+      "ಬೂಟು",
+      "ಸೂಜಿ",
+      "",
+      "",
+      "ನೂರು.mp3"
     ]
   ]
 }

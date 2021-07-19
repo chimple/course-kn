@@ -82,6 +82,43 @@
       "ನ್ನಾ.mp3",
       "ಗಿ",
       "ಗಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಪಾಯಿ",
+      "ಮು",
+      "ಪಾಯಿ",
+      "ಮಾಲು",
+      "",
+      "ರೂ_____",
+      "ರೂಪಾಯಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ನಮಸ್ಕಾರ",
+      "ನಮಸ್ಕಾರ",
+      "ಚೆನ್ನಾಗಿ",
+      "ನಲವತ್ತೊಂದು",
+      "namaste.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅಣ್ಣ",
+      "ಬೆಲೆ",
+      "ಅಣ್ಣ",
+      "ಎಷ್ಟು",
+      "",
+      "",
+      "ಅಣ್ಣ.mp3"
     ]
   ]
 }

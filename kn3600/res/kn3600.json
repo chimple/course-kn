@@ -93,6 +93,43 @@
       "ಬಾ.mp3",
       "ರೆ",
       "ರೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗುರು",
+      "ಗುರು",
+      "ರತೆ",
+      "ಕ್ಕಮ್ಮ",
+      "",
+      "ಚಿ_____",
+      "ಚಿಗುರು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗಿಡ",
+      "ಮರಿ",
+      "ಗಿಡ",
+      "ಮೊಲ",
+      "plant.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನೆಗೆದು",
+      "ಚುಪುಕೆ",
+      "ನೆಗೆದು",
+      "ಗಿಡ",
+      "",
+      "",
+      "ನೆಗೆದು.mp3"
     ]
   ]
 }

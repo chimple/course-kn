@@ -79,6 +79,44 @@
       "1",
       "Description",
       "ಖ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಘ",
+      "ಝ",
+      "ಠ",
+      "ಘ",
+      "",
+      "",
+      "ಘ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಠ",
+      "ಠ",
+      "ಫ",
+      "ಝ",
+      "",
+      "ಠ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಖ",
+      "ಘ",
+      "ಖ",
+      "ಫ",
+      "",
+      "",
+      "ಖ.mp3"
     ]
   ]
 }

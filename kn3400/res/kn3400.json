@@ -43,6 +43,43 @@
       "slide.png",
       "ಜೋಕಾಲಿ.mp3",
       "ಜೋ,ಕಾ,ಲಿ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಕಾಲಿ",
+      "ಕಾಲಿ",
+      "ಮಾರಿ",
+      "ಜೀತಾ",
+      "",
+      "ಜೋ____",
+      "ಜೋಕಾಲಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕೋತಿ",
+      "ಮರ",
+      "ಅಳಿಲು",
+      "ಕೋತಿ",
+      "monkey.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅಳಿಲು",
+      "ಮರ",
+      "ಕೋತಿ",
+      "ಅಳಿಲು",
+      "",
+      "",
+      "ಅಳಿಲು.mp3"
     ]
   ]
 }

@@ -70,6 +70,43 @@
       "0",
       "flower_garden.png",
       "ಹೂದೋಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ದೋಟ",
+      "ಹಾರ",
+      "ಗಿಡ",
+      "ದೋಟ",
+      "",
+      "ಹೂ_____",
+      "ಹೂದೋಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಅಜ್ಜಿ",
+      "ಅಜ್ಜಿ",
+      "ಹೌದು",
+      "ನೀವು",
+      "grandma.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹೌದು",
+      "ನೀವು",
+      "ಸಂಜೆ",
+      "ಹೌದು",
+      "",
+      "",
+      "ಹೌದು.mp3"
     ]
   ]
 }

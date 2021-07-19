@@ -65,6 +65,43 @@
       "0",
       "birdnest.png",
       "ಗೂಡು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ದಲು",
+      "ದಲು",
+      "ರಿಸು",
+      "ಸು",
+      "",
+      "ಕೂ__",
+      "ಕೂದಲು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗೂಡು",
+      "ಬಲೂನು",
+      "ಗೂಡು",
+      "ಜಾದೂಗಾರ",
+      "birdnest.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜಾದೂಗಾರ",
+      "ದೂರವಾಣಿ",
+      "ಮೂರು",
+      "ಜಾದೂಗಾರ",
+      "",
+      "",
+      "ಜಾದೂಗಾರ.mp3"
     ]
   ]
 }

@@ -67,6 +67,43 @@
       "0",
       "king.png",
       "ನೃಪ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ವ್ರಥಾ",
+      "ವ್ರಥಾ",
+      "ಗೃ,ಹ",
+      "ಗಾರ",
+      "",
+      "__ಥಾ",
+      "ವ್ರಥಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗೃ,ಹ",
+      "ನೃ,ಪ",
+      "ವ್ರಥಾ",
+      "ಗೃ,ಹ",
+      "house.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನೃ,ಪ",
+      "ಗೃ,ಹ",
+      "ಗೆಳೆತನ",
+      "ವ್ರಥಾ",
+      "",
+      "",
+      "ಮದುವೆ.mp3"
     ]
   ]
 }

@@ -98,6 +98,39 @@
       "flowers.png",
       "ಧನ.mp3",
       "ಧ,ನ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಭರತ",
+      "ಧವನ",
+      "ಭರತ",
+      "ಭಜನ",
+      "india.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಭಜನ",
+      "ಭಜನ",
+      "ಏಕದಳ",
+      "ಭರತ",
+      "Bhajan.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಧನ",
+      "ಭರತ",
+      "ಭಜನ",
+      "ಧನ",
+      "money.png"
     ]
   ]
 }

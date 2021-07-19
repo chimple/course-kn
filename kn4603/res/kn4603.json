@@ -4,7 +4,7 @@
       "grid",
       "1",
       "Description",
-      "ಠ,ಘ,ಫ,",
+      "ಠ,ಘ,ಫ",
       "ಈ",
       "ೀ"
     ],
@@ -15,6 +15,45 @@
       "ಝ,ಖ",
       "ಈ",
       "ೀ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಠೇ",
+      "ಘೇ",
+      "ಠೇ",
+      "ಖೇ",
+      "",
+      "",
+      "ಠೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಘೇ",
+      "ರೇ",
+      "ಘೇ",
+      "ಘಾ",
+      "",
+      "",
+      "ಘೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಖೇ",
+      "ಖೇ",
+      "ಝೇ",
+      "ಖು",
+      "",
+      "",
+      "ಖೇ.mp3"
     ]
   ]
 }

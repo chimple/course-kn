@@ -74,6 +74,45 @@
       "ಸಖ",
       "friend.png",
       "ಸಖ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "fruits.png",
+      "fruits.png",
+      "coins.png",
+      "vulture.png",
+      "",
+      "",
+      "ಫಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "coins.png",
+      "vulture.png",
+      "fruits.png",
+      "coins.png",
+      "",
+      "",
+      "ಝಣಝಣ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "vulture.png",
+      "coins.png",
+      "vulture.png",
+      "fruits.png",
+      "",
+      "",
+      "ಖಗ.mp3"
     ]
   ]
 }

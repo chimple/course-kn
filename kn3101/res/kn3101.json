@@ -109,6 +109,43 @@
       "0",
       "೧೦.png",
       "ಹತ್ತು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಒಂ",
+      "ಪರ",
+      "ಯಾ",
+      "ಒಂ",
+      "",
+      "__ಬತ್ತು",
+      "ಒಂಬತ್ತು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಐದು",
+      "ಐದು",
+      "ಎಂಟು",
+      "ಮೂರು",
+      "೫.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹತ್ತು",
+      "ಏಳು",
+      "ಹತ್ತು",
+      "ಆರು",
+      "",
+      "",
+      "ಹತ್ತು.mp3"
     ]
   ]
 }

@@ -71,14 +71,52 @@
       "5",
       "ನ",
       "ನ.mp3",
-      "ನ",
-      "ನ.mp3"
+      "ನ"
     ],
     [
       "writeletter",
       "1",
       "Description",
       "ನ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತ",
+      "ತ",
+      "ಆ",
+      "ಳ",
+      "",
+      "",
+      "ತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಧ",
+      "ನ",
+      "ಢ",
+      "ಧ",
+      "",
+      "",
+      "ಧ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನ",
+      "ಬ",
+      "ನ",
+      "ಜ",
+      "",
+      "",
+      "ನ.mp3"
     ]
   ]
 }

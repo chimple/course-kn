@@ -95,6 +95,39 @@
       "ಸಖ",
       "friend.png",
       "ಸಖ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಸಖ",
+      "ಸಖ",
+      "ನಖ",
+      "ಜಠರ",
+      "friend.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ನಖ",
+      "ನಖ",
+      "ಸಖ",
+      "ಘಟ",
+      "claw.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಜಠರ",
+      "ಘಟ",
+      "ಜಠರ",
+      "ಸಖ",
+      "stomach.png"
     ]
   ]
 }

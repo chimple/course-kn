@@ -15,6 +15,45 @@
       "ದ,ಜ,ವ",
       "ಏ",
       "ೇ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರೇ",
+      "ಗೇ",
+      "ಸೇ",
+      "ರೇ",
+      "",
+      "",
+      "ರೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ವೇ",
+      "ವೇ",
+      "ವು",
+      "ವೌ",
+      "",
+      "",
+      "ವೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜೇ",
+      "ದೇ",
+      "ಜೇ",
+      "ಸೇ",
+      "",
+      "",
+      "ಜೇ.mp3"
     ]
   ]
 }

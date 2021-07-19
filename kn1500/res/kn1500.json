@@ -83,7 +83,48 @@
       "ಕೀಟ",
       "**",
       "0",
-      "0"
+      "0",
+      "insect.png",
+      "ಕೀಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಾ",
+      "ಕಿ",
+      "ಕೀ",
+      "ಕಾ",
+      "",
+      "",
+      "ಕಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಾಗೆ",
+      "ಕಾಗೆ",
+      "ಕಿಟಕಿ",
+      "ಕಮಲಾ",
+      "",
+      "",
+      "ಕಾಗೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಕೀ",
+      "ಕೀ",
+      "ಕಾ",
+      "ಮ",
+      "",
+      "_ಟ",
+      "ಕೀಟ.mp3"
     ]
   ]
 }

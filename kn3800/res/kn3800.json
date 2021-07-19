@@ -15,6 +15,45 @@
       "ದ,ಜ,ವ",
       "ಆ",
       "ಾ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸಾ",
+      "ಗಾ",
+      "ಸಾ",
+      "ರಾ",
+      "",
+      "",
+      "ಸಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದಾ",
+      "ದು",
+      "ದಿ",
+      "ದಾ",
+      "",
+      "",
+      "ದಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜಾ",
+      "ಜಾ",
+      "ವಾ",
+      "ದಾ",
+      "",
+      "",
+      "ಜಾ.mp3"
     ]
   ]
 }

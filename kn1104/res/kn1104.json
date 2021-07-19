@@ -206,6 +206,43 @@
       "",
       "happy_people.png",
       "ಜನ ಮನ ಸಂತಸ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗಗನ",
+      "ನಯನ",
+      "ಗಗನ",
+      "ಮನ",
+      "sky.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಚಂ",
+      "ಕಂ",
+      "ಅಂ",
+      "ಚಂ",
+      "",
+      "_ದ",
+      "ಚಂದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಬಸವನ ಮಗ ಅಮರ",
+      "ಗಗನ ಕಂಡ",
+      "ಜನ ಮನ ಸಂತಸ",
+      "ಬಸವನ ಮಗ ಅಮರ",
+      "",
+      "",
+      "ಬಸವನ ಮಗ ಅಮರ.mp3"
     ]
   ]
 }

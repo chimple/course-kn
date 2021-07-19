@@ -127,6 +127,45 @@
       "ಫ.mp3",
       "ಳ",
       "ಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅ+ಘ",
+      "ಸ+ಫ+ಲ",
+      "ಹ+ಠ",
+      "ಅ+ಘ",
+      "",
+      "",
+      "ಅಘ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹ+ಠ",
+      "ಹ+ಠ",
+      "ಅ+ಘ",
+      "ಸ+ಫ+ಲ",
+      "",
+      "",
+      "ಹಠ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸ+ಫ+ಲ",
+      "ಅ+ಘ",
+      "ಸ+ಫ+ಲ",
+      "ಹ+ಠ",
+      "",
+      "",
+      "ಸಫಲ.mp3"
     ]
   ]
 }

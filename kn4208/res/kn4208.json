@@ -43,6 +43,43 @@
       "0",
       "longneckedjug.png",
       "ಹೂಜಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನರ",
+      "ದಿಸು",
+      "ನರ",
+      "ಟಿಕ",
+      "",
+      "ವಾ____",
+      "ವಾನರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹೂವು",
+      "ಹೂವು",
+      "ಹೂಜಿ",
+      "ತರಕಾರಿ",
+      "flower.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತರಕಾರಿ",
+      "ವಾನರ",
+      "ಹೂಜಿ",
+      "ತರಕಾರಿ",
+      "",
+      "",
+      "ತರಕಾರಿ.mp3"
     ]
   ]
 }

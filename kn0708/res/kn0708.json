@@ -44,6 +44,45 @@
       "",
       "manwithcharaka.png",
       "ಅವನ ಚರಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಗಣಪನ ಆಲಯ",
+      "ಗಣಪನ ಆಲಯ",
+      "ಅವಳ ಸರ",
+      "ಜನರ ಆಗಮನ",
+      "",
+      "",
+      "ಗಣಪನ ಆಲಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "ಜನರ ಆಗಮನ",
+      "ಆಗರ ಜಗಮನ",
+      "ಜನರ ಆಗಮನ",
+      "ಮನರ ಜಗಮನ",
+      "",
+      "ಸರಿಯಾದದನ್ನು ಆರಿಸಿ",
+      "ಜನರ ಆಗಮನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಅವನ ಚರಕ",
+      "ಜನರ ಆಗಮನ",
+      "ಅವನ ಚರಕ",
+      "ಗಣಪನ ಆಲಯ",
+      "manwithcharaka.png",
+      "",
+      "ಅವನ ಚರಕ.mp3"
     ]
   ]
 }

@@ -59,6 +59,45 @@
       "ಞ",
       "ಞ.png",
       "ಞ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "beautiful.png",
+      "beautiful.png",
+      "blind.png",
+      "ಅಃ.png",
+      "",
+      "",
+      "ಅಂದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "blind.png",
+      "ಅಃ.png",
+      "beautiful.png",
+      "blind.png",
+      "",
+      "",
+      "ಅಂಧ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "ಅಃ.png",
+      "blind.png",
+      "ಅಃ.png",
+      "beautiful.png",
+      "",
+      "",
+      "ಅಃ.mp3"
     ]
   ]
 }

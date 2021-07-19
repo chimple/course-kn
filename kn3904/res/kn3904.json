@@ -87,6 +87,43 @@
       "0",
       "saturday.png",
       "ಶನಿವಾರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ವಾರ",
+      "ಕಾಟ",
+      "ವಾರ",
+      "ಹನಿ",
+      "",
+      "ಶನಿ_____",
+      "ಶನಿವಾರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ತಾಯಿ",
+      "ತಾಯಿ",
+      "ತರಕಾರಿ",
+      "ಏರಿ",
+      "mom.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತರಕಾರಿ",
+      "ಗಿರಾಕಿ",
+      "ತರಕಾರಿ",
+      "ಚಿಲಕ",
+      "",
+      "",
+      "ತರಕಾರಿ.mp3"
     ]
   ]
 }

@@ -76,6 +76,39 @@
       "bag.png",
       "ಕಣಜ.mp3",
       "ಕ,ಣ,ಜ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಐದಳ",
+      "ಐದಳ",
+      "ಔಷದ",
+      "ಛಲ",
+      "fivepetals.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಒಣಮರ",
+      "ಛಲ",
+      "ಐದಳ",
+      "ಒಣಮರ",
+      "dry tree.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಛಲ",
+      "ಔಷದ",
+      "ಛಲ",
+      "ಐದಳ",
+      "challenge.png"
     ]
   ]
 }

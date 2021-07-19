@@ -83,6 +83,45 @@
       "ಬ.mp3",
       "ಾ",
       "ಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತಾ",
+      "ತಾ",
+      "ಡಾ",
+      "ಪಾ",
+      "",
+      "",
+      "ತಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಡಾ",
+      "ಪಾ",
+      "ತಾ",
+      "ಡಾ",
+      "",
+      "",
+      "ಡಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಪಾ",
+      "ಡಾ",
+      "ಪಾ",
+      "ತಾ",
+      "",
+      "",
+      "ಪಾ.mp3"
     ]
   ]
 }

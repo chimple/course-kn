@@ -91,6 +91,45 @@
       "0",
       "recite.png",
       "ಪಠಣ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಫ",
+      "ಫ",
+      "ಖ",
+      "ಠ",
+      "",
+      "ಕ_",
+      "ಕಫ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಖ",
+      "ಠ",
+      "ಫ",
+      "ಖ",
+      "",
+      "_ಳ",
+      "ಖಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಠ",
+      "ಖ",
+      "ಠ",
+      "ಫ",
+      "",
+      "ಪ_ಣ",
+      "ಪಠಣ.mp3"
     ]
   ]
 }

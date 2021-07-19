@@ -79,6 +79,44 @@
       "1",
       "Description",
       "ಛ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಐ",
+      "ಣ",
+      "ಐ",
+      "ಒ",
+      "",
+      "",
+      "ಐ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಣ",
+      "ಐ",
+      "ಒ",
+      "ಣ",
+      "",
+      "ಣ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಒ",
+      "ಒ",
+      "ಣ",
+      "ಐ",
+      "",
+      "",
+      "ಒ.mp3"
     ]
   ]
 }

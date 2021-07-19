@@ -74,6 +74,43 @@
       "ಸಿ.mp3",
       "ವು",
       "ವು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನಗು",
+      "ಹಾರು",
+      "ನಗು",
+      "ಹೇಳು",
+      "",
+      "____ತ್ತಾ",
+      "ನಗುತ್ತಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಶಾಲೆ",
+      "ಶಾಲೆ",
+      "ಸಂಜೆ",
+      "ಹಸಿವು",
+      "school.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹಸಿವು",
+      "ತಿನ್ನಲು",
+      "ಆಯಿತು",
+      "ಹಸಿವು",
+      "",
+      "",
+      "ಹಸಿವು.mp3"
     ]
   ]
 }

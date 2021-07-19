@@ -38,6 +38,45 @@
       "ಬಾಯಿ",
       "298.-699",
       "ಬಾಯಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಣ್ಣು",
+      "ಡ್ಡಿ",
+      "ಣ್ಣು",
+      "ಸ",
+      "",
+      "ಕ___",
+      "ಕಣ್ಣು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮುಖ",
+      "ಮುಖ",
+      "ದೇಹ",
+      "ತಲೆ",
+      "",
+      "",
+      "ಮುಖ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮೂಗು",
+      "ಭುಜ",
+      "ಬಾಯಿ",
+      "ಮೂಗು",
+      "",
+      "",
+      "ಮೂಗು.mp3"
     ]
   ]
 }

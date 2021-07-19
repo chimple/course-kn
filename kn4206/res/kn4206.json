@@ -65,6 +65,43 @@
       "0",
       "nosepin.png",
       "ಮೂಗುತಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗುತಿ",
+      "ಷಿಕ",
+      "ಲಕ",
+      "ಗುತಿ",
+      "",
+      "ಮೂ",
+      "ಮೂಗುತಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮೂಗು",
+      "ಮೂಗು",
+      "ಹೂವು",
+      "ಸೂಜಿ",
+      "nose.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸೂಜಿ",
+      "ಬೂಟು",
+      "ಸೂಜಿ",
+      "ಮೂಗು",
+      "",
+      "",
+      "ಸೂಜಿ.mp3"
     ]
   ]
 }

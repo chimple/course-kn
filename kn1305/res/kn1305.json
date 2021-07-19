@@ -79,6 +79,44 @@
       "1",
       "Description",
       "ಶ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಯ",
+      "ಯ",
+      "ರ",
+      "ಚ",
+      "",
+      "",
+      "ಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಶ",
+      "ಔ",
+      "ಶ",
+      "ಹ",
+      "",
+      "ಶ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಲ",
+      "ಶ",
+      "ವ",
+      "ಲ",
+      "",
+      "",
+      "ಲ.mp3"
     ]
   ]
 }

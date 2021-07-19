@@ -95,6 +95,43 @@
       "ಬಿ.mp3",
       "ಡು",
       "ಡು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಮಂಗ",
+      "ಹುಲಿ",
+      "ಕುರಿ",
+      "ಮಂಗ",
+      "",
+      "____ಣ್ಣಾ",
+      "ಮಂಗಣ್ಣಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗಾಬರಿ",
+      "ಗಾಬರಿ",
+      "ಕ್ಷಮಿಸು",
+      "ಮಾಡು",
+      "scared.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತಿಳಿ",
+      "ಮಾಡು",
+      "ತಿಳಿ",
+      "ಬಿಡು",
+      "",
+      "",
+      "ತಿಳಿ.mp3"
     ]
   ]
 }

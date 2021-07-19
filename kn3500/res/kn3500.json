@@ -109,6 +109,43 @@
       "0",
       "pomegranate.png",
       "ದಾಳಿಂಬೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಹಣ್ಣು",
+      "ಗೀಳೆ",
+      "ಮರ",
+      "ಹಣ್ಣು",
+      "",
+      "ಬಾಳೆ____",
+      "ಬಾಳೆಹಣ್ಣು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ದ್ರಾಕ್ಷಿ",
+      "ಮೂಸಂಬಿ",
+      "ದ್ರಾಕ್ಷಿ",
+      "ದಾಳಿಂಬೆ",
+      "grapes.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸೀತಾಫಲ",
+      "ಸೀತಾಫಲ",
+      "ಪರಂಗಿಹಣ್ಣು",
+      "ಸೇಬು",
+      "",
+      "",
+      "ಸೀತಾಫಲ.mp3"
     ]
   ]
 }

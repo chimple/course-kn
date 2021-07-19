@@ -66,6 +66,43 @@
       "0",
       "narada.png",
       "ನಾರದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಸೀ",
+      "ಗಾ",
+      "ಸೀ",
+      "ಲೇ",
+      "",
+      "ಮ___ದಿ",
+      "ಮಸೀದಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಜುಮಕಿ",
+      "ಜುಮಕಿ",
+      "ಶರೀರ",
+      "ನಾರದ",
+      "jhumka .png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹರ",
+      "ಔಡಲ",
+      "ಹರ",
+      "ಶರೀರ",
+      "",
+      "",
+      "ಹರ.mp3"
     ]
   ]
 }

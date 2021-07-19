@@ -59,6 +59,45 @@
       "ಭವನ",
       "palace.png",
       "ಭವನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "spotlesswhite.png",
+      "rath.png",
+      "wealth.png",
+      "spotlesswhite.png",
+      "",
+      "",
+      "ಧವಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "shining.png",
+      "shining.png",
+      "spotlesswhite.png",
+      "bellringing.png",
+      "",
+      "",
+      "ಥಳಥಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "Shiva.png",
+      "spotlesswhite.png",
+      "soldier.png",
+      "Shiva.png",
+      "",
+      "",
+      "ಭವ.mp3"
     ]
   ]
 }

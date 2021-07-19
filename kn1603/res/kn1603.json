@@ -78,6 +78,43 @@
       "ಟಾಂ.mp3",
       "ಟಾಂ",
       "ಟಾಂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಡಾಬಾ",
+      "ಡಾಬಾ",
+      "ಕಾಲ",
+      "ತಾತಾ",
+      "",
+      "",
+      "ಡಾಬಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ತಾತಾ",
+      "ಕಾಲ",
+      "ತಾತಾ",
+      "ಡಾಬಾ",
+      "grandfather.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಪಾ",
+      "ರಾ",
+      "ಚಾ",
+      "ಪಾ",
+      "",
+      "__ಯಸ",
+      "ಪಾಯಸ.mp3"
     ]
   ]
 }

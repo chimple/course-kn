@@ -15,6 +15,45 @@
       "ದ,ಜ,ವ",
       "ಉ",
       "ು"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರು",
+      "ರು",
+      "ಸು",
+      "ವು",
+      "",
+      "",
+      "ರು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಗು",
+      "ಗೀ",
+      "ಗಾ",
+      "ಗು",
+      "",
+      "",
+      "ಗು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದು",
+      "ದು",
+      "ಸು",
+      "ರು",
+      "",
+      "",
+      "ದು.mp3"
     ]
   ]
 }

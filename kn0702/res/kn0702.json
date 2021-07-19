@@ -50,7 +50,7 @@
       "1",
       "Description",
       "ಒ",
-      "ಒಣ ಮರ",
+      "ಒಣಮರ",
       "dry tree.png",
       "ಒಣ ಮರ.mp3",
       "ಒಳ",
@@ -74,6 +74,45 @@
       "ಛ",
       "ಛ.png",
       "ಛ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "money.png",
+      "horse.png",
+      "arrow.png",
+      "money.png",
+      "",
+      "",
+      "ಹಣ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "inside.png",
+      "inside.png",
+      "money.png",
+      "horse.png",
+      "",
+      "",
+      "ಒಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "beautiful.png",
+      "money.png",
+      "beautiful.png",
+      "arrow.png",
+      "",
+      "",
+      "ಛಂದ.mp3"
     ]
   ]
 }

@@ -92,6 +92,43 @@
       "1",
       "pride.png",
       "ಠೀವಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಸೀ",
+      "ಥೀ",
+      "ಕೀ",
+      "ಸೀ",
+      "",
+      "__ತಾಳ",
+      "ಸೀತಾಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ತೀರ",
+      "ಪೀಪೀ",
+      "ತೀರ",
+      "ಚೀಟಿ",
+      "riverbank.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕೀಟ",
+      "ಕೀಟ",
+      "ಪೀಪೀ",
+      "ಠೀವಿ",
+      "",
+      "",
+      "ಕೀಟ.mp3"
     ]
   ]
 }

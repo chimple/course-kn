@@ -63,6 +63,44 @@
       "1",
       "Description",
       "ಭ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಧ",
+      "ಢ",
+      "ಧ",
+      "ಥ",
+      "",
+      "",
+      "ಧ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಢ",
+      "ಧ",
+      "ಭ",
+      "ಢ",
+      "",
+      "ಢ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭ",
+      "ಭ",
+      "ಥ",
+      "ಧ",
+      "",
+      "",
+      "ಭ.mp3"
     ]
   ]
 }

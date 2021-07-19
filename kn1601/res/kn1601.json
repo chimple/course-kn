@@ -77,6 +77,43 @@
       "0",
       "beautiful.png",
       "ಛಂದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರಥ",
+      "ರಥ",
+      "ತಡ",
+      "ಧನ",
+      "",
+      "",
+      "ರಥ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಧನ",
+      "ಕರ",
+      "ರಥ",
+      "ಧನ",
+      "wealth.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ರ",
+      "ಪ",
+      "ರ",
+      "ಬ",
+      "",
+      "ಕ___",
+      "ಕರ.mp3"
     ]
   ]
 }

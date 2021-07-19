@@ -84,6 +84,44 @@
       "ಭಜನ.mp3",
       "B",
       "1"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಥ",
+      "ಢ",
+      "ಥ",
+      "ಭ",
+      "",
+      "",
+      "ಥ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಧ",
+      "ಧ",
+      "ಢ",
+      "ಥ",
+      "",
+      "ಧ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭ",
+      "ಥ",
+      "ಭ",
+      "ಢ",
+      "",
+      "",
+      "ಭ.mp3"
     ]
   ]
 }

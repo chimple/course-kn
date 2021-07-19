@@ -85,6 +85,43 @@
       "0",
       "smart_girl.png",
       "ಜಾಣೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನಡೆ",
+      "ನಡೆ",
+      "ಹಿಡಿ",
+      "ಪರಿ",
+      "",
+      "____ದಾಟ",
+      "ನಡೆದಾಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ವ್ಯಾಯಾಮ",
+      "ಅಗತ್ಯ",
+      "ವ್ಯಾಯಾಮ",
+      "ಅಭ್ಯಾಸ",
+      "exercise.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜಾಣೆ",
+      "ಜೋಕಾಲಿ",
+      "ಅರೋಗ್ಯ",
+      "ಜಾಣೆ",
+      "",
+      "",
+      "ಜಾಣೆ.mp3"
     ]
   ]
 }

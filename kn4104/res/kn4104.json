@@ -87,6 +87,43 @@
       "0",
       "lamb.png",
       "ಕುರಿಮರಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಣುಪು",
+      "ತನ",
+      "ಮಿಗ",
+      "ಣುಪು",
+      "",
+      "ನು_____",
+      "ನುಣುಪು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಬಾವುಟ",
+      "ಬಾವುಟ",
+      "ಕುರಿಮರಿ",
+      "ನುಣುಪು",
+      "flag.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶುಚಿ",
+      "ದುಡಿ",
+      "ಶುಚಿ",
+      "ಹುಳು",
+      "",
+      "",
+      "ಶುಚಿ.mp3"
     ]
   ]
 }

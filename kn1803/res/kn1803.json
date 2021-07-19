@@ -80,6 +80,43 @@
       "0",
       "lungi.png",
       "ಲುಂಗಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಡು",
+      "ಗು",
+      "ನು",
+      "ಡು",
+      "",
+      "___ಮುಕಿ",
+      "ಡುಮುಕಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಯುವ",
+      "ಡುಮುಕಿ",
+      "ಹಾವು",
+      "ಯುವ",
+      "youthl.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರುಜು",
+      "ರುಜು",
+      "ಪುನುಗು",
+      "ಲುಂಗಿ",
+      "",
+      "",
+      "ರುಜು.mp3"
     ]
   ]
 }

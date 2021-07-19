@@ -91,6 +91,45 @@
       "0",
       "queens_chamber.png",
       "ಅಂತಃಪುರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಅಂ",
+      "ಮಂ",
+      "ಅಂ",
+      "ರಂ",
+      "",
+      "_ಕ",
+      "ಅಂಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಮಂ",
+      "ರಂ",
+      "ಮಂ",
+      "ಅಂ",
+      "",
+      "_ಗ",
+      "ಮಂಗ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ರಂ",
+      "ಅಂ",
+      "ರಂ",
+      "ಮಂ",
+      "",
+      "_ಗ",
+      "ರಂಗ.mp3"
     ]
   ]
 }

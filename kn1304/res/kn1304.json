@@ -79,6 +79,43 @@
       "1",
       "Description",
       "ಮ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಫ",
+      "ಝ",
+      "ಫ",
+      "ಖ",
+      "",
+      "ಫ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮ",
+      "ಬ",
+      "ಮ",
+      "ವ",
+      "",
+      "",
+      "ಮ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಬ",
+      "ನ",
+      "ಜ",
+      "ಬ",
+      "",
+      "ಬ"
     ]
   ]
 }

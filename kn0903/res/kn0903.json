@@ -84,7 +84,7 @@
       "LEGIT",
       "ಖ,ಗ",
       "vulture.png",
-      "crow.png",
+      "dog.png",
       "ಖಗ.mp3",
       "ಖ,ಗ"
     ],
@@ -98,6 +98,39 @@
       "write.png",
       "ಸಖ.mp3",
       "ಸ,ಖ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಘಟ",
+      "ಫಲಕ",
+      "ಮಠ",
+      "ಘಟ",
+      "pot.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮಠ",
+      "ಮಠ",
+      "ಘಟ",
+      "ಫಲಕ",
+      "monasteryl.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಫಲಕ",
+      "ಘಟ",
+      "ಫಲಕ",
+      "ಮಠ",
+      "placard.png"
     ]
   ]
 }

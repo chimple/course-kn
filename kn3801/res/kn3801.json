@@ -15,6 +15,45 @@
       "ಪ,ಯ,ಡ",
       "ಆ",
       "ಾ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನಾ",
+      "ನಾ",
+      "ಬಾ",
+      "ಮಾ",
+      "",
+      "",
+      "ನಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಪಾ",
+      "ಪೋ",
+      "ಪೀ",
+      "ಪಾ",
+      "",
+      "",
+      "ಪಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಯಾ",
+      "ಡಾ",
+      "ಯಾ",
+      "ಪಾ",
+      "",
+      "",
+      "ಯಾ.mp3"
     ]
   ]
 }

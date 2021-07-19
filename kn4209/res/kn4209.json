@@ -65,6 +65,43 @@
       "0",
       "yugadi.png",
       "ಯುಗಾದಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗಾದಿ",
+      "ಬೀದಿ",
+      "ಗಾದಿ",
+      "ವಕ",
+      "",
+      "ಯು_____",
+      "ಯುಗಾದಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಬೀಗ",
+      "ಬೀಗ",
+      "ಹುಳು",
+      "ಚಿಲಕ",
+      "lock.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಚಿಲಕ",
+      "ಹುಳು",
+      "ಮಾರಾಟ",
+      "ಚಿಲಕ",
+      "",
+      "",
+      "ಚಿಲಕ.mp3"
     ]
   ]
 }

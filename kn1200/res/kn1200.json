@@ -79,6 +79,45 @@
       "1",
       "Description",
       "ಉ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅ",
+      "ಉ",
+      "ಅ",
+      "ಇ",
+      "",
+      "",
+      "ಅ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಇ",
+      "ಉ",
+      "ಅ",
+      "ಇ",
+      "",
+      "",
+      "ಇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಉ",
+      "ಇ",
+      "ಅ",
+      "ಉ",
+      "",
+      "",
+      "ಉ.mp3"
     ]
   ]
 }

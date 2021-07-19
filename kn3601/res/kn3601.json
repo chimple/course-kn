@@ -53,7 +53,7 @@
       "rocket",
       "1",
       "Description",
-      "ಊಟ",
+      "",
       "ಊ,ಟ",
       "ಊ,ಟ",
       "ಊಟ.mp3",
@@ -71,6 +71,43 @@
       "horse tail.png",
       "ಗಿಡ್ಡ.mp3",
       "ಗಿ ಡ್ಡ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗಸು",
+      "ಗಸು",
+      "ಬಗು",
+      "ಪ್ಪು",
+      "",
+      "ಸೊ____",
+      "ಸೊಗಸು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಊಟ",
+      "ಆಟ",
+      "ಬಳಿ",
+      "ಊಟ",
+      "meal.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬಳಿ",
+      "ನಿತ್ಯ",
+      "ಸೊಗಸು",
+      "ಬಳಿ",
+      "",
+      "",
+      "ಬಳಿ.mp3"
     ]
   ]
 }

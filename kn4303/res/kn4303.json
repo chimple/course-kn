@@ -4,7 +4,7 @@
       "grid",
       "1",
       "Description",
-      "ಳ,ಹ, ಶ",
+      "ಳ,ಹ,ಶ",
       "ಎ",
       "ೆ"
     ],
@@ -15,6 +15,45 @@
       "ಣ,ಛ",
       "ಎ",
       "ೆ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಳೆ",
+      "ಹೆ",
+      "ಳೆ",
+      "ಷೆ",
+      "",
+      "",
+      "ಳೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಷೆ",
+      "ಷೆ",
+      "ಷಾ",
+      "ಷೆು",
+      "",
+      "",
+      "ಷೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಣೆ",
+      "ಛೆ",
+      "ಹೆ",
+      "ಣೆ",
+      "",
+      "",
+      "ಣೆ.mp3"
     ]
   ]
 }

@@ -15,6 +15,45 @@
       "ಷ,ಕ,ತ",
       "ಏ",
       "ೇ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಟೇ",
+      "ಚೇ",
+      "ಟೇ",
+      "ಲೇ",
+      "",
+      "",
+      "ಟೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಲೇ",
+      "ಲೇ",
+      "ಲಾ",
+      "ಲೂ",
+      "",
+      "",
+      "ಲೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕೇ",
+      "ಷೇ",
+      "ತೇ",
+      "ಕೇ",
+      "",
+      "",
+      "ಕೇ.mp3"
     ]
   ]
 }

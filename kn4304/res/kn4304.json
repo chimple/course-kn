@@ -54,6 +54,43 @@
       "0",
       "friendship.png",
       "ಗೆಳೆತನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ತನ",
+      "ಮಳೆ",
+      "ತನ",
+      "ಗಾರ",
+      "",
+      "ಗೆಳೆ____",
+      "ಗೆಳೆತನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಜಡೆ",
+      "ಜಡೆ",
+      "ಬೆಲೆ",
+      "ಎಲೆ",
+      "plait.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮದುವೆ",
+      "ಬೆಲೆ",
+      "ಗೆಳೆತನ",
+      "ಮದುವೆ",
+      "",
+      "",
+      "ಮದುವೆ.mp3"
     ]
   ]
 }

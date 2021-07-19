@@ -103,6 +103,45 @@
       "shiva.png",
       "False",
       "False"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಥ",
+      "ಭ",
+      "ಥ",
+      "ಧ",
+      "",
+      "ರ_",
+      "ರಥ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಭ",
+      "ಥ",
+      "ಧ",
+      "ಭ",
+      "",
+      "_ಟ",
+      "ಭಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಧ",
+      "ಧ",
+      "ಭ",
+      "ಥ",
+      "",
+      "_ನ",
+      "ಧನ.mp3"
     ]
   ]
 }

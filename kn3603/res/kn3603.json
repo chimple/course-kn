@@ -101,6 +101,45 @@
       "ಲ.mp3",
       "ಹು",
       "ಹು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಲಿಸು",
+      "ಪಿಲ",
+      "ಲಿಸು",
+      "ನಕ",
+      "",
+      "ಕ____",
+      "ಕಲಿಸು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮಾತು",
+      "ಮಾತು",
+      "ಕಂದಾ",
+      "ಕಲಿಸು",
+      "",
+      "",
+      "ಮಾತು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮುದ್ದು",
+      "ಎನ್ನ",
+      "ಆಡೊ",
+      "ಮುದ್ದು",
+      "",
+      "",
+      "ಮುದ್ದು.mp3"
     ]
   ]
 }

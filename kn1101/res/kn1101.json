@@ -85,6 +85,43 @@
       "",
       "girlnecklace.png",
       "ನಯನ ಸರ ಫಳಫಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ನಯನ",
+      "ಸರ",
+      "ನಯನ",
+      "ಮರ",
+      "eye.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಸ",
+      "ಉ",
+      "ಸ",
+      "ಮ",
+      "",
+      "_ರ",
+      "ಸರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ನಯನಳ ಸರ",
+      "ಅವರ ಊಟ",
+      "ಉರಗದ ಓಟ",
+      "ನಯನಳ ಸರ",
+      "",
+      "",
+      "ನಯನಳ ಸರ.mp3"
     ]
   ]
 }

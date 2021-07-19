@@ -4,7 +4,7 @@
       "grid",
       "1",
       "Description",
-      "ಳ,ಹ, ಶ",
+      "ಳ,ಹ,ಶ",
       "ಊ",
       "ೂ"
     ],
@@ -15,6 +15,45 @@
       "ಣ,ಛ",
       "ಊ",
       "ೂ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಳೂ",
+      "ಳೂ",
+      "ಹೂ",
+      "ಶೂ",
+      "",
+      "",
+      "ಳೂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶೂ",
+      "ಶಿ",
+      "ಶೂ",
+      "ಶಾ",
+      "",
+      "",
+      "ಶೂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಣೂ",
+      "ಛೂ",
+      "ಹೂ",
+      "ಣೂ",
+      "",
+      "",
+      "ಣೂ.mp3"
     ]
   ]
 }

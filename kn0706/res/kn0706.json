@@ -123,6 +123,45 @@
       "ಛ.mp3",
       "ಲ",
       "ಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಋ+ತ",
+      "ಶ+ಕ+ಟ",
+      "ಋ+ತ",
+      "ಹ+ದ",
+      "",
+      "",
+      "ಋತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಒ+ಣ",
+      "ಋ+ತ",
+      "ಛ+ಲ",
+      "ಒ+ಣ",
+      "",
+      "",
+      "ಒಣ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಛ+ಲ",
+      "ಛ+ಲ",
+      "ಒ+ಣ",
+      "ಋ+ತ",
+      "",
+      "",
+      "ಛಲ.mp3"
     ]
   ]
 }

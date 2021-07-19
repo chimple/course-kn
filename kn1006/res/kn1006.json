@@ -141,6 +141,45 @@
       "ಚ.mp3",
       "ಲ",
       "ಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅಂ+ತ",
+      "ಅಂ+ತ",
+      "ಅಂ+ಗ+ದ",
+      "ಕಂ+ಪ+ನ",
+      "",
+      "",
+      "ಅಂತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅಂ+ಗ+ದ",
+      "ಕಂ+ಪ+ನ",
+      "ಅಂ+ತ",
+      "ಅಂ+ಗ+ದ",
+      "",
+      "",
+      "ಅಂಗದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಂ+ಪ+ನ",
+      "ಅಂ+ಗ+ದ",
+      "ಕಂ+ಪ+ನ",
+      "ಅಂ+ತ",
+      "",
+      "",
+      "ಕಂಪನ.mp3"
     ]
   ]
 }

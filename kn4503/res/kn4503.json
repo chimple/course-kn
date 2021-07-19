@@ -7,6 +7,45 @@
       "ಧ,ಢ,ಥ,ಭ",
       "ಎ,ಏ",
       "ೆ,ೇ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಧೆ",
+      "ಭೆ",
+      "ಧೆ",
+      "ಪೆ",
+      "",
+      "",
+      "ಧೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಥೇ",
+      "ಥಾ",
+      "ಥು",
+      "ಥೋ",
+      "",
+      "",
+      "ಥೇ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭೆ",
+      "ಧೆ",
+      "ಭೆ",
+      "ಥೆ",
+      "",
+      "",
+      "ಭೆ.mp3"
     ]
   ]
 }

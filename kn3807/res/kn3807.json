@@ -54,6 +54,43 @@
       "0",
       "foot.png",
       "ಪಾದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗಜಾ",
+      "ಗಜಾ",
+      "ಹಮಾ",
+      "ಕರಾ",
+      "",
+      "____ನನಾ",
+      "ಗಜಾನನಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ತಾತ",
+      "ದಾರ",
+      "ತಾತ",
+      "ಪಾದ",
+      "grandfather.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನಾಗರ",
+      "ದಾರ",
+      "ಪಾದ",
+      "ನಾಗರ",
+      "",
+      "",
+      "ನಾಗರ.mp3"
     ]
   ]
 }

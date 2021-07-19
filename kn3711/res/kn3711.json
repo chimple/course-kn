@@ -109,6 +109,43 @@
       "0",
       "teeth.png",
       "ಹಲ್ಲು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ರಳು",
+      "ನಕ",
+      "ರಳು",
+      "ವರು",
+      "",
+      "ಬೆ_____",
+      "ಬೆರಳು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕಾಲು",
+      "ಕಾಲು",
+      "ಮೂಗು",
+      "ಬಾಯಿ",
+      "leg.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಣ್ಣು",
+      "ಮುಖ",
+      "ಕೈ",
+      "ಕಣ್ಣು",
+      "",
+      "",
+      "ಕಣ್ಣು.mp3"
     ]
   ]
 }

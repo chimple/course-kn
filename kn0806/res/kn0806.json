@@ -121,6 +121,45 @@
       "ಢ.mp3",
       "ರ",
       "ರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭ+ರ+ತ",
+      "ಭ+ರ+ತ",
+      "ಕ+ಥ+ನ",
+      "ಭ+ವ+ನ",
+      "",
+      "",
+      "ಭರತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕ+ಥ+ನ",
+      "ಭ+ವ+ನ",
+      "ಭ+ರ+ತ",
+      "ಕ+ಥ+ನ",
+      "",
+      "",
+      "ಕಥನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭ+ವ+ನ",
+      "ಕ+ಥ+ನ",
+      "ಭ+ವ+ನ",
+      "ಭ+ರ+ತ",
+      "",
+      "",
+      "ಭವನ.mp3"
     ]
   ]
 }

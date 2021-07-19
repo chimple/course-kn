@@ -149,6 +149,43 @@
       "",
       "runningrace.png",
       "ಓಟದ ಆಟ ಬಹಳ ಮಜ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಆಟ",
+      "ಪಾಠ",
+      "ಆಟ",
+      "ಊಟ",
+      "play.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಈ",
+      "ಹ",
+      "ಸ",
+      "ಈ",
+      "",
+      "_ಗ",
+      "ಈಗ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಓಟದ ಆಟ",
+      "ಓಟದ ಆಟ",
+      "ಪಾಠದ ಸಮಯ",
+      "ಅವಳ ಸರ",
+      "",
+      "",
+      "ಓಟದ ಆಟ.mp3"
     ]
   ]
 }

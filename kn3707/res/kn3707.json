@@ -70,6 +70,43 @@
       "0",
       "germs.png",
       "ರೋಗಾಣು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ರೋಗಾ",
+      "ಪೋರಾ",
+      "ರೋಗಾ",
+      "ತೀಮಾ",
+      "",
+      "______ಣು",
+      "ರೋಗಾಣು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮುಖ",
+      "ಮುಖ",
+      "ಕೊಳಕು",
+      "ತಿಂಡಿ",
+      "face.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತಿಂಡಿ",
+      "ತೊಳೆ",
+      "ತಿಂಡಿ",
+      "ಕಾಲು",
+      "",
+      "",
+      "ತಿಂಡಿ.mp3"
     ]
   ]
 }

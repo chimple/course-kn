@@ -59,6 +59,44 @@
       "1",
       "Description",
       "ಞ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅಂ",
+      "ಅಃ",
+      "ಅಂ",
+      "ಞ",
+      "",
+      "",
+      "ಅಂ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಅಃ",
+      "ಅಂ",
+      "ಅಃ",
+      "ಞ",
+      "",
+      "ಅಃ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಙ",
+      "ಞ",
+      "ಅಂ",
+      "ಙ",
+      "",
+      "",
+      "ಙ.mp3"
     ]
   ]
 }

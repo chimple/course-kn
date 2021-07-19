@@ -54,6 +54,43 @@
       "0",
       "garland.png",
       "ಹಾರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನರ",
+      "ನರ",
+      "ದಿಸು",
+      "ಹನ",
+      "",
+      "ವಾ____",
+      "ವಾನರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಬಾಲಕ",
+      "ವಾಹನ",
+      "ಬಾಲಕ",
+      "ಹಾರ",
+      "boy.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರಾಜ",
+      "ಬಾಲಕ",
+      "ರಾಜ",
+      "ಹಾರ",
+      "",
+      "",
+      "ರಾಜ.mp3"
     ]
   ]
 }

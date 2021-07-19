@@ -22,13 +22,13 @@
       "ಗ",
       "ಗಜ",
       "elephant.png",
-      "ಗಜmp3",
+      "ಗಜ.mp3",
       "ಗಜ",
       "elephant.png",
-      "ಗಜmp3",
+      "ಗಜ.mp3",
       "ಗಜ",
       "elephant.png",
-      "ಗಜmp3"
+      "ಗಜ.mp3"
     ],
     [
       "phonictractor",
@@ -99,6 +99,43 @@
       "",
       "elephant.png",
       "ಅಜ ಗಜದ ಓಟ ಬಹಳ ಮಜ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಅಜ",
+      "ಅಜ",
+      "ಮಜ",
+      "ಗಜ",
+      "brahma.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಗ",
+      "ಹ",
+      "ಗ",
+      "ಕ",
+      "",
+      "_ಜ",
+      "ಗಜ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಅಜ ಗಜ ಮಜ",
+      "ಅಮರನ  ಆಟ",
+      "ಅಜ ಗಜ ಮಜ",
+      "ಬಸವನ ಊಟ",
+      "",
+      "",
+      "ಅಜ ಗಜ ಮಜ.mp3"
     ]
   ]
 }

@@ -76,6 +76,39 @@
       "joined.png",
       "ಅಂತರ.mp3",
       "ಅಂ,ತ,ರ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕಂಠ",
+      "ಮಂಗ",
+      "ಕಂಬ",
+      "ಕಂಠ",
+      "throat.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮಂಗ",
+      "ಕಂಬ",
+      "ಕಂಠ",
+      "ಮಂಗ",
+      "monkey.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕಂಬ",
+      "ಕಂಠ",
+      "ಮಂಗ",
+      "ಕಂಬ",
+      "pillar.png"
     ]
   ]
 }

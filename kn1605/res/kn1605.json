@@ -90,6 +90,43 @@
       "1",
       "cart.png",
       "ಗಾಡಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಡಿ",
+      "ವಿ",
+      "ದಿ",
+      "ಡಿ",
+      "",
+      "ಗಾ__",
+      "ಗಾಡಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗಿಳಿ",
+      "ಗಿಳಿ",
+      "ಜಾಜಿ",
+      "ಇಣಚಿ",
+      "parrot.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದಿನ",
+      "ಗಾಡಿ",
+      "ದಿನ",
+      "ಗಿರಿ",
+      "",
+      "",
+      "ದಿನ.mp3"
     ]
   ]
 }

@@ -69,6 +69,43 @@
       "",
       "snake.png",
       "ಉರಗದ ಓಟ ಸರಸರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಉರಗ",
+      "ರಸ",
+      "ಉರಗ",
+      "ಚಮಚ",
+      "snake.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಓ",
+      "ಓ",
+      "ಏ",
+      "ಬಾ",
+      "",
+      "_ಟ",
+      "ಓಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "ಉರಗದ ಓಟ",
+      "ಗಣಪನ ಆಲಯ",
+      "ಉರಗದ ಓಟ",
+      "ಅವನ ಪಟ",
+      "",
+      "",
+      "ಉರಗದ ಓಟ.mp3"
     ]
   ]
 }
