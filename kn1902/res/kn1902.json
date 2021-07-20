@@ -81,6 +81,43 @@
       "ಭೂ.mp3",
       "ಮ",
       "ಮ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಹೂ",
+      "ಹೂ",
+      "ಕೂ",
+      "ಲೂ",
+      "",
+      "__ಡು",
+      "ಹೂಡು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕೂಪ",
+      "ಜೂಲಿ",
+      "ಶೂರ",
+      "ಕೂಪ",
+      "well.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭೂಮ",
+      "ನೂರು",
+      "ಬೂಟು",
+      "ಭೂಮ",
+      "",
+      "",
+      "ಭೂಮ.mp3"
     ]
   ]
 }

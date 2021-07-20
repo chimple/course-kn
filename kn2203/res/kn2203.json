@@ -68,6 +68,43 @@
       "ತೊ.mp3",
       "ರೆ",
       "ರೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಬೊಂಬೆ",
+      "ತೊರೆ",
+      "ಕೊಡೆ",
+      "ಬೊಂಬೆ",
+      "doll.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನೊ",
+      "ಮೊ",
+      "ರೊ",
+      "ನೊ",
+      "",
+      "__ರೆ",
+      "ನೊರೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತೊರೆ",
+      "ಹೊರೆ",
+      "ಪೊರೆ",
+      "ತೊರೆ",
+      "",
+      "",
+      "ತೊರೆ.mp3"
     ]
   ]
 }

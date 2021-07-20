@@ -67,6 +67,45 @@
       "office.png",
       "ಸಮಾರಂಭ.mp3",
       "ಸ,ಮಾ,ರಂ,ಭ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಪುಟಾಣಿ",
+      "ದೇಶ",
+      "ಪುಟಾಣಿ",
+      "ಮಮತೆ",
+      "tiny.png",
+      "",
+      "ಪುಟಾಣಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದೇಶ",
+      "ಮಮತೆ",
+      "ಹೂವು",
+      "ದೇಶ",
+      "",
+      "",
+      "ದೇಶ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಹಾ",
+      "ರಾ",
+      "ಹಾ",
+      "ಪಾ",
+      "",
+      "__ಡು",
+      "ಹಾಡು.mp3"
     ]
   ]
 }

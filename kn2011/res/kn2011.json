@@ -67,6 +67,45 @@
       "0",
       "lily.png",
       "ನೈದಿಲೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಪೈ",
+      "ಪೈ",
+      "ಡೈ",
+      "ಮೈ",
+      "",
+      "__ರು",
+      "ಪೈರು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬೈಗು",
+      "ನೈದಿಲೆ",
+      "ತೈಲ",
+      "ಬೈಗು",
+      "",
+      "",
+      "ಬೈಗು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನೈದಿಲೆ",
+      "ಬೈಗು",
+      "ನೈದಿಲೆ",
+      "ಪೈರು",
+      "",
+      "",
+      "ನೈದಿಲೆ.mp3"
     ]
   ]
 }

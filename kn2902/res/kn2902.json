@@ -87,6 +87,45 @@
       "ಲ.mp3",
       "ಹು",
       "ಹು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ದನೆ",
+      "ಬರ",
+      "ಗಮ",
+      "ದನೆ",
+      "",
+      "ವಂ____",
+      "ವಂದನೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಯೋಧ",
+      "ಯೋಧ",
+      "ನಾಡು",
+      "ರೋಗ",
+      "",
+      "",
+      "ಯೋಧ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನಾಡು",
+      "ಸಲಹು",
+      "ನಾಡು",
+      "ಬಾಲ್ಯ",
+      "",
+      "",
+      "ನಾಡು.mp3"
     ]
   ]
 }

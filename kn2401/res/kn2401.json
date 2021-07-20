@@ -46,6 +46,45 @@
       "0",
       "crow.png",
       "ಕಾಗೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಾ",
+      "ಕಿ",
+      "ಕೀ",
+      "ಕಾ",
+      "",
+      "",
+      "ಕಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕ",
+      "ಕಾ",
+      "ಕ",
+      "ಕಿ",
+      "",
+      "",
+      "ಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಾಗೆ",
+      "ಕಾಗೆ",
+      "ಕರ",
+      "ಕಮಲಾ",
+      "",
+      "",
+      "ಕಾಗೆ.mp3"
     ]
   ]
 }

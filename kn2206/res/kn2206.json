@@ -67,6 +67,43 @@
       "ದೋ.mp3",
       "ರೆ",
       "ರೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಚೋ",
+      "ದೋ",
+      "ಚೋ",
+      "ಪೋ",
+      "",
+      "__ಟು",
+      "ಚೋಟು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಟೋಪಿ",
+      "ಟೋಪಿ",
+      "ಗೋಡೆ",
+      "ಚೋಟು",
+      "cap.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಗೋಡೆ",
+      "ಗೋಡೆ",
+      "ತೋಟ",
+      "ದೋರೆ",
+      "",
+      "",
+      "ಗೋಡೆ.mp3"
     ]
   ]
 }

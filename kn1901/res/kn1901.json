@@ -98,6 +98,43 @@
       "ತೂ.mp3",
       "ರು",
       "ರು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಕು",
+      "ಮು",
+      "ಕು",
+      "ಗು",
+      "",
+      "__ಟುಕು",
+      "ಕುಟುಕು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮೂರುತಿ",
+      "ರೂಮು",
+      "ದೂರ",
+      "ಮೂರುತಿ",
+      "statue.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತೂರು",
+      "ತೂರು",
+      "ದೂರು",
+      "ಚೂಪು",
+      "",
+      "",
+      "ತೂರು.mp3"
     ]
   ]
 }

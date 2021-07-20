@@ -103,6 +103,43 @@
       "0",
       "brain.png",
       "ಮಸ್ತಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಸ್ತಕ",
+      "ಲ್ಲಿಗೆ",
+      "ಸ್ತಕ",
+      "ನಸ್ಸು",
+      "",
+      "ಮ____",
+      "ಮಸ್ತಕ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಪುಸ್ತಕ",
+      "ಪುಸ್ತಕ",
+      "ಜಾಸ್ತಿ",
+      "ಕುಸ್ತಿ",
+      "book.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶಕ್ತಿ",
+      "ಆಸ್ತಿ",
+      "ಜಾಸ್ತಿ",
+      "ಶಕ್ತಿ",
+      "",
+      "",
+      "ಶಕ್ತಿ.mp3"
     ]
   ]
 }

@@ -73,6 +73,43 @@
       "ಕಂ.mp3",
       "ಡು",
       "ಡು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ರೆದ",
+      "ರೆದ",
+      "ತಡ",
+      "ನಡ",
+      "",
+      "ತೆ___",
+      "ತೆರೆದ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಆಡಿಸು",
+      "ತೆರೆದ",
+      "ಆಡಿಸು",
+      "ಸೋಮ",
+      "play.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕಂಡು",
+      "ಆಡಿಸು",
+      "ಸೋಮ",
+      "ಕಂಡು",
+      "",
+      "",
+      "ಕಂಡು.mp3"
     ]
   ]
 }

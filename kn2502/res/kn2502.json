@@ -73,6 +73,45 @@
       "ನು.mp3",
       "ಮ",
       "ಮ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಭಾರತ",
+      "ಮಾಲೆ",
+      "ಬಡವ",
+      "ಭಾರತ",
+      "India.png",
+      "",
+      "ಭಾರತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬಡವ",
+      "ಬಡವ",
+      "ಹೂವು",
+      "ಮಾಲೆ",
+      "",
+      "",
+      "ಬಡವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಮ",
+      "ರಾ",
+      "ಮ",
+      "ಪು",
+      "",
+      "ಜನು__",
+      "ಜನುಮ.mp3"
     ]
   ]
 }

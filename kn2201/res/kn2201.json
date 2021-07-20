@@ -83,6 +83,45 @@
       "ದ.mp3",
       "ೊ",
       "ೊ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನೊ",
+      "ಹೊ",
+      "ನೊ",
+      "ಕೊ",
+      "",
+      "",
+      "ನೊ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹೊ",
+      "ನೊ",
+      "ಗೊ",
+      "ಹೊ",
+      "",
+      "",
+      "ಹೊ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮೊ",
+      "ಮೊ",
+      "ಹೊ",
+      "ನೊ",
+      "",
+      "",
+      "ಮೊ.mp3"
     ]
   ]
 }

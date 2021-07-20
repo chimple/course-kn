@@ -95,6 +95,45 @@
       "ದ.mp3",
       "ೆ",
       "ೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮೆ",
+      "ಬೆ",
+      "ನೆ",
+      "ಮೆ",
+      "",
+      "",
+      "ಮೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಪೆ",
+      "ಪೋ",
+      "ಪೆ",
+      "ಪು",
+      "",
+      "",
+      "ಪೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದೆ",
+      "ಯೆ",
+      "ದೆ",
+      "ಮೆ",
+      "",
+      "",
+      "ದೆ.mp3"
     ]
   ]
 }

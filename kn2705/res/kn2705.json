@@ -59,6 +59,45 @@
       "ಶ್.mp3",
       "ಶ",
       "ಶ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಯ್ಯ",
+      "ಯ್ಯ",
+      "ರ್‍ರ",
+      "ವ್ವ",
+      "",
+      "",
+      "ಯ್ಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರ್‍ರ",
+      "ವ್ವ",
+      "ರ್‍ರ",
+      "ಯ್ಯ",
+      "",
+      "",
+      "ರ್‍ರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ವ್ವ",
+      "ಯ್ಯ",
+      "ವ್ವ",
+      "ರ್‍ರ",
+      "",
+      "",
+      "ವ್ವ.mp3"
     ]
   ]
 }

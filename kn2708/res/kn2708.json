@@ -80,6 +80,43 @@
       "0",
       "mom.png",
       "ಅವ್ವ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ನ್ನಡಿ",
+      "ರಗ",
+      "ನ್ನಡಿ",
+      "ಮಲ",
+      "",
+      "ಕ_____",
+      "ಕನ್ನಡಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕಬ್ಬು",
+      "ಕಬ್ಬು",
+      "ಕನ್ನಡಿ",
+      "ಕಪ್ಪೆ",
+      "sugarcane.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅವ್ವ",
+      "ಸಣ್ಣಾಟ",
+      "ಹದ್ದು",
+      "ಅವ್ವ",
+      "",
+      "",
+      "ಅವ್ವ.mp3"
     ]
   ]
 }

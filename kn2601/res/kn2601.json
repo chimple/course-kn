@@ -65,6 +65,39 @@
       "0",
       "goat.png",
       "ಮೇಕೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕೋಳಿ",
+      "ಕೋಳಿ",
+      "ಕುದುರೆ",
+      "ಹಸು",
+      "Chicken.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ನಾಯಿ",
+      "ಹುಂಜ",
+      "ಕೋಳಿ",
+      "ನಾಯಿ",
+      "dog.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮೇಕೆ",
+      "ನಾಯಿ",
+      "ಮೇಕೆ",
+      "ಕೋಳಿ",
+      "goat.png"
     ]
   ]
 }

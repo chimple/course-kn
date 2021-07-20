@@ -76,6 +76,45 @@
       "ಕ",
       "ಉ,ಊ,ಋ",
       "ು,ೂ,ೃ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕು",
+      "ಕು",
+      "ಕೀ",
+      "ಕಾ",
+      "",
+      "",
+      "ಕು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕೂಸು",
+      "ಕೃಷಿ",
+      "ಕೂಸು",
+      "ಕೆರೆ",
+      "",
+      "",
+      "ಕೂಸು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಕು",
+      "ಕು",
+      "ಕೃ",
+      "ಕೆ",
+      "",
+      "_ರಿ",
+      "ಕುರಿ.mp3"
     ]
   ]
 }

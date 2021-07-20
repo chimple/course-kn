@@ -43,6 +43,43 @@
       "0",
       "pumpkin.png",
       "ಕುಂಬಳ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಹಣ್ಣು",
+      "ಕಾಯಿ",
+      "ಹಣ್ಣು",
+      "ಗಿಡ",
+      "",
+      "ಬಾಳೆ____",
+      "ಬಾಳೆಹಣ್ಣು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ತಾವರೆ",
+      "ತಾವರೆ",
+      "ಕ್ಯಾರೆಟ್ಟು",
+      "ಕುಂಬಳ",
+      "lotus.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕುಂಬಳ",
+      "ತಾವರೆ",
+      "ಕ್ಯಾರೆಟ್ಟು",
+      "ಕುಂಬಳ",
+      "",
+      "",
+      "ಕುಂಬಳ.mp3"
     ]
   ]
 }

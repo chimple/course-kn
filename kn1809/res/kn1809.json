@@ -69,6 +69,43 @@
       "0",
       "ghee.png",
       "ಘೃತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಮೃ",
+      "ವ್ರ",
+      "ಗೃ",
+      "ಮೃ",
+      "",
+      "__ಡ",
+      "ಮೃಡ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹೃದಯ",
+      "ಸೃಜನ",
+      "ಹೃದಯ",
+      "ಮೃಡ",
+      "heart.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಭೃಂಗ",
+      "ಭೃಂಗ",
+      "ಸೃಜನ",
+      "ಹೃದಯ",
+      "",
+      "",
+      "ಭೃಂಗ.mp3"
     ]
   ]
 }

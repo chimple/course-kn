@@ -95,6 +95,45 @@
       "ದ.mp3",
       "ೋ",
       "ೋ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಚೋ",
+      "ಚೋ",
+      "ಟೋ",
+      "ಜೋ",
+      "",
+      "",
+      "ಚೋ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಟೋ",
+      "ಜೋ",
+      "ಚೋ",
+      "ಟೋ",
+      "",
+      "",
+      "ಟೋ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಜೋ",
+      "ಟೋ",
+      "ಜೋ",
+      "ಚೋ",
+      "",
+      "",
+      "ಜೋ.mp3"
     ]
   ]
 }

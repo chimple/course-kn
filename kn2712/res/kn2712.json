@@ -54,12 +54,12 @@
       "spelldoor",
       "1",
       "Description",
-      "ಉ,ಯ್ಯ,ಲೆ",
+      "ಉ,ಯ್ಯಾ,ಲೆ",
       "***",
       "0",
       "0",
       "swing.png",
-      "ಉಯ್ಯಲೆ.mp3"
+      "ಉಯ್ಯಾಲೆ.mp3"
     ],
     [
       "phonictractor",
@@ -95,6 +95,43 @@
       "ಬೆ.mp3",
       "ಲ್ಲ",
       "ಲ್ಲ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಮಲ್ಲಿ",
+      "ಆಗ",
+      "ಹೋಳಿ",
+      "ಮಲ್ಲಿ",
+      "",
+      "_____ಗೆ",
+      "ಮಲ್ಲಿಗೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಅನ್ನ",
+      "ಅನ್ನ",
+      "ಅಯ್ಯ",
+      "ಬೆಲ್ಲ",
+      "cookedrice.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕನ್ನಡ",
+      "ಹೆಮ್ಮರ",
+      "ಕನ್ನಡ",
+      "ತಮ್ಮ",
+      "",
+      "",
+      "ಕನ್ನಡ.mp3"
     ]
   ]
 }

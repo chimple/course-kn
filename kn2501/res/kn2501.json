@@ -70,6 +70,45 @@
       "0",
       "sweets.png",
       "ತಿಂಡಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹೂವು",
+      "ಮಾಲೆ",
+      "ಪಟ",
+      "ಹೂವು",
+      "flower.png",
+      "",
+      "ಹೂವು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮಾಲೆ",
+      "ಸರಕಾರಿ",
+      "ಹೂವು",
+      "ಮಾಲೆ",
+      "",
+      "",
+      "ಮಾಲೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಡಿ",
+      "ಹೂ",
+      "ಲೆ",
+      "ಡಿ",
+      "",
+      "ತಿಂ__",
+      "ತಿಂಡಿ.mp3"
     ]
   ]
 }

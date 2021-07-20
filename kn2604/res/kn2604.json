@@ -55,10 +55,49 @@
       "Description",
       "LEGIT",
       "ಆ,ಟ,ವಾ,ಡು",
-      "playwith.png",
+      "play.png",
       "cooking.png",
       "ಆಟವಾಡು.mp3",
       "ಆ,ಟ,ವಾ,ಡು"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಅದರ",
+      "ತಂಗಿ",
+      "ನಲಿ",
+      "ಅದರ",
+      "",
+      "",
+      "ಅದರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ನಲಿ",
+      "ಅದರ",
+      "ತಂಗಿ",
+      "ನಲಿ",
+      "",
+      "",
+      "ನಲಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತಂಗಿ",
+      "ನಲಿ",
+      "ಅದರ",
+      "ತಂಗಿ",
+      "",
+      "",
+      "ತಂಗಿ.mp3"
     ]
   ]
 }

@@ -85,6 +85,45 @@
       "ಬ.mp3",
       "ಳಿ",
       "ಳಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಡ್ಡದು",
+      "ಡ್ಡದು",
+      "ಣ್ಣೆ",
+      "ಳ್ಳು",
+      "",
+      "ದೊ_____",
+      "ದೊಡ್ಡದು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಪೈರು",
+      "ಬಳಿ",
+      "ಪೈರು",
+      "ಬೆಳೆ",
+      "",
+      "",
+      "ಪೈರು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕೇಳು",
+      "ಬಳಿ",
+      "ತೆನೆ",
+      "ಕೇಳು",
+      "",
+      "",
+      "ಕೇಳು.mp3"
     ]
   ]
 }

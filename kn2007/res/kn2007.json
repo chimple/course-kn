@@ -69,6 +69,43 @@
       "0",
       "goat.png",
       "ಮೇಕೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಪೇ",
+      "ಮೇ",
+      "ಪೇ",
+      "ಚೇ",
+      "",
+      "__ಟೆ",
+      "ಪೇಟೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಮೇಕೆ",
+      "ಮೇಕೆ",
+      "ಸೇಬು",
+      "ಮೇಜು",
+      "goat.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ದೇವಿ",
+      "ತೇರು",
+      "ದೇವಿ",
+      "ಕೇರೆ",
+      "",
+      "",
+      "ದೇವಿ.mp3"
     ]
   ]
 }

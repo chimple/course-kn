@@ -95,6 +95,43 @@
       "ಬೆ.mp3",
       "ತ್ತ",
       "ತ್ತ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಳುಳ್ಳಿ",
+      "ಳುಳ್ಳಿ",
+      "ಲ್ಲ",
+      "ವರು",
+      "",
+      "ಬೆ_____",
+      "ಬೆಳುಳ್ಳಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕತ್ತರಿ",
+      "ತಪಸ್ಸು",
+      "ಕತ್ತರಿ",
+      "ಅಪ್ಪುಗೆ",
+      "scissors.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬಸ್ಸು",
+      "ಹಳ್ಳ",
+      "ಬೆತ್ತ",
+      "ಬಸ್ಸು",
+      "",
+      "",
+      "ಬಸ್ಸು.mp3"
     ]
   ]
 }

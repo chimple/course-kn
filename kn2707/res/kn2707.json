@@ -78,6 +78,43 @@
       "0",
       "donkey.png",
       "ಕತ್ತೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಟ್ಟು",
+      "ಟ್ಟು",
+      "ಕ್ಕ",
+      "ಳ್ಳ",
+      "",
+      "ಬೊ____",
+      "ಬೊಟ್ಟು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಅಜ್ಜ",
+      "ಹಚ್ಚೆ",
+      "ಅಜ್ಜ",
+      "ಹಕ್ಕಿ",
+      "grandfather.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಗಡ್ಡ",
+      "ಮಗ್ಗ",
+      "ಹಕ್ಕಿ",
+      "ಗಡ್ಡ",
+      "",
+      "",
+      "ಗಡ್ಡ.mp3"
     ]
   ]
 }

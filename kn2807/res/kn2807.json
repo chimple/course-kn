@@ -116,6 +116,43 @@
       "0",
       "affection.png",
       "ಪ್ರೀತಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ವಣ",
+      "ವಣ",
+      "ಗಮ",
+      "ಪಲ",
+      "",
+      "ಶ್ರ____",
+      "ಶ್ರವಣ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಪ್ರೀತಿ",
+      "ಸ್ಥಳ",
+      "ಪ್ರೀತಿ",
+      "ದ್ರವ",
+      "affection.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಕ್ರಮ",
+      "ದ್ರವ",
+      "ಸ್ಥಳ",
+      "ಕ್ರಮ",
+      "",
+      "",
+      "ಕ್ರಮ.mp3"
     ]
   ]
 }

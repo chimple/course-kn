@@ -67,6 +67,43 @@
       "0",
       "butter.png",
       "ಬೆಣ್ಣೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಬೆ",
+      "ಳೆ",
+      "ಫೆ",
+      "ಬೆ",
+      "",
+      "__ಣ್ಣೆ",
+      "ಬೆಣ್ಣೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹವೆ",
+      "ಜಡೆ",
+      "ಬೆಲೆ",
+      "ಹವೆ",
+      "climate.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬೆಲೆ",
+      "ಬೆಲೆ",
+      "ಪೆರೆ",
+      "ಹವೆ",
+      "",
+      "",
+      "ಬೆಲೆ.mp3"
     ]
   ]
 }

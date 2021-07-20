@@ -97,6 +97,43 @@
       "0",
       "cucumber.png",
       "ಸೌತೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಯೋ",
+      "ಹೋ",
+      "ಯೋ",
+      "ಡೊ",
+      "",
+      "__ಜನ",
+      "ಯೋಜನ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸೌತೆ",
+      "ಸೌತೆ",
+      "ಪೌಳಿ",
+      "ತೊಲೆ",
+      "",
+      "",
+      "ಸೌತೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹೋತ",
+      "ಗೋವು",
+      "ಗೌರಿ",
+      "ಹೋತ",
+      "male_goat.png"
     ]
   ]
 }

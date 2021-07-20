@@ -70,6 +70,45 @@
       "0",
       "mouse.png",
       "ಇಲಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಆ",
+      "ಆ",
+      "ಈ",
+      "ಪ",
+      "",
+      "__ಕಳು",
+      "ಆಕಳು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಉಂಗುರ",
+      "ಅರಸ",
+      "ಉಂಗುರ",
+      "ಎಲೆ",
+      "ring.png",
+      "",
+      "ಉಂಗುರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಇಲಿ",
+      "ಉಂಗುರ",
+      "ಎಲೆ",
+      "ಇಲಿ",
+      "",
+      "",
+      "ಇಲಿ.mp3"
     ]
   ]
 }

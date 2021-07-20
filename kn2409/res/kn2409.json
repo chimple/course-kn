@@ -74,8 +74,47 @@
       "**",
       "0",
       "0",
-      "boat.png",
+      "ship.png",
       "ನೌಕೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಶಂ",
+      "ಅಂ",
+      "ಕಂ",
+      "ಶಂ",
+      "",
+      "__ಖ",
+      "ಶಂಖ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹಾವು",
+      "ಹಾವು",
+      "ಶಂಖ",
+      "ನೌಕೆ",
+      "snake.png",
+      "",
+      "ಹಾವು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರೈತ",
+      "ಶಂಖ",
+      "ನೌಕೆ",
+      "ರೈತ",
+      "",
+      "",
+      "ರೈತ.mp3"
     ]
   ]
 }

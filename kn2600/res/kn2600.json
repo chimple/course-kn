@@ -65,6 +65,39 @@
       "0",
       "Parrot.png",
       "ಗಿಳಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಹಸು",
+      "ಪಾರಿವಾಳ",
+      "ಕುದುರೆ",
+      "ಹಸು",
+      "Cow.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕುದುರೆ",
+      "ಕುದುರೆ",
+      "ಹಸು",
+      "ಪಾರಿವಾಳ",
+      "Horse.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಪಾರಿವಾಳ",
+      "ಹಸು",
+      "ಪಾರಿವಾಳ",
+      "ಕುದುರೆ",
+      "Pigeon.png"
     ]
   ]
 }

@@ -95,6 +95,45 @@
       "ಲ.mp3",
       "ೋ",
       "ೋ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮೋ",
+      "ರೋ",
+      "ಹೋ",
+      "ಮೋ",
+      "",
+      "",
+      "ಮೋ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸೋ",
+      "ಸೋ",
+      "ಮೋ",
+      "ಹೋ",
+      "",
+      "",
+      "ಸೋ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ರೋ",
+      "ಮೋ",
+      "ರೋ",
+      "ಚೋ",
+      "",
+      "",
+      "ರೋ.mp3"
     ]
   ]
 }

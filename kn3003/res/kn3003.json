@@ -65,6 +65,43 @@
       "0",
       "help.png",
       "ಸಹಾಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ಹಾಯ",
+      "ಹಾಯ",
+      "ನ್ಮಾನ",
+      "ಲಹೆ",
+      "",
+      "ಸ______",
+      "ಸಹಾಯ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಊರು",
+      "ಒಂದು",
+      "ಊರು",
+      "ಮರಿ",
+      "village.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಬಿತ್ತು",
+      "ಮರಿ",
+      "ನೆಲ",
+      "ಬಿತ್ತು",
+      "",
+      "",
+      "ಬಿತ್ತು.mp3"
     ]
   ]
 }

@@ -83,6 +83,45 @@
       "ಟ.mp3",
       "-ೈ",
       "-ೈ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಸೈ",
+      "ಗೈ",
+      "ಸೈ",
+      "ಮೈ",
+      "",
+      "",
+      "ಸೈ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹೈ",
+      "ಹೊ",
+      "ಹು",
+      "ಹೈ",
+      "",
+      "",
+      "ಹೈ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಟೈ",
+      "ಟೈ",
+      "ಸೈ",
+      "ಗೈ",
+      "",
+      "",
+      "ಟೈ.mp3"
     ]
   ]
 }

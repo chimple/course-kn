@@ -62,6 +62,45 @@
       "ಭಟ",
       "kings_soldier.png",
       "ಭಟ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ತೆ",
+      "ತೆ",
+      "ಕೆ",
+      "ರೆ",
+      "",
+      "__ನೆ",
+      "ತೆನೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ತಬಲಾ",
+      "ಮೇಜು",
+      "ತಬಲಾ",
+      "ನವಿಲು",
+      "tabla.png",
+      "",
+      "ತಬಲಾ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಮೇಜು",
+      "ತಬಲಾ",
+      "ನೇಗಿಲು",
+      "ಮೇಜು",
+      "",
+      "",
+      "ಮೇಜು.mp3"
     ]
   ]
 }

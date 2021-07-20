@@ -106,6 +106,43 @@
       "0",
       "grapes.png",
       "ದ್ರಾಕ್ಷಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ತಿಭೆ",
+      "ಣವ",
+      "ಸಾದ",
+      "ತಿಭೆ",
+      "",
+      "ಪ್ರ____",
+      "ಪ್ರತಿಭೆ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ವಜ್ರ",
+      "ವಜ್ರ",
+      "ದ್ರಾಕ್ಷಿ",
+      "ಧ್ರುವ",
+      "diamong.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಧ್ರುವ",
+      "ದೃಷ್ಟಿ",
+      "ಧ್ರುವ",
+      "ದ್ರಾಕ್ಷಿ",
+      "",
+      "",
+      "ಧ್ರುವ.mp3"
     ]
   ]
 }

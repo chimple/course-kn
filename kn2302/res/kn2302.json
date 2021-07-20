@@ -84,6 +84,45 @@
       "ಆಡಿ.mp3",
       "ದರು",
       "ದರು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶೋಕಿ",
+      "ಹುಡುಗರು",
+      "ದೊಣೆ",
+      "ಶೋಕಿ",
+      "",
+      "",
+      "ಶೋಕಿ .mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಶೌರಿ",
+      "ಶೌರಿ",
+      "ಪೊಸತು",
+      "ದೊಣೆ",
+      "",
+      "",
+      "ಶೌರಿ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ಹುಡುಗರು",
+      "ಶೋಕಿ",
+      "ಹುಡುಗರು",
+      "ಶೌರಿ",
+      "",
+      "",
+      "ಹುಡುಗರು.mp3"
     ]
   ]
 }

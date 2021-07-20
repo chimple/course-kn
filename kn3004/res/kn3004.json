@@ -65,6 +65,43 @@
       "0",
       "wrong.png",
       "ತಪ್ಪು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "ತಲೆ",
+      "ಕಾಲು",
+      "ಪಾದ",
+      "ತಲೆ",
+      "",
+      "____ತಗ್ಗಿಸು",
+      "ತಲೆತಗ್ಗಿಸು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಕೂಡಿ",
+      "ಕೂಡಿ",
+      "ನಾಚು",
+      "ಹಸಿವು",
+      "together.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ತಪ್ಪು",
+      "ತಪ್ಪು",
+      "ನಾಚು",
+      "ಕೂಡಿ",
+      "",
+      "",
+      "ತಪ್ಪು.mp3"
     ]
   ]
 }
