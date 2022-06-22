@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "365ba8d7-b475-44dd-81b2-fb0d9086541c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "baya_weaver": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "199f5f59-b245-4a14-ae71-9c5e90635503",
+      "importer": "sprite-frame",
       "rawTextureUuid": "365ba8d7-b475-44dd-81b2-fb0d9086541c",
       "trimType": "auto",
       "trimThreshold": 1,

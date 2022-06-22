@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "99c1c358-cb98-4c2e-b1cc-e027f2910521",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Nehru": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "99f1a902-aa5c-4c7e-bbc8-b21dbff65dfe",
+      "importer": "sprite-frame",
       "rawTextureUuid": "99c1c358-cb98-4c2e-b1cc-e027f2910521",
       "trimType": "auto",
       "trimThreshold": 1,

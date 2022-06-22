@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "10d1b831-faa5-4f85-9873-28742acfc952",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "girl_eat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b764b5f4-f9dd-48e5-bdfd-9c7ecef3175a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "10d1b831-faa5-4f85-9873-28742acfc952",
       "trimType": "auto",
       "trimThreshold": 1,

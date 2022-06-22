@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a777fa8c-f64d-42c1-94bb-2334604aabf2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "tattoo": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "84dbd8be-5f91-4d68-a95a-1122d83d57ee",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a777fa8c-f64d-42c1-94bb-2334604aabf2",
       "trimType": "auto",
       "trimThreshold": 1,

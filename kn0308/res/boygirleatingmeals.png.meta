@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8f1fca2e-5117-48b7-97dc-8797fe1542df",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boygirleatingmeals": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f140b075-f3b4-48bf-a6d9-3f4ef44a2c5b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8f1fca2e-5117-48b7-97dc-8797fe1542df",
       "trimType": "auto",
       "trimThreshold": 1,

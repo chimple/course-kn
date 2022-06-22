@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cbef69b6-9687-4032-93cf-1262ad39146c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Indian_republicday": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a295adac-064d-432d-846f-73cb72f040ad",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cbef69b6-9687-4032-93cf-1262ad39146c",
       "trimType": "auto",
       "trimThreshold": 1,

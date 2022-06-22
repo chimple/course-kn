@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7e57a8ad-bfb0-42d3-b63f-b29f01ff0008",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "washerman": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6c4c8a12-5efe-41dc-b45e-4f75c1e2fbb2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7e57a8ad-bfb0-42d3-b63f-b29f01ff0008",
       "trimType": "auto",
       "trimThreshold": 1,

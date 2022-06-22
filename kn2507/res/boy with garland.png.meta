@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8a4b4bd2-b20e-4076-abd4-86e63cd53de7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boy with garland": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fd3cbdd8-2149-46d7-a1fd-2b7c08e01b21",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8a4b4bd2-b20e-4076-abd4-86e63cd53de7",
       "trimType": "auto",
       "trimThreshold": 1,

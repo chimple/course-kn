@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "24cdde60-6a90-480d-821d-dc3e95d34de3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "brinjal": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "897d9654-7dd6-49b6-8c16-3a32895e4b91",
+      "importer": "sprite-frame",
       "rawTextureUuid": "24cdde60-6a90-480d-821d-dc3e95d34de3",
       "trimType": "auto",
       "trimThreshold": 1,

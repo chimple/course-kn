@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ad8bb488-6d2c-45f1-90ac-12d7d9b825bb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "monasteryl": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a30afc6a-1981-4517-9253-1f3d8853e772",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ad8bb488-6d2c-45f1-90ac-12d7d9b825bb",
       "trimType": "auto",
       "trimThreshold": 1,

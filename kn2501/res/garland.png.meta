@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8f570067-166d-449e-a749-f666cc5b4a6f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "garland": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0666a714-bd60-416a-ba71-e1702404fadc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8f570067-166d-449e-a749-f666cc5b4a6f",
       "trimType": "auto",
       "trimThreshold": 1,

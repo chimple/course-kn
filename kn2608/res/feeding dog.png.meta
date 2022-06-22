@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2c61ec96-b402-433d-a94f-1dcf2334d954",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "feeding dog": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3d3f2f3e-6dba-4afe-9809-623e7aaffb24",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2c61ec96-b402-433d-a94f-1dcf2334d954",
       "trimType": "auto",
       "trimThreshold": 1,

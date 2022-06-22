@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "98bcb581-f77e-4b04-8017-c79b542a7755",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "birdfeedingbabies": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7b558609-02b4-45a1-beb5-9da090de584a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "98bcb581-f77e-4b04-8017-c79b542a7755",
       "trimType": "auto",
       "trimThreshold": 1,

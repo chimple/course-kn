@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "be5b3e78-0c96-49c4-8be2-183e5771810f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "shahanyi": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "13ce51d6-a169-4010-9a2d-36f5f7afae55",
+      "importer": "sprite-frame",
       "rawTextureUuid": "be5b3e78-0c96-49c4-8be2-183e5771810f",
       "trimType": "auto",
       "trimThreshold": 1,

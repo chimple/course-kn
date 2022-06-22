@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4b968781-03a0-413c-832e-44967f32cbb5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dasara": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "34a0f479-2d31-4148-b7c6-f36b51ad0cb0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4b968781-03a0-413c-832e-44967f32cbb5",
       "trimType": "auto",
       "trimThreshold": 1,

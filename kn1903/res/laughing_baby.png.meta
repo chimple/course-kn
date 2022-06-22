@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b5300c1a-ba88-42ef-9220-05daa7cd338f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "laughing_baby": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "59703a1d-b405-48a2-8206-214a63560d57",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b5300c1a-ba88-42ef-9220-05daa7cd338f",
       "trimType": "auto",
       "trimThreshold": 1,

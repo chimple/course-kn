@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f010a1f1-af0b-4a23-b38c-912b8b1767d9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cresent_moon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "153fe5f1-2b24-44db-852d-c8839d7b9c14",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f010a1f1-af0b-4a23-b38c-912b8b1767d9",
       "trimType": "auto",
       "trimThreshold": 1,

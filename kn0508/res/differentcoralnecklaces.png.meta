@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "880e9acb-566d-490a-ab0a-8859da9b31e0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "differentcoralnecklaces": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "eb4e3382-2a9b-4c59-80e7-c47f64ba0c71",
+      "importer": "sprite-frame",
       "rawTextureUuid": "880e9acb-566d-490a-ab0a-8859da9b31e0",
       "trimType": "auto",
       "trimThreshold": 1,

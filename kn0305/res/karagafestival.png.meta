@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1b2404f1-ddd5-4be3-a71e-b51e06f85406",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "karagafestival": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0df4d85c-b2b9-4508-9bd8-78e913223340",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1b2404f1-ddd5-4be3-a71e-b51e06f85406",
       "trimType": "auto",
       "trimThreshold": 1,

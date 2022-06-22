@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6abce275-e0a8-4c57-b92f-208a9cd5a004",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "soldier": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "39db65ee-0a54-41f3-b9e4-63f2d6b911b9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6abce275-e0a8-4c57-b92f-208a9cd5a004",
       "trimType": "auto",
       "trimThreshold": 1,

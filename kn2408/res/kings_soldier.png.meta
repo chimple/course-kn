@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b4e21a43-0e1b-4d3e-bba6-2e2d721bb710",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "kings_soldier": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e6ae233a-6ef6-406a-b708-f76bf5f59126",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b4e21a43-0e1b-4d3e-bba6-2e2d721bb710",
       "trimType": "auto",
       "trimThreshold": 1,

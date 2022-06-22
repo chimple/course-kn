@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "854ce363-663a-4ee1-92af-9056a1f09ec7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Indianflag": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f5c363c2-ecef-485e-b265-b629bb262d9e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "854ce363-663a-4ee1-92af-9056a1f09ec7",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "923e966f-942c-4ed7-a18b-66aea854d60a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "armlet_bracelet": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e58b34be-1f02-4f5e-b779-dafc0c0f9b35",
+      "importer": "sprite-frame",
       "rawTextureUuid": "923e966f-942c-4ed7-a18b-66aea854d60a",
       "trimType": "auto",
       "trimThreshold": 1,

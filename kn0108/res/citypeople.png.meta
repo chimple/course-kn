@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d5d60af7-c891-4c77-8612-a0fbd0d496cc",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "citypeople": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0fdfa25d-e3b0-48d3-a045-e198c83a842e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d5d60af7-c891-4c77-8612-a0fbd0d496cc",
       "trimType": "auto",
       "trimThreshold": 1,

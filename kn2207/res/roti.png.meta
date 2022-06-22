@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c8646b27-30ea-4b4f-b5bd-d31b18d03db3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "roti": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b9fc65dd-e3e4-48ed-9a1e-265a112e4c40",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c8646b27-30ea-4b4f-b5bd-d31b18d03db3",
       "trimType": "auto",
       "trimThreshold": 1,

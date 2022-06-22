@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8ed63c07-9f1d-46c3-86f7-dd3385d9a2cd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "coconut palm": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f3d127c1-83a0-4cd5-8a33-0f35b482e22b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8ed63c07-9f1d-46c3-86f7-dd3385d9a2cd",
       "trimType": "auto",
       "trimThreshold": 1,

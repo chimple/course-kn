@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "38469dfa-9f7e-45bd-a643-353257f6ba5c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "broadkite": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ca7ba7bb-01fa-43b0-9863-a947dc40f568",
+      "importer": "sprite-frame",
       "rawTextureUuid": "38469dfa-9f7e-45bd-a643-353257f6ba5c",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "74681451-8ede-4e5c-8803-95388e8f0e5e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "roof_tile": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "88efa481-b465-43be-bd21-08a2c9e8cca1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "74681451-8ede-4e5c-8803-95388e8f0e5e",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b12ba727-6727-40b4-9929-efb732761554",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Parrot": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0bdc9d2a-db67-459a-831a-7136aa495603",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b12ba727-6727-40b4-9929-efb732761554",
       "trimType": "auto",
       "trimThreshold": 1,

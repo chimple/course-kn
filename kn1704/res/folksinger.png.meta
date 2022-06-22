@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a006a41b-4f25-4d55-813d-159ee9106f27",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "folksinger": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0405f00e-6454-4330-88d5-4a39c74b662b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a006a41b-4f25-4d55-813d-159ee9106f27",
       "trimType": "auto",
       "trimThreshold": 1,

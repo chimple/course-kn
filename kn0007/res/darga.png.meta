@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "41700844-914c-4129-afb5-547e7a386b7f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "darga": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "db5ea852-2d85-451e-935c-cbb51bfd7f31",
+      "importer": "sprite-frame",
       "rawTextureUuid": "41700844-914c-4129-afb5-547e7a386b7f",
       "trimType": "auto",
       "trimThreshold": 1,

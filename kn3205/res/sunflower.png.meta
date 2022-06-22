@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "46eb182c-d142-421d-915f-fdaed83106bc",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "sunflower": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8b554309-59a1-49e9-acd1-5c0c494ffbcc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "46eb182c-d142-421d-915f-fdaed83106bc",
       "trimType": "auto",
       "trimThreshold": 1,

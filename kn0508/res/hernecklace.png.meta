@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d800a733-208f-40e7-8598-7c222c4cb475",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "hernecklace": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ead56986-1fdb-4bec-9c63-b78e0b9bf192",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d800a733-208f-40e7-8598-7c222c4cb475",
       "trimType": "auto",
       "trimThreshold": 1,

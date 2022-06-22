@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "fa7587cd-74c1-4a90-82af-d0510b259903",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "scorpion": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d350795d-558f-486a-846a-e9daabdec39d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fa7587cd-74c1-4a90-82af-d0510b259903",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f8ebfb71-644b-4fd8-aec3-480554dc18a7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "hospital": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "eaa6c034-46e0-4c24-956f-578d02de41b2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f8ebfb71-644b-4fd8-aec3-480554dc18a7",
       "trimType": "auto",
       "trimThreshold": 1,

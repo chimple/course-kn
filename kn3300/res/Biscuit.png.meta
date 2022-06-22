@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b700c43c-878c-4e12-ae78-6049bce35ce9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Biscuit": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1906b3b9-d2bc-4352-9721-1a9f7b339e3a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b700c43c-878c-4e12-ae78-6049bce35ce9",
       "trimType": "auto",
       "trimThreshold": 1,

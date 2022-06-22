@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ad57b43e-8b9c-4cac-817e-89cc54c57968",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bell_ringing": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ceba41af-babc-4266-9496-e82b3c400514",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ad57b43e-8b9c-4cac-817e-89cc54c57968",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "76afa176-901c-4948-a064-0a6423d17694",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "queens_chamber": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e416ea7b-c6c2-4065-9047-ceb4cfe01b5f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "76afa176-901c-4948-a064-0a6423d17694",
       "trimType": "auto",
       "trimThreshold": 1,

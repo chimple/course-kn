@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "baa192d6-fb0a-428b-b7cd-24fa705e404e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "iron(metal)": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3d89b7c6-62a9-4dc5-a046-a03056e16cbd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "baa192d6-fb0a-428b-b7cd-24fa705e404e",
       "trimType": "auto",
       "trimThreshold": 1,

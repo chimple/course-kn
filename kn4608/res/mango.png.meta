@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9c36d107-99df-4570-8bec-82f7ec08d8fb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "mango": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7f4e752a-ddcd-4fc4-98bc-8cfb79b1f318",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9c36d107-99df-4570-8bec-82f7ec08d8fb",
       "trimType": "auto",
       "trimThreshold": 1,

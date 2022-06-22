@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "200a1f30-a0e0-462d-9178-212f82928112",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "hen in farm": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "15a1d3a6-e300-43e5-bb93-65f2d081d209",
+      "importer": "sprite-frame",
       "rawTextureUuid": "200a1f30-a0e0-462d-9178-212f82928112",
       "trimType": "auto",
       "trimThreshold": 1,

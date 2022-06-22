@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "34692085-0737-443a-8ed0-f4a482b83b81",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "yugadi": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9e31d5d3-c6c5-4389-b364-e93e4175d85e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "34692085-0737-443a-8ed0-f4a482b83b81",
       "trimType": "auto",
       "trimThreshold": 1,

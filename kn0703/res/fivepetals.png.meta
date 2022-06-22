@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a5e1fa2f-7bde-40a2-b4d4-f971eebc8dc8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "fivepetals": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2c723de0-b2ef-430e-81f3-681f5431c748",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a5e1fa2f-7bde-40a2-b4d4-f971eebc8dc8",
       "trimType": "auto",
       "trimThreshold": 1,

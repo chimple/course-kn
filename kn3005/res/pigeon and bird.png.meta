@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b40bf856-0aea-4e47-9db9-06187a139f50",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "pigeon and bird": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cb22ba6b-f551-43b4-9de7-8cf50f0b5090",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b40bf856-0aea-4e47-9db9-06187a139f50",
       "trimType": "auto",
       "trimThreshold": 1,

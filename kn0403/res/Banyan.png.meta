@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4db20dfe-cd42-4361-ad03-b20e35274e75",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Banyan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9fae7513-b7e6-45a1-851e-f3999f9ef891",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4db20dfe-cd42-4361-ad03-b20e35274e75",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "837bd5ac-8036-4910-8c4f-71d2d7c4720c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "papaya": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "db2c3d85-4e5d-4fec-bafe-a2a56ba48fd8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "837bd5ac-8036-4910-8c4f-71d2d7c4720c",
       "trimType": "auto",
       "trimThreshold": 1,

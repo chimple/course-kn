@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "fa53e16e-3a60-48c5-98f3-dce27354a1ed",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "walking_in_park": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "82a0722d-37a0-423e-8823-9a89313901d3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fa53e16e-3a60-48c5-98f3-dce27354a1ed",
       "trimType": "auto",
       "trimThreshold": 1,

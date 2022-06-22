@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9c872e0f-cf18-4cc9-9e66-6527e1a388b9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ganapathi": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3d49ccd2-227f-49ea-b8e9-bc1b2b4c47a9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9c872e0f-cf18-4cc9-9e66-6527e1a388b9",
       "trimType": "auto",
       "trimThreshold": 1,

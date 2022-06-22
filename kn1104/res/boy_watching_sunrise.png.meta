@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b15c806e-42d3-483d-a785-bf21e466e17b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boy_watching_sunrise": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e145bfe6-ac15-4e04-9073-a1a198a8919d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b15c806e-42d3-483d-a785-bf21e466e17b",
       "trimType": "auto",
       "trimThreshold": 1,

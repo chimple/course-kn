@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ba9b5788-8fa4-458e-88dd-113f0edece26",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "firecracker flower": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "55fac133-5dbb-40d7-88db-8b0370aba53a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ba9b5788-8fa4-458e-88dd-113f0edece26",
       "trimType": "auto",
       "trimThreshold": 1,

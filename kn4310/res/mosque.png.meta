@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "18b9b920-7dec-402a-9193-79c222620faa",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "mosque": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7125160c-8579-4243-bc11-dd931ee60c25",
+      "importer": "sprite-frame",
       "rawTextureUuid": "18b9b920-7dec-402a-9193-79c222620faa",
       "trimType": "auto",
       "trimThreshold": 1,

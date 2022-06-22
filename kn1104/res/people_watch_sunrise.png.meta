@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4aae4b35-2e4b-470c-a221-41aa5e025f1c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "people_watch_sunrise": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5cc2eed4-8058-453f-b95e-a051439befad",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4aae4b35-2e4b-470c-a221-41aa5e025f1c",
       "trimType": "auto",
       "trimThreshold": 1,

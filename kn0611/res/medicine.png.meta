@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4a7ebcc9-d938-487a-bd4b-35ad33cfea7c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "medicine": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7a120e0b-9742-41c5-9029-ab16b6f262d0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4a7ebcc9-d938-487a-bd4b-35ad33cfea7c",
       "trimType": "auto",
       "trimThreshold": 1,

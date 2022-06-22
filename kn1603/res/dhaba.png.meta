@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d3ce1b36-00a2-46af-a433-297e71059c70",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dhaba": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "20dbb369-5ce0-4413-8867-3fb5b76aa0cb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d3ce1b36-00a2-46af-a433-297e71059c70",
       "trimType": "auto",
       "trimThreshold": 1,

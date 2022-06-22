@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f122df6d-c8c6-4adf-8262-1fff6559f872",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "girl distributing sweets": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6a1d92bc-6dad-401b-97ae-523548ae7119",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f122df6d-c8c6-4adf-8262-1fff6559f872",
       "trimType": "auto",
       "trimThreshold": 1,

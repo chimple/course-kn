@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1feaac51-1584-4679-95cd-319230cef15c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "poojari": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "88404860-91f6-41ce-a2d8-53efe5bd0dc4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1feaac51-1584-4679-95cd-319230cef15c",
       "trimType": "auto",
       "trimThreshold": 1,

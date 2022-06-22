@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7fc1bde1-ae02-4042-9a6c-c80e535bcdc7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "door": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b6400694-d99e-4c3d-99ac-13a4ec6fe5d8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7fc1bde1-ae02-4042-9a6c-c80e535bcdc7",
       "trimType": "auto",
       "trimThreshold": 1,
