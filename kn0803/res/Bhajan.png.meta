@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8d914311-09c4-4463-b51d-ee23a14a9e96",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Bhajan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "dc2ffbd5-ea4a-4571-9212-d014e84b0881",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8d914311-09c4-4463-b51d-ee23a14a9e96",
       "trimType": "auto",
       "trimThreshold": 1,

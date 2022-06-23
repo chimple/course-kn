@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f21564b8-bd24-48b5-9269-f8f33ce50d80",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "sugarcane": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d50ff997-b1d0-47ee-8321-62ec9cd6431e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f21564b8-bd24-48b5-9269-f8f33ce50d80",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "592dd7a1-2135-4ae8-9de2-7ced367c399e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boyflyingkite": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "840c7dba-e416-45fe-b3a0-27b8bf9c00da",
+      "importer": "sprite-frame",
       "rawTextureUuid": "592dd7a1-2135-4ae8-9de2-7ced367c399e",
       "trimType": "auto",
       "trimThreshold": 1,

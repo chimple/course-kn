@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1f411eff-7829-4a4c-b793-daeae21ed911",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "kadubu": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c1a497be-8ef6-4725-bcd3-3ce8c40a90c5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1f411eff-7829-4a4c-b793-daeae21ed911",
       "trimType": "auto",
       "trimThreshold": 1,

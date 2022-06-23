@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d643ac23-e616-451a-993f-1784628ab362",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "mosambi_citrus": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a06d2452-ab01-485b-8928-905a850bfebf",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d643ac23-e616-451a-993f-1784628ab362",
       "trimType": "auto",
       "trimThreshold": 1,

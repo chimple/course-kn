@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ee7a5c7a-aa72-460f-b8ef-fe5c237f92b4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "fruitgarden": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "32af7534-b905-4515-90ac-76f92a886e8c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ee7a5c7a-aa72-460f-b8ef-fe5c237f92b4",
       "trimType": "auto",
       "trimThreshold": 1,

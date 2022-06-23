@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e50915d2-9034-4975-b524-cb9586b03d2b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bottlegourd": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3d04cc8d-c5c7-4a57-b33d-e2c73c36ceb2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e50915d2-9034-4975-b524-cb9586b03d2b",
       "trimType": "auto",
       "trimThreshold": 1,

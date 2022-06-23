@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6d4fa152-8a2b-4f81-ba36-d9ba7634dd07",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "lotus": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b20bf1f9-d645-4f12-9a13-d9a325bbb8f5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6d4fa152-8a2b-4f81-ba36-d9ba7634dd07",
       "trimType": "auto",
       "trimThreshold": 1,

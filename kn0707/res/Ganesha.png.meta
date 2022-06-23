@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4f917edd-2a12-427e-a5f0-b756732b5da1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Ganesha": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9171b3f9-aedc-4ced-9c1d-2f59c1f0ae1b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4f917edd-2a12-427e-a5f0-b756732b5da1",
       "trimType": "auto",
       "trimThreshold": 1,

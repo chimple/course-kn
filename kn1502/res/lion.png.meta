@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5cb66834-00f0-4b22-bfb6-c2df0d455405",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "lion": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4f042d8b-b309-475c-8baa-53cc63c664e5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5cb66834-00f0-4b22-bfb6-c2df0d455405",
       "trimType": "auto",
       "trimThreshold": 1,

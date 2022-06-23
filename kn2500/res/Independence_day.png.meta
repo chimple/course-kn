@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0cb866ec-c9ed-4464-b083-047d1f8e5f36",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Independence_day": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "100f12a4-8be0-46b1-b284-c89de22ccef1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0cb866ec-c9ed-4464-b083-047d1f8e5f36",
       "trimType": "auto",
       "trimThreshold": 1,

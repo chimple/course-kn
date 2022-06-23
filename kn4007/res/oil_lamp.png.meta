@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5027be4f-d868-43f5-bf75-c2df818acc9b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "oil_lamp": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1cb4f2a8-d7ea-40bb-ad32-70030acbb90a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5027be4f-d868-43f5-bf75-c2df818acc9b",
       "trimType": "auto",
       "trimThreshold": 1,

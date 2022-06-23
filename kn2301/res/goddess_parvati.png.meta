@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0a9900a5-22ae-473a-bc14-ff3e1bef3478",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "goddess_parvati": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "550bee5e-4c9a-439b-9acd-747838149ab3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0a9900a5-22ae-473a-bc14-ff3e1bef3478",
       "trimType": "auto",
       "trimThreshold": 1,

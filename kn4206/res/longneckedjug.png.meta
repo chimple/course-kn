@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "79718d5e-5dea-4150-832c-e9dfe6e074a5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "longneckedjug": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "94a301d2-3cf9-401b-821e-51416228b6ea",
+      "importer": "sprite-frame",
       "rawTextureUuid": "79718d5e-5dea-4150-832c-e9dfe6e074a5",
       "trimType": "auto",
       "trimThreshold": 1,

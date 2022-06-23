@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a5b1031d-7f74-440b-93ba-ca2a91479923",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "jhumka ": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8dc7b230-d4a8-4c28-a5d4-f17038c3eaec",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a5b1031d-7f74-440b-93ba-ca2a91479923",
       "trimType": "auto",
       "trimThreshold": 1,

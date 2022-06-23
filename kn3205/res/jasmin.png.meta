@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b4913050-b03f-4ea7-9e73-a17a4774cd80",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "jasmin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b1c98319-80f6-40e7-890a-d598a01fc6aa",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b4913050-b03f-4ea7-9e73-a17a4774cd80",
       "trimType": "auto",
       "trimThreshold": 1,

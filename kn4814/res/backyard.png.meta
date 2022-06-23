@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e19bf131-a70d-439c-ac10-d2b222777734",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "backyard": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f30f8c9d-a400-48c2-bbca-22fada5f78af",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e19bf131-a70d-439c-ac10-d2b222777734",
       "trimType": "auto",
       "trimThreshold": 1,

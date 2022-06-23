@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1b02da7a-a4a0-4a32-a68c-9ac875160051",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "happyboy": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7d1a706a-0adf-4313-9cfc-c9203c07cd9b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1b02da7a-a4a0-4a32-a68c-9ac875160051",
       "trimType": "auto",
       "trimThreshold": 1,

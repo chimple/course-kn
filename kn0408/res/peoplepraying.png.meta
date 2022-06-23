@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "263fa4bc-4f90-4f55-9dfe-3c49c9eaf6a4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "peoplepraying": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "04d5298e-b106-402f-b980-eeea51f983d6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "263fa4bc-4f90-4f55-9dfe-3c49c9eaf6a4",
       "trimType": "auto",
       "trimThreshold": 1,

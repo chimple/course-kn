@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f34652c7-2052-42f3-89ca-cc0098186de9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "girl_on_swing": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f96ae54a-35ce-47dc-bacb-f6994cd457a3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f34652c7-2052-42f3-89ca-cc0098186de9",
       "trimType": "auto",
       "trimThreshold": 1,

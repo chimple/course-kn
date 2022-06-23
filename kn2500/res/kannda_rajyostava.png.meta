@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "bc29dcde-7f54-4c08-8151-8c5793de9ed6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "kannda_rajyostava": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "182e3d67-8ba9-4f4f-9855-b5a03b0ec566",
+      "importer": "sprite-frame",
       "rawTextureUuid": "bc29dcde-7f54-4c08-8151-8c5793de9ed6",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f7aab116-b71d-423e-86d3-3f4dc0ef29eb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boy with dog": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a1f74027-481c-4541-ae20-21230bcde051",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f7aab116-b71d-423e-86d3-3f4dc0ef29eb",
       "trimType": "auto",
       "trimThreshold": 1,

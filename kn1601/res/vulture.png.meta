@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f0a2b248-eee1-439b-9b97-72c456bb7ab9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "vulture": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e4bd3be3-7225-448d-8e30-677826e13fd4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f0a2b248-eee1-439b-9b97-72c456bb7ab9",
       "trimType": "auto",
       "trimThreshold": 1,

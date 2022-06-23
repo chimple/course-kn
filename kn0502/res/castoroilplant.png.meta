@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c8d831e1-22d0-4061-942b-1019e51fd7dc",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "castoroilplant": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1c61f607-40dc-4ead-8664-24754714a783",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c8d831e1-22d0-4061-942b-1019e51fd7dc",
       "trimType": "auto",
       "trimThreshold": 1,

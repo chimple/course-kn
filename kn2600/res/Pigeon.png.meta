@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "324b9cbf-d33e-4a83-8923-bc3e9ce93070",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Pigeon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b98035c2-c184-451b-a97e-efed3594c90c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "324b9cbf-d33e-4a83-8923-bc3e9ce93070",
       "trimType": "auto",
       "trimThreshold": 1,

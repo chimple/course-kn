@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "519e2f27-9cc6-4845-b52d-b358b597c011",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "fight_battle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9b604cff-83ad-42c6-bebd-1d989d64b814",
+      "importer": "sprite-frame",
       "rawTextureUuid": "519e2f27-9cc6-4845-b52d-b358b597c011",
       "trimType": "auto",
       "trimThreshold": 1,

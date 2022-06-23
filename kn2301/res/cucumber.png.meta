@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "640a8ab9-1bd3-4b14-8369-205ff872a885",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cucumber": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b90662a3-f3ce-4c9f-bf52-4874a311c0ff",
+      "importer": "sprite-frame",
       "rawTextureUuid": "640a8ab9-1bd3-4b14-8369-205ff872a885",
       "trimType": "auto",
       "trimThreshold": 1,

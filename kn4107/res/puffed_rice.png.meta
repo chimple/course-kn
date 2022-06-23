@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "253eca0e-0acf-407d-b45d-e56a55e36e82",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "puffed_rice": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "523b9a91-d344-4b11-9c08-8f3ea78b0dd9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "253eca0e-0acf-407d-b45d-e56a55e36e82",
       "trimType": "auto",
       "trimThreshold": 1,

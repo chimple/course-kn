@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9a5d5bf2-6ae3-4074-88db-c3bf12bf6c67",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "christmas": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e6bbfebd-2c8a-4ed0-80c1-9cb70462b080",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9a5d5bf2-6ae3-4074-88db-c3bf12bf6c67",
       "trimType": "auto",
       "trimThreshold": 1,

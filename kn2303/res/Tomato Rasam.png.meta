@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b5c5aa2d-e958-4999-b83e-b7dd243febda",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Tomato Rasam": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2af38330-4322-463e-a61d-ec027c2720fc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b5c5aa2d-e958-4999-b83e-b7dd243febda",
       "trimType": "auto",
       "trimThreshold": 1,

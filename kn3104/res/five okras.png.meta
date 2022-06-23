@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0f9cf120-272c-4712-ac94-7f2be6fd05cf",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "five okras": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c5250e1d-cff3-4a82-b9d0-9d4646a01b7d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0f9cf120-272c-4712-ac94-7f2be6fd05cf",
       "trimType": "auto",
       "trimThreshold": 1,

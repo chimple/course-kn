@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6835f409-0f2f-42cc-b82f-2f2e325a346d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boy salutation": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cbd47cfc-d580-4691-8840-f317e785ae34",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6835f409-0f2f-42cc-b82f-2f2e325a346d",
       "trimType": "auto",
       "trimThreshold": 1,

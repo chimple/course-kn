@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e7482ccf-7c8a-481a-a21c-bdbb1b1b528f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "beard": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "27035e53-3aed-4dc2-bce2-a72523fb3eee",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e7482ccf-7c8a-481a-a21c-bdbb1b1b528f",
       "trimType": "auto",
       "trimThreshold": 1,

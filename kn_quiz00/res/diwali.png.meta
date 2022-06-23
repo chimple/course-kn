@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "320b9a19-dbc7-4102-b509-5bdd821d345b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "diwali": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d9e96e0e-1fd9-44f2-a1fe-15cf60a7d7da",
+      "importer": "sprite-frame",
       "rawTextureUuid": "320b9a19-dbc7-4102-b509-5bdd821d345b",
       "trimType": "auto",
       "trimThreshold": 1,

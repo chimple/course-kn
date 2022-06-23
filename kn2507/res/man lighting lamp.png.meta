@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9c145803-3291-45cf-b956-7e03d0113d49",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "man lighting lamp": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "687accad-a207-4f1d-836a-146ebbe08266",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9c145803-3291-45cf-b956-7e03d0113d49",
       "trimType": "auto",
       "trimThreshold": 1,

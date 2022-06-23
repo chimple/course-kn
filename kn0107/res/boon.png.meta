@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6b75a599-4332-4f8a-a4c5-97a1ebd2e5b9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6f0c96d3-c98b-4901-a700-33bb8159dccb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6b75a599-4332-4f8a-a4c5-97a1ebd2e5b9",
       "trimType": "auto",
       "trimThreshold": 1,

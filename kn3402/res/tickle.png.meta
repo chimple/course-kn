@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "44f9c6e8-8252-47db-9412-47a5298dff6c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "tickle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1cc11379-72a1-4268-b5cf-42f64b921bd3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "44f9c6e8-8252-47db-9412-47a5298dff6c",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0162ad93-cad3-4e76-9fea-9b342c3fbda6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "mari-gold": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cca114ee-7222-435f-bde1-8be090e820bf",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0162ad93-cad3-4e76-9fea-9b342c3fbda6",
       "trimType": "auto",
       "trimThreshold": 1,
