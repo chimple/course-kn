@@ -1,0 +1,91 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಸೇಂಟ್ ಫಿಲೋಮಿನಾ/ಕ್ಯಾಥೆಡ್ರಲ್.",
+      "",
+      "St.mp3Philomena_cathedral.png",
+      "ಸೇಂಟ್_ಫಿಲೋಮಿನಾ_ಕ್ಯಾಥೆಡ್ರಲ್.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ನಟರಾಜ",
+      "",
+      "nataraja.png",
+      "ನಟರಾಜ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಸಾವಿರ ಕಂಬದ/ಬಸದಿ",
+      "",
+      "Saavira/Kambada/Basadi.png",
+      "ಸಾವಿರ_ಕಂಬದ_ಬಸದಿ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಕಲ್ಲಿನ ರಥ /ಹಂಪಿ",
+      "",
+      "Stone/Chariot.png",
+      "ಕಲ್ಲಿನ_ರಥ_-_ಹಂಪಿ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ವಿಕ್ರಮಾದಿತ್ಯ/ದೇವಾಲಯ",
+      "",
+      "Vikramaditya/Temple.png",
+      "ವಿಕ್ರಮಾದಿತ್ಯ_ದೇವಾಲಯ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಗೋಮಟೇಶ್ವರ",
+      "",
+      "gomateshwara.png",
+      "ಗೋಮಟೇಶ್ವರ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ನಟರಾಜ",
+      "ಗೋಮಟೇಶ್ವರ",
+      "ಸಾವಿರ ಕಂಬದ ಬಸದಿ",
+      "ನಟರಾಜ",
+      "nataraja.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಸಾವಿರ ಕಂಬದ ಬಸದಿ",
+      "ಸಾವಿರ ಕಂಬದ ಬಸದಿ",
+      "ನಟರಾಜ",
+      "ಗೋಮಟೇಶ್ವರ",
+      "Saavira/Kambada/Basadi.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "ಗೋಮಟೇಶ್ವರ",
+      "ನಟರಾಜ",
+      "ಗೋಮಟೇಶ್ವರ",
+      "ಸಾವಿರ ಕಂಬದ ಬಸದಿ",
+      "gomateshwara.png"
+    ]
+  ]
+}
