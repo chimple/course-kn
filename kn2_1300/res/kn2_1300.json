@@ -1,0 +1,124 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಸುಭಾಷ್/ಚಂದ್ರ/ಬೋಸ್.",
+      "",
+      "Subash_chandra_bose.png",
+      "Subhash_Chandra_Bose.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಮಹಾತ್ಮಾ/ಗಾಂಧಿ.",
+      "",
+      "mahatmagandhi.png",
+      "Mahatma_Gandhi.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಬಿ.ಆರ್. /ಅಂಬೇಡ್ಕರ್.",
+      "",
+      "ambedkar.png",
+      "B.R. _ Ambedkar.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಎ.ಪಿ.ಜೆ. /ಅಬ್ದುಲ್ ಕಲಾಂ.",
+      "",
+      "abdulkalaam.png",
+      "A.P.J. _ Abdul Kalam.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಮದರ್ಥೆ/ಥೆರೆಸಾ.",
+      "",
+      "mother_theresa.png",
+      "Mother_theresa.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "ಎಸ್./ರಾಧಾಕೃಷ್ಣನ್.",
+      "",
+      "s.radhakrishnan.png",
+      "S.mp3Radhakrishnan.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಪ್ರತಿಭಾ/ಪಾಟೀಲ್.",
+      "",
+      "pratibha_patil.png",
+      "Pratibha_Patil.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಸ್ವಾಮಿ/ವಿವೇಕಾನಂದ.",
+      "",
+      "swami_vivekananada.png",
+      "Swami_Vivekananda.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "ಸಾಲು ಮರದ/ತಿಮ್ಮಕ್ಕ.",
+      "",
+      "salumarada_thimmakka.png",
+      "salu_marada_thimakka.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್.",
+      "ಬಿ.ಆರ್.  ಅಂಬೇಡ್ಕರ್.",
+      "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್.",
+      "ಪ್ರತಿಭಾ ಪಾಟೀಲ್.",
+      "Subash_chandra_bose.png",
+      "",
+      "Subhash_Chandra_Bose.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಬಿ.ಆರ್.  ಅಂಬೇಡ್ಕರ್.",
+      "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್.",
+      "ಪ್ರತಿಭಾ ಪಾಟೀಲ್.",
+      "ಬಿ.ಆರ್.  ಅಂಬೇಡ್ಕರ್.",
+      "mahatmagandhi.png",
+      "",
+      "B.R. _ Ambedkar.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "ಪ್ರತಿಭಾ ಪಾಟೀಲ್.",
+      "ಪ್ರತಿಭಾ ಪಾಟೀಲ್.",
+      "ಬಿ.ಆರ್.  ಅಂಬೇಡ್ಕರ್.",
+      "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್.",
+      "mother_theresa.png",
+      "",
+      "Pratibha_Patil.mp3"
+    ]
+  ]
+}
