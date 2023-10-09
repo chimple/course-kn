@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fcd6c8bf-dd16-473e-b0cd-8e8b104a13be",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 342,
+  "platformSettings": {},
+  "subMetas": {
+    "Stone_Chariot": {
+      "ver": "1.0.6",
+      "uuid": "ff05753e-e2fd-4263-a174-82a874f4abda",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fcd6c8bf-dd16-473e-b0cd-8e8b104a13be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 342,
+      "rawWidth": 512,
+      "rawHeight": 342,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -6,7 +6,7 @@
       "Description",
       "ಸೇಂಟ್ ಫಿಲೋಮಿನಾ/ಕ್ಯಾಥೆಡ್ರಲ್.",
       "",
-      "St.mp3Philomena_cathedral.png",
+      "St.Philomena_cathedral.png",
       "ಸೇಂಟ್_ಫಿಲೋಮಿನಾ_ಕ್ಯಾಥೆಡ್ರಲ್.mp3"
     ],
     [
@@ -24,7 +24,7 @@
       "Description",
       "ಸಾವಿರ ಕಂಬದ/ಬಸದಿ",
       "",
-      "Saavira/Kambada/Basadi.png",
+      "Saavira_Kambada_Basadi.png",
       "ಸಾವಿರ_ಕಂಬದ_ಬಸದಿ.mp3"
     ],
     [
@@ -33,7 +33,7 @@
       "Description",
       "ಕಲ್ಲಿನ ರಥ /ಹಂಪಿ",
       "",
-      "Stone/Chariot.png",
+      "Stone_Chariot.png",
       "ಕಲ್ಲಿನ_ರಥ_-_ಹಂಪಿ.mp3"
     ],
     [
@@ -42,17 +42,17 @@
       "Description",
       "ವಿಕ್ರಮಾದಿತ್ಯ/ದೇವಾಲಯ",
       "",
-      "Vikramaditya/Temple.png",
+      "Virupaksha_Temple.png",
       "ವಿಕ್ರಮಾದಿತ್ಯ_ದೇವಾಲಯ.mp3"
     ],
     [
       "createsentence",
       "1",
       "Description",
-      "ಗೋಮಟೇಶ್ವರ",
+      "ಗೊಮ್ಮಟೇಶ್ವರ",
       "",
       "gomateshwara.png",
-      "ಗೋಮಟೇಶ್ವರ.mp3"
+      "ಗೊಮ್ಮಟೇಶ್ವರ.mp3"
     ],
     [
       "quizliteracy",
@@ -74,16 +74,16 @@
       "ಸಾವಿರ ಕಂಬದ ಬಸದಿ",
       "ನಟರಾಜ",
       "ಗೋಮಟೇಶ್ವರ",
-      "Saavira/Kambada/Basadi.png"
+      "Saavira_Kambada_Basadi.png"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_word",
-      "ಗೋಮಟೇಶ್ವರ",
+      "ಗೊಮ್ಮಟೇಶ್ವರ",
       "ನಟರಾಜ",
-      "ಗೋಮಟೇಶ್ವರ",
+      "ಗೊಮ್ಮಟೇಶ್ವರ",
       "ಸಾವಿರ ಕಂಬದ ಬಸದಿ",
       "gomateshwara.png"
     ]

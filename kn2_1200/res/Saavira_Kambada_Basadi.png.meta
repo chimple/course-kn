@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c74c0e8-7e24-4a22-aee2-529eb0eafcc2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 321,
+  "platformSettings": {},
+  "subMetas": {
+    "Saavira_Kambada_Basadi": {
+      "ver": "1.0.6",
+      "uuid": "3d81a013-cee8-4015-9ec4-9630d42b05fe",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c74c0e8-7e24-4a22-aee2-529eb0eafcc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 321,
+      "rawWidth": 512,
+      "rawHeight": 321,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
