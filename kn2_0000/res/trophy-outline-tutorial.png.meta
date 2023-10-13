@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f83a8dc8-4332-4ab9-9f03-6cd11cdc39c7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1000,
+  "height": 612,
+  "platformSettings": {},
+  "subMetas": {
+    "trophy-outline-tutorial": {
+      "ver": "1.0.6",
+      "uuid": "a7c06b60-6d51-4cb9-8d7c-b8c320c62cfc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f83a8dc8-4332-4ab9-9f03-6cd11cdc39c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -0.5,
+      "trimX": 193,
+      "trimY": 1,
+      "width": 610,
+      "height": 611,
+      "rawWidth": 1000,
+      "rawHeight": 612,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -55,10 +55,47 @@
       "೯"
     ],
     [
-      "writeletter",
+      "writeword",
       "1",
       "Description",
-      "೧೦"
+      "೧೦",
+      "10.png",
+      "ಹತ್ತು.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "೧",
+      "೬",
+      "೧",
+      "೪",
+      "",
+      "೧"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "೫",
+      "೨",
+      "೬",
+      "೫",
+      "",
+      "೫"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "೧೦",
+      "೧೦",
+      "೮",
+      "೪",
+      "10.png"
     ]
   ]
 }
