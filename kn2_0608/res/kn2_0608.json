@@ -1,48 +1,52 @@
 {
   "rows": [
     [
-      "spelldoor",
+      "rocket",
       "1",
       "Description",
-      "ಕುದುರೆ",
-      "***",
-      "2",
-      "1",
+      "  ಕುದುರೆ",
+      "ಕು,ದು,ರೆ",
+      "ಕು,ದು,ರೆ",
+      "ಕುದುರೆ.mp3",
       "horse.png",
-      "ಕುದುರೆ.mp3"
+      "False",
+      "False"
     ],
     [
-      "spelldoor",
+      "rocket",
       "1",
       "Description",
-      "ಸಲಹೆ",
-      "***",
-      "4",
-      "1",
+      "  ಸಲಹೆ",
+      "ಸ,ಲ,ಹೆ",
+      "ಸ,ಲ,ಹೆ",
+      "ಸಲಹೆ.mp3",
       "advise.png",
-      "ಸಲಹೆ.mp3"
+      "False",
+      "False"
     ],
     [
-      "spelldoor",
+      "rocket",
       "1",
       "Description",
-      "ಹುಡುಕು",
-      "***",
-      "4",
-      "2",
+      "  ಹುಡುಕು",
+      "ಹು,ಡು,ಕು",
+      "ಹು,ಡು,ಕು",
+      "ಹುಡುಕು.mp3",
       "search.png",
-      "ಹುಡುಕು.mp3"
+      "False",
+      "False"
     ],
     [
-      "spelldoor",
+      "rocket",
       "1",
       "Description",
-      "ಒಳ್ಳೆಯ",
-      "***",
-      "2",
-      "1",
+      "  ಒಳ್ಳೆಯ",
+      "ಒ,ಳ್ಳೆ,ಯ",
+      "ಒ,ಳ್ಳೆ,ಯ",
+      "ಒಳ್ಳೆಯ.mp3",
       "good.png",
-      "ಒಳ್ಳೆಯ.mp3"
+      "False",
+      "False"
     ],
     [
       "quizliteracy",
