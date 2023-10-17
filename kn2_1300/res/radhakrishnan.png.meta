@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "6d806cfa-f850-4c14-ab38-32446db54118",
+  "uuid": "a578810d-f42e-4819-9bf5-cd8ab3e8e9f8",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 400,
   "platformSettings": {},
   "subMetas": {
-    "s.radhakrishnan": {
+    "radhakrishnan": {
       "ver": "1.0.6",
-      "uuid": "259b9f74-d506-42a6-ba58-0fc09604cf1c",
+      "uuid": "d0960f9f-f2da-4011-8f3c-e923cc7b35a2",
       "importer": "sprite-frame",
-      "rawTextureUuid": "6d806cfa-f850-4c14-ab38-32446db54118",
+      "rawTextureUuid": "a578810d-f42e-4819-9bf5-cd8ab3e8e9f8",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
