@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "options": [
+        {
+          "text": "ಸ",
+          "audio": "ಸ.mp3"
+        },
+        {
+          "text": "ದ",
+          "audio": "ದ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ರ",
+          "audio": "ರ.mp3"
+        },
+        {
+          "text": "ಗ",
+          "audio": "ಗ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_1",
+        "text": "ಆಲಿಸಿ ಮತ್ತು ಆರಿಸಿ",
+        "audio": "ದ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ದಸರ",
+          "audio": "ದಸರ.mp3"
+        },
+        {
+          "text": "ಸದರ",
+          "audio": "ಸದರ.mp3"
+        },
+        {
+          "text": "ಅರಸ",
+          "audio": "ಅರಸ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಅಗಸ",
+          "audio": "ಅಗಸ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_2",
+        "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+        "image": "king.png"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಬ",
+          "audio": "ಬ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ರ",
+          "audio": "ರ.mp3"
+        },
+        {
+          "text": "ಅ",
+          "audio": "ಅ.mp3"
+        },
+        {
+          "text": "ಸ",
+          "audio": "ಸ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_3",
+        "text": " _ಸವ",
+        "audio": "ಬಸವ.mp3",
+        "image": "basava.png"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಪದರ",
+          "audio": "ಪದರ.mp3"
+        },
+        {
+          "text": "ವಚನ",
+          "audio": "ವಚನ.mp3"
+        },
+        {
+          "text": "ನಯನ",
+          "audio": "ನಯನ.mp3"
+        },
+        {
+          "text": "ಪವನ",
+          "audio": "ಪವನ.mp3",
+          "isCorrect": true
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_4",
+        "text": "ಆಲಿಸಿ ಮತ್ತು ಆರಿಸಿ",
+        "audio": "ಪವನ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಜಿರಾಫೆ",
+          "audio": "ಜಿರಾಫೆ.mp3"
+        },
+        {
+          "text": "ಲೇಖನಿ",
+          "audio": "ಲೇಖನಿ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಫಲಕ",
+          "audio": "ಫಲಕ.mp3"
+        },
+        {
+          "text": "ಖನಿಜ",
+          "audio": "ಖನಿಜ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_5",
+        "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+        "image": "pen.png",
+        "audio": "ಲೇಖನಿ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಪರಿವಾಳ",
+          "audio": "ಪರಿವಾಳ.mp3"
+        },
+        {
+          "text": "ಪಾರವಾಳ",
+          "audio": "ಪಾರವಾಳ.mp3"
+        },
+        {
+          "text": "ಪಾರಿವಳ",
+          "audio": "ಪಾರಿವಳ.mp3"
+        },
+        {
+          "text": "ಪಾರಿವಾಳ",
+          "audio": "ಪಾರಿವಾಳ.mp3",
+          "isCorrect": true
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_6",
+        "text": "ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ.",
+        "image": "pigeon.jfif",
+        "audio": "ಪಾರಿವಾಳ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಢಣಢಣ",
+          "audio": "ಢಣಢಣ.mp3"
+        },
+        {
+          "text": "ಝಣಝಣ",
+          "audio": "ಝಣಝಣ.mp3"
+        },
+        {
+          "text": "ಪಳಪಳ",
+          "audio": "ಪಳಪಳ.mp3"
+        },
+        {
+          "text": "ಘಮಘಮ",
+          "audio": "ಘಮಘಮ.mp3",
+          "isCorrect": true
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_7",
+        "text": "ಮಾವಿನ ಫಲದ ಪರಿಮಳ ____.",
+        "image": "mango.png",
+        "audio": "ಮಾವಿನ ಫಲದ ಪರಿಮಳ ಘಮಘಮ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಹರ",
+          "audio": "ಹರ.mp3"
+        },
+        {
+          "text": "ಗಣೇಶ",
+          "audio": "ಗಣೇಶ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ರಾಜ",
+          "audio": "ರಾಜ.mp3"
+        },
+        {
+          "text": "ರಾಮ",
+          "audio": "ರಾಮ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_8",
+        "text": "ವಾಕ್ಯ ಪೂರ್ತಿಗೊಳಿಸಿ -  ಇಲಿ ಏರಿದ _______________.",
+        "audio": "ಇಲಿ ಏರಿದ ಗಣೇಶ.mp3",
+        "image": "ganapa.png"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ನಡೆಯುವುದು",
+          "audio": "ನಡೆಯುವುದು.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ನಗುವುದು",
+          "audio": "ನಗುವುದು.mp3"
+        },
+        {
+          "text": "ಮಲಗುವುದು",
+          "audio": "ಮಲಗುವುದು.mp3"
+        },
+        {
+          "text": "ಕುಳಿತುಕೊಳ್ಳುವುದು",
+          "audio": "ಕುಳಿತುಕೊಳ್ಳುವುದು.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_9",
+        "text": "______ ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ",
+        "audio": "ನಡೆಯುವುದು ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ.mp3",
+        "image": "walking.png"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ನಗುತ್ತಾ",
+          "audio": "ನಗುತ್ತಾ.mp3"
+        },
+        {
+          "text": "ಉರುಳಾಡುತ್ತಾ",
+          "audio": "ಉರುಳಾಡುತ್ತಾ.mp3"
+        },
+        {
+          "text": "ಕುಣಿದಾಡುತ್ತಾ",
+          "audio": "ಕುಣಿದಾಡುತ್ತಾ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಅಳುತ್ತಾ",
+          "audio": "ಅಳುತ್ತಾ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_10",
+        "text": "ವಾಕ್ಯ ಪೂರ್ತಿಗೊಳಿಸಿ - ಒಂದು ಅಳಿಲು  _____  ಅಲ್ಲಿಗೆ ಬಂದಿತು.",
+        "audio": "ಒಂದು ಅಳಿಲು ಕುಣಿದಾಡುತ್ತಾ ಅಲ್ಲಿಗೆ ಬಂದಿತು.mp3",
+        "image": "squirrel.png"
+      },
+      "questionType": "text"
+    }
+  ],
+  "type": "multiOptions"
+}
