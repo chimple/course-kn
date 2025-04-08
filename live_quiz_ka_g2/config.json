@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "options": [
+        {
+          "text": "ಪುಸ್ತಕ",
+          "audio": "ಪುಸ್ತಕ.mp3"
+        },
+        {
+          "text": "ಚೆಂಡು",
+          "audio": "ಚೆಂಡು.mp3"
+        },
+        {
+          "text": "ಕನ್ನಡಕ",
+          "audio": "ಕನ್ನಡಕ.mp3"
+        },
+        {
+          "text": "ಗಡಿಯಾರ",
+          "audio": "ಗಡಿಯಾರ.mp3",
+          "isCorrect": true
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_1",
+        "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+        "image": "clock.png"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ವೈರಿ",
+          "audio": "ವೈರಿ.mp3"
+        },
+        {
+          "text": "ಸ್ನೇಹಿತ",
+          "audio": "ಸ್ನೇಹಿತ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ತಂದೆ",
+          "audio": "ತಂದೆ.mp3"
+        },
+        {
+          "text": "ಅಣ್ಣ",
+          "audio": "ಅಣ್ಣ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_2",
+        "text": "ಪದದ ಸರಿಯಾದ ಅರ್ಥವನ್ನು ಆರಿಸಿ.",
+        "audio": "ಗೆಳೆಯ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಹದಿನೆಂಟು",
+          "audio": "ಹದಿನೆಂಟು.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಹದಿಮೂರು",
+          "audio": "ಹದಿಮೂರು.mp3"
+        },
+        {
+          "text": "ಹತ್ತೊಂಬತ್ತು",
+          "audio": "ಹತ್ತೊಂಬತ್ತು.mp3"
+        },
+        {
+          "text": "ಹದಿನೈದು",
+          "audio": "ಹದಿನೈದು.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_3",
+        "text": "೧೮"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "image": "flower.png"
+        },
+        {
+          "image": "lotus.png"
+        },
+        {
+          "image": "rose.png"
+        },
+        {
+          "image": "sunflower.png",
+          "isCorrect": true
+        }
+      ],
+      "optionsType": "image",
+      "question": {
+        "id": "question_4",
+        "text": "ಪದಕ್ಕೆ ಚಿತ್ರ ಹೊಂದಿಸಿ - ಸೂರ್ಯಕಾಂತಿ",
+        "audio": "ಸೂರ್ಯಕಾಂತಿ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ತೊಗರಿ",
+          "audio": "ತೊಗರಿ.mp3"
+        },
+        {
+          "text": "ತೊಂಡೆಕಾಯಿ",
+          "audio": "ತೊಂಡೆಕಾಯಿ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ವೀಳ್ಯದೆಲೆ",
+          "audio": "ವೀಳ್ಯದೆಲೆ.mp3"
+        },
+        {
+          "text": "ಮೆಣಸಿನಕಾಯಿ",
+          "audio": "ಮೆಣಸಿನಕಾಯಿ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_5",
+        "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+        "image": "coccinia.png"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಪುಸ್ತಕವನ್ನು",
+          "audio": "ಪುಸ್ತಕವನ್ನು.mp3"
+        },
+        {
+          "text": "ಬಾಳೆಯ ಹಣ್ಣು",
+          "audio": "ಬಾಳೆಯ ಹಣ್ಣು.mp3"
+        },
+        {
+          "text": "ಬೆಲ್ಲದ ಉಂಡೆಯನ್ನು",
+          "audio": "ಬೆಲ್ಲದ ಉಂಡೆಯನ್ನು.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಅಕ್ಕಿಯ ಮೂಟೆಯನ್ನು",
+          "audio": "ಅಕ್ಕಿಯ ಮೂಟೆಯನ್ನು.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_6",
+        "text": "ಆನೆಗೆ ಅಮ್ಮನು ____ _______ ಕೊಟ್ಟಳು.",
+        "image": "mom_elephant.png",
+        "audio": "ಆನೆಗೆ ಅಮ್ಮನು ಬೆಲ್ಲದ ಉಂಡೆಯನ್ನು ಕೊಟ್ಟಳು.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ದರ್ಜಿ",
+          "audio": "ದರ್ಜಿ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಚಮ್ಮಾರ",
+          "audio": "ಚಮ್ಮಾರ.mp3"
+        },
+        {
+          "text": "ಭಟ",
+          "audio": "ಭಟ.mp3"
+        },
+        {
+          "text": "ವೈದ್ಯ",
+          "audio": "ವೈದ್ಯ.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_7",
+        "text": "ವಾಕ್ಯ ಪೂರ್ತಿಗೊಳಿಸಿ - ಬಟ್ಟೆ ಹೊಲಿಯುವವ __.",
+        "audio": "ಬಟ್ಟೆ ಹೊಲಿಯುವವ.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಸೊಂಡಲು",
+          "audio": "ಸೊಂಡಲು.mp3"
+        },
+        {
+          "text": "ಸೊಂಡಿಲು",
+          "audio": "ಸೊಂಡಿಲು.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಸೊಂಡಿಲೂ",
+          "audio": "ಸೊಂಡಿಲೂ.mp3"
+        },
+        {
+          "text": "ಸೊಡಿಲು",
+          "audio": "ಸೊಡಿಲು.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_8",
+        "text": "ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ",
+        "audio": "ಸೊಂಡಿಲು.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಮುಂಬಯಿ",
+          "audio": "ಮುಂಬಯಿ.mp3"
+        },
+        {
+          "text": "ದೆಹೆಲಿ",
+          "audio": "ದೆಹೆಲಿ.mp3"
+        },
+        {
+          "text": "ಬೆಂಗಳೂರು",
+          "audio": "ಬೆಂಗಳೂರು.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಹೈದರಾಬಾದ್",
+          "audio": "ಹೈದರಾಬಾದ್.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_9",
+        "text": "ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಯಾವುದು?",
+        "audio": "ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಯಾವುದು.mp3"
+      },
+      "questionType": "text"
+    },
+    {
+      "options": [
+        {
+          "text": "ಚಂದ್ರ",
+          "audio": "ಚಂದ್ರ.mp3",
+          "isCorrect": true
+        },
+        {
+          "text": "ಸೂರ್ಯ",
+          "audio": "ಸೂರ್ಯ.mp3"
+        },
+        {
+          "text": "ಭೂಮಿ",
+          "audio": "ಭೂಮಿ.mp3"
+        },
+        {
+          "text": "ಕಡಲು",
+          "audio": "ಕಡಲು.mp3"
+        }
+      ],
+      "optionsType": "text",
+      "question": {
+        "id": "question_10",
+        "text": "ರಾತ್ರಿವೇಳೆ ಬೆಳಕನ್ನು ಕೊಡುವವನು ಯಾರು?",
+        "audio": "ರಾತ್ರಿವೇಳೆ ಬೆಳಕನ್ನು ಕೊಡುವವನು ಯಾರು.mp3"
+      },
+      "questionType": "text"
+    }
+  ],
+  "type": "multiOptions"
+}
