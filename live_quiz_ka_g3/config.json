@@ -1,0 +1,287 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "text": "ಸ",
+                    "audio": "ಸ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ದ",
+                    "audio": "ದ.mp3"
+                },
+                {
+                    "text": "ರ",
+                    "audio": "ರ.mp3"
+                },
+                {
+                    "text": "ಗ",
+                    "audio": "ಗ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_1",
+                "text": "ಆಲಿಸಿ ಮತ್ತು ಆರಿಸಿ",
+                "audio": "ಸ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಕೋ",
+                    "audio": "ಕೋ.mp3"
+                },
+                {
+                    "text": "ತೋ",
+                    "audio": "ತೋ.mp3"
+                },
+                {
+                    "text": "ಸೊ",
+                    "audio": "ಸೊ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಮೊ",
+                    "audio": "ಮೊ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_2",
+                "text": "ಆಲಿಸಿ ಮತ್ತು ಆರಿಸಿ",
+                "audio": "ಸೊ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "peacock.png"
+                },
+                {
+                    "image": "pigeon.png"
+                },
+                {
+                    "image": "parrot.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "hen.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_3",
+                "text": "ಗಿಳಿ",
+                "audio": "ಗಿಳಿ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಆಮೆ",
+                    "audio": "ಆಮೆ.mp3"
+                },
+                {
+                    "text": "ಆನೆ",
+                    "audio": "ಆನೆ.mp3"
+                },
+                {
+                    "text": "ಅಳಿಲು",
+                    "audio": "ಅಳಿಲು.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಇಲಿ",
+                    "audio": "ಇಲಿ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_4",
+                "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+                "audio": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ.mp3",
+                "image": "squirrel.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಸು",
+                    "audio": "ಸು.mp3"
+                },
+                {
+                    "text": "ಸೂ",
+                    "audio": "ಸೂ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಶೂ",
+                    "audio": "ಶೂ.mp3"
+                },
+                {
+                    "text": "ಷು",
+                    "audio": "ಷು.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_5",
+                "text": "_ರ್ಯಕಾಂತಿ",
+                "audio": "ಸುರ್ಯಕಾಂತಿ.mp3",
+                "image": "sunflower.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ತಂತಿ",
+                    "audio": "ತಂತಿ.mp3"
+                },
+                {
+                    "text": "ಸಂತೆ",
+                    "audio": "ಸಂತೆ.mp3"
+                },
+                {
+                    "text": "ಗಣಪತಿ",
+                    "audio": "ಗಣಪತಿ.mp3"
+                },
+                {
+                    "text": "ಮಂತ್ರಿ",
+                    "audio": "ಮಂತ್ರಿ.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_6",
+                "text": "ಆಲಿಸಿ ಮತ್ತು ಆರಿಸಿ",
+                "audio": "ಮಂತ್ರಿ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಜಿರಾಫೆ",
+                    "audio": "ಜಿರಾಫೆ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಲೇಖನಿ",
+                    "audio": "ಲೇಖನಿ.mp3"
+                },
+                {
+                    "text": "ಫಲಕ",
+                    "audio": "ಫಲಕ.mp3"
+                },
+                {
+                    "text": "ಖನಿಜ",
+                    "audio": "ಖನಿಜ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_7",
+                "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+                "image": "giraffe.png",
+                "audio": "ಜಿರಾಫೆ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಒಣಮಾರ",
+                    "audio": "ಒಣಮಾರ.mp3"
+                },
+                {
+                    "text": "ಒನಮರ",
+                    "audio": "ಒನಮರ.mp3"
+                },
+                {
+                    "text": "ಓಣಮರ",
+                    "audio": "ಓಣಮರ.mp3"
+                },
+                {
+                    "text": "ಒಣಮರ",
+                    "audio": "ಒಣಮರ.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_8",
+                "text": "ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ.",
+                "image": "dry tree.png",
+                "audio": "ಒಣಮರ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಜಲಧಾರೆ",
+                    "audio": "ಜಲಧಾರೆ.mp3"
+                },
+                {
+                    "text": "ಸುರಿಮಳೆ",
+                    "audio": "ಸುರಿಮಳೆ.mp3"
+                },
+                {
+                    "text": "ಅಲೆಗಳ",
+                    "audio": "ಅಲೆಗಳ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಗುಂಪನು",
+                    "audio": "ಗುಂಪನು.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_9",
+                "text": "ಬೆಳ್ಳಿ ಮೋಡದ _______ಕಂಡು ಚಂದಿರ ಬೆದರಿಹನೇ?",
+                "audio": "ಬೆಳ್ಳಿ ಮೋಡದ ಅಲೆಗಳ ಕಂಡು ಚಂದಿರ ಬೆದರಿಹನೇ.mp3",
+                "image": "moonclouds.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ದುಃಖಿತ",
+                    "audio": "ದುಃಖಿತ.mp3"
+                },
+                {
+                    "text": "ಹರುಷದ",
+                    "audio": "ಹರುಷದ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಬೇಸರದ",
+                    "audio": "ಬೇಸರದ.mp3"
+                },
+                {
+                    "text": "ಬಿರುಸಾದ",
+                    "audio": "ಬಿರುಸಾದ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_10",
+                "text": "ಚೆಂಡಿನ ಆಟ ____ಆಟ.",
+                "audio": "ಚೆಂಡಿನ ಆಟ ಹರುಷದ ಆಟ.mp3",
+                "image": "ballgame.png"
+            },
+            "questionType": "text"
+        }
+    ],
+    "type": "multiOptions"
+}
