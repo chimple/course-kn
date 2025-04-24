@@ -1,0 +1,283 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "text": "ಪುಸ್ತಕ",
+                    "audio": "ಪುಸ್ತಕ.mp3"
+                },
+                {
+                    "text": "ಚೆಂಡು",
+                    "audio": "ಚೆಂಡು.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಕನ್ನಡಕ",
+                    "audio": "ಕನ್ನಡಕ.mp3"
+                },
+                {
+                    "text": "ಗಡಿಯಾರ",
+                    "audio": "ಗಡಿಯಾರ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_21",
+                "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+                "audio": "ಚೆಂಡು.mp3",
+                "image": "ball.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಗಡಿಯಾರ",
+                    "audio": "ಗಡಿಯಾರ.mp3"
+                },
+                {
+                    "text": "ಬೆಲೆ",
+                    "audio": "ಬೆಲೆ.mp3"
+                },
+                {
+                    "text": "ವೇಳೆ",
+                    "audio": "ವೇಳೆ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ವಾರ",
+                    "audio": "ವಾರ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_22",
+                "text": "ಪದದ ಸರಿಯಾದ ಅರ್ಥವನ್ನು ಆರಿಸಿ. - ವೇಳೆ",
+                "audio": "ವೇಳೆ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಹದಿನೆಂಟು",
+                    "audio": "ಹದಿನೆಂಟು.mp3"
+                },
+                {
+                    "text": "ಹದಿಮೂರು",
+                    "audio": "ಹದಿಮೂರು.mp3"
+                },
+                {
+                    "text": "ಹತ್ತೊಂಬತ್ತು",
+                    "audio": "ಹತ್ತೊಂಬತ್ತು.mp3"
+                },
+                {
+                    "text": "ಹದಿನೈದು",
+                    "audio": "ಹದಿನೈದು.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_23",
+                "text": "೧೫",
+                "audio": "ಹದಿನೈದು.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "flower.png"
+                },
+                {
+                    "image": "rose.png"
+                },
+                {
+                    "image": "sunflower.png"
+                },
+                {
+                    "image": "lotus.png",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_24",
+                "text": "ಪದಕ್ಕೆ ಚಿತ್ರ ಹೊಂದಿಸಿ - ಕಮಲ",
+                "audio": "ಕಮಲ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಅಕ್ಕಿ",
+                    "audio": "ಅಕ್ಕಿ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ತೊಂಡೆಕಾಯಿ",
+                    "audio": "ತೊಂಡೆಕಾಯಿ.mp3"
+                },
+                {
+                    "text": "ವೀಳ್ಯದೆಲೆ",
+                    "audio": "ವೀಳ್ಯದೆಲೆ.mp3"
+                },
+                {
+                    "text": "ಮೆಣಸಿನಕಾಯಿ",
+                    "audio": "ಮೆಣಸಿನಕಾಯಿ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_25",
+                "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+                "audio": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ.mp3",
+                "image": "rice.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಬಲೆಯಲ್ಲಿ",
+                    "audio": "ಬಲೆಯಲ್ಲಿ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ನೀರಲ್ಲಿ",
+                    "audio": "ನೀರಲ್ಲಿ.mp3"
+                },
+                {
+                    "text": "ಬರದಲ್ಲಿ",
+                    "audio": "ಬರದಲ್ಲಿ.mp3"
+                },
+                {
+                    "text": "ಬೆಲೆಯಲ್ಲಿ",
+                    "audio": "ಬೆಲೆಯಲ್ಲಿ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_26",
+                "text": "ನರಿಯ ಮರಿ _______ ಸಿಕ್ಕಿಕೊಂಡಿತು.",
+                "audio": "ನರಿಯ ಮರಿ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿತು.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಆಕಾಶಕಾಯ",
+                    "audio": "ಆಕಾಶಕಾಯ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಆಕಾಶ",
+                    "audio": "ಆಕಾಶ.mp3"
+                },
+                {
+                    "text": "ಆಶಾಲಯ",
+                    "audio": "ಆಶಾಲಯ.mp3"
+                },
+                {
+                    "text": "ಆಲಯ",
+                    "audio": "ಆಲಯ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_27",
+                "text": "ಆಕಾಶಕಾಯ",
+                "audio": "ಆಕಾಶಕಾಯ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ರಜಧಾನಿ",
+                    "audio": "ರಜಧಾನಿ.mp3"
+                },
+                {
+                    "text": "ರಾಜದಾನಿ",
+                    "audio": "ರಾಜದಾನಿ.mp3"
+                },
+                {
+                    "text": "ರಾಜಧಾಣಿ",
+                    "audio": "ರಾಜಧಾಣಿ.mp3"
+                },
+                {
+                    "text": "ರಾಜಧಾನಿ",
+                    "audio": "ರಾಜಧಾನಿ.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_28",
+                "text": "ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ",
+                "audio": "ರಾಜಧಾನಿ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ನೆಂಟರು",
+                    "audio": "ನೆಂಟರು.mp3"
+                },
+                {
+                    "text": "ರೈತರು",
+                    "audio": "ರೈತರು.mp3"
+                },
+                {
+                    "text": "ಗುರುಗಳು",
+                    "audio": "ಗುರುಗಳು.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಯೋಧರು",
+                    "audio": "ಯೋಧರು.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_29",
+                "text": "ವಿದ್ಯೆ ಕಲಿಸಿ ಹಿತವ ನುಡಿವರು ಯಾರು?",
+                "audio": "ವಿದ್ಯೆ ಕಲಿಸಿ ಹಿತವ ನುಡಿವರು ಯಾರು.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಚಂದ್ರ",
+                    "audio": "ಚಂದ್ರ.mp3"
+                },
+                {
+                    "text": "ಸೂರ್ಯ",
+                    "audio": "ಸೂರ್ಯ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಭೂಮಿ",
+                    "audio": "ಭೂಮಿ.mp3"
+                },
+                {
+                    "text": "ಕಡಲು",
+                    "audio": "ಕಡಲು.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_30",
+                "text": "ಹಗಲಿನಲ್ಲಿ ಬೆಳಕನ್ನು ಕೊಡುವವನು ಯಾರು?",
+                "audio": "ಹಗಲಿನಲ್ಲಿ ಬೆಳಕನ್ನು ಕೊಡುವವನು ಯಾರು.mp3"
+            },
+            "questionType": "text"
+        }
+    ],
+    "type": "multiOptions"
+}
